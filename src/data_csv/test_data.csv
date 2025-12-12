@@ -1,0 +1,401 @@
+video_id,frame,What limb is injured?,Is the patient intubated?,Where is the catheter inserted?,Is there bleeding?,Has the bleeding stopped?,Is the patient moving?,Is the patient breathing?,Is there a tourniquet?,Is there a chest tube?,Are the patient and instruments secured?,If a limb is missing which one?,Is there mechanical ventilation?,What is the position of the injury?
+Cric33,1566, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,,throat
+ND2,1836, no limb is injured,no,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,no,thorax
+CT2,3051, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,,thorax
+Cric22,2, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,no,throat
+ND6,1119, no limb is injured,no,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,no,thorax
+ND6,555, no limb is injured,no,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,,none,no,thorax
+CT15,1, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,,
+ND28,1000, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,,
+Cric28,612, no limb is injured,,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,no,throat
+IO19,1223, left leg,no,,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,no,lower limb
+CT14,13610, no limb is injured,,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,yes,yes,none,no,thorax
+ND6,2389, no limb is injured,no,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,no,thorax
+TQ22,22, left leg,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,,no,yes,left leg,can't identify,upper limb
+Cric22,3, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,no,throat
+Cric5,1599, no limb is injured,,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,no,throat
+CT19,2333, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,,yes,none,no,thorax
+IO26,343, right leg,,,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,no,lower limb
+TQ26,1608,,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,yes,no,yes,,can't identify,lower limb
+IO28,210, left leg,,,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,,lower limb
+Cric37,2406,,,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,yes,upper limb
+ND13,1648, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,no,thorax
+Cric23,2145, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,,
+ND26,1238, no limb is injured,no,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,can't identify,thorax
+TQ13,1714, right leg,can't identify,no catheter is used,no,there is no bleeding,yes,yes,yes,no,yes,right leg,can't identify,lower limb
+Cric22,2085, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,,throat
+ND3,2963, no limb is injured,no,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,no,thorax
+IO8,1940, left leg,no,lower limb,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,no,lower limb
+IO2,327, left leg,no,,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,no,lower limb
+CT19,1928, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,,thorax
+Cric12,1951, no limb is injured,,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,,throat
+Cric22,2677, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,yes,throat
+IO22,1351, left leg,no,,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,no,lower limb
+CT5,1960, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,yes,yes,none,no,thorax
+ND8,1091, no limb is injured,no,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,no,thorax
+CT6,1702, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,,yes,none,no,thorax
+ND28,1300, no limb is injured,,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,,
+Cric6,919, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,,throat
+ND6,1120, no limb is injured,no,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,no,thorax
+CT13,3398, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,yes,yes,none,no,thorax
+TQ12,1052, right leg,can't identify,no catheter is used,,,can't identify,can't identify,yes,no,yes,,can't identify,upper limb
+TQ26,1489,,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,yes,no,yes,,can't identify,lower limb
+IO19,817, left leg,no,,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,no,lower limb
+Cric18,1272, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,no,throat
+TQ21,480, left leg,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,yes,no,yes,left leg,can't identify,upper limb
+ND6,1586, no limb is injured,no,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,no,thorax
+Cric33,1511, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,,throat
+CT6,2091, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,,yes,none,no,thorax
+TQ6,664, right leg,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,,no,,right leg,can't identify,lower limb
+Cric28,1414, no limb is injured,,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,no,throat
+IO11,110,,,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,,lower limb
+IO35,1013,,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,can't identify,lower limb
+IO23,726, right leg,no,,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,no,lower limb
+TQ6,642, right leg,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,,no,,right leg,can't identify,lower limb
+CT3,1514, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,,yes,none,no,thorax
+TQ20,3088, left arm,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,yes,no,yes,none,,upper limb
+Cric6,1418, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,,throat
+CT12,2120, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,,yes,none,no,thorax
+ND11,1184, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,,
+ND19,358, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,can't identify,
+Cric14,2054, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,,throat
+IO28,1610, left leg,,,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,,lower limb
+ND13,1, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,,none,no,
+Cric13,2066, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,,throat
+CT2,2632, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,,yes,none,,thorax
+TQ33,1380,right arm,can't identify,no catheter is used,,,can't identify,can't identify,yes,no,yes,right leg,can't identify,lower limb
+Cric27,1224, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,no,throat
+Cric8,2330, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,,throat
+Cric26,2077, no limb is injured,,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,,throat
+IO21,1321, left leg,no,,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,no,lower limb
+ND18,1197, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,no,thorax
+ND2,380, no limb is injured,no,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,,none,no,thorax
+IO19,995, left leg,no,,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,no,lower limb
+CT27,7408, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,,yes,none,no,thorax
+IO29,1131,,can't identify,no catheter is used,no,there is no bleeding,can't identify,,no,no,yes,none,can't identify,lower limb
+IO26,1839, right leg,no,lower limb,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,no,lower limb
+Cric5,1417, no limb is injured,,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,no,throat
+TQ19,1226,,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,,no,,none,can't identify,upper limb
+IO25,12, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,,none,can't identify,
+IO20,878, left leg,no,,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,no,lower limb
+CT8,702, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,no,
+Cric28,1398, no limb is injured,,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,no,throat
+TQ19,1318,,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,,no,,none,can't identify,upper limb
+ND25,1519, no limb is injured,,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,can't identify,thorax
+ND28,1143, no limb is injured,,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,,
+ND19,1, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,can't identify,
+TQ19,3883, right leg,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,yes,no,yes,none,can't identify,upper limb
+CT15,1632, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,,yes,none,no,thorax
+TQ18,3030, left arm,,no catheter is used,no,there is no bleeding,can't identify,can't identify,yes,no,yes,none,,lower limb
+ND5,2198, no limb is injured,no,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,no,thorax
+Cric22,312, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,no,throat
+ND5,2907, no limb is injured,no,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,no,thorax
+TQ20,2309, left arm,,no catheter is used,no,there is no bleeding,can't identify,can't identify,yes,no,yes,none,no,upper limb
+ND18,1263, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,no,thorax
+CT8,815, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,,yes,none,no,thorax
+TQ23,796, left leg,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,yes,no,yes,left leg,can't identify,upper limb
+Cric5,2372, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,,throat
+IO6,2032,,no,lower limb,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,no,lower limb
+IO20,934, left leg,no,,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,no,lower limb
+IO15,60,,,,no,,can't identify,can't identify,no,no,yes,none,can't identify,
+Cric11,1711, no limb is injured,,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,,none,,throat
+IO6,1866,,no,lower limb,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,no,lower limb
+TQ19,3886, right leg,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,yes,no,yes,none,can't identify,upper limb
+ND19,1402, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,can't identify,thorax
+ND15,1439, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,no,thorax
+ND11,1654, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,,thorax
+Cric11,1369, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,,none,no,throat
+Cric34,4262, no limb is injured,,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,yes,
+Cric33,1519, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,,throat
+ND11,935, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,,
+TQ11,101, right leg,can't identify,no catheter is used,yes,no,can't identify,can't identify,,no,,none,can't identify,upper limb
+ND6,626, no limb is injured,no,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,,none,no,thorax
+CT28,823, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,,
+IO29,218,,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,can't identify,lower limb
+CT15,2790, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,yes,yes,none,no,thorax
+TQ11,359, right leg,can't identify,no catheter is used,yes,no,can't identify,can't identify,,no,,none,can't identify,upper limb
+IO33,2145, left leg,,,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,,lower limb
+IO12,2263,,no,lower limb,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,,lower limb
+IO6,531,,no,,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,no,lower limb
+IO27,2526,,,,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,no,lower limb
+IO15,1195,,,,no,,can't identify,can't identify,no,no,yes,none,can't identify,
+IO26,457, right leg,,,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,no,lower limb
+ND2,183, no limb is injured,no,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,,none,no,thorax
+CT3,1869, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,,yes,none,no,thorax
+IO12,1220,,no,,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,,lower limb
+CT3,1873, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,,yes,none,no,thorax
+TQ19,4078, right leg,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,yes,no,yes,none,can't identify,upper limb
+CT15,4077, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,yes,yes,none,no,thorax
+ND8,3373, no limb is injured,no,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,no,thorax
+TQ21,1043, left leg,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,yes,no,yes,left leg,can't identify,upper limb
+IO28,1810, left leg,,,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,,lower limb
+TQ2,151,right arm,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,,no,yes,,can't identify,lower limb
+TQ5,643, right leg,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,yes,no,yes,,can't identify,upper limb
+IO6,1329,,no,,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,no,lower limb
+Cric33,427, no limb is injured,,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,no,throat
+ND25,866, no limb is injured,,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,can't identify,thorax
+ND6,225, no limb is injured,no,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,,none,no,thorax
+IO8,1199, left leg,no,,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,no,lower limb
+TQ22,815, left leg,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,yes,no,yes,left leg,can't identify,upper limb
+IO13,924, left leg,no,,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,,lower limb
+CT5,2776, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,yes,yes,none,no,thorax
+CT6,3812, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,yes,yes,none,,thorax
+CT19,1923, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,,thorax
+Cric26,615, no limb is injured,,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,no,throat
+IO28,1724, left leg,,,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,,lower limb
+Cric35,4095, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,yes,throat
+IO26,2067, right leg,no,lower limb,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,no,lower limb
+TQ11,1882, right leg,can't identify,no catheter is used,,,can't identify,can't identify,yes,no,yes,none,can't identify,upper limb
+TQ23,1102, left leg,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,yes,no,yes,left leg,can't identify,upper limb
+ND18,1016, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,no,
+TQ26,117,,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,,,can't identify,lower limb
+IO23,3936, right leg,no,lower limb,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,no,lower limb
+Cric18,2706, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,yes,throat
+CT13,3396, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,yes,yes,none,no,thorax
+ND18,1074, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,no,
+CT19,1926, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,,thorax
+TQ26,2295,,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,yes,no,yes,,can't identify,lower limb
+IO3,1705, left leg,no,,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,no,lower limb
+Cric22,25, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,no,throat
+IO11,198,,,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,,lower limb
+CT15,52, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,,
+Cric26,2059, no limb is injured,,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,,throat
+Cric15,1876, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,,throat
+IO21,972, left leg,no,,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,no,lower limb
+Cric21,2071, no limb is injured,,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,yes,throat
+ND14,729, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,no,
+ND11,1697, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,,thorax
+ND8,1064, no limb is injured,no,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,no,thorax
+TQ20,765, left arm,no,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,no,upper limb
+Cric26,2173, no limb is injured,,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,,throat
+Cric8,580, no limb is injured,,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,no,throat
+ND14,1198, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,no,thorax
+ND5,974, no limb is injured,no,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,no,thorax
+ND5,512, no limb is injured,no,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,,none,no,thorax
+CT29,15320, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,yes,yes,none,no,thorax
+IO15,1110,,,,no,,can't identify,can't identify,no,no,yes,none,can't identify,
+IO6,2033,,no,lower limb,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,no,lower limb
+TQ3,615, right leg,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,yes,no,yes,,can't identify,lower limb
+Cric37,1, left arm,no,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,,upper limb
+ND18,585, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,no,
+TQ18,3111, left arm,,no catheter is used,no,there is no bleeding,can't identify,can't identify,yes,no,yes,none,,lower limb
+CT25,473, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,can't identify,thorax
+ND14,410, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,no,
+CT8,35, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,no,
+CT27,2803, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,,yes,none,no,thorax
+Cric25,1116, no limb is injured,,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,no,throat
+IO34,1653, left leg,,,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,,lower limb
+CT29,16383, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,yes,yes,none,no,thorax
+TQ23,877, left leg,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,yes,no,yes,left leg,can't identify,upper limb
+ND14,857, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,no,
+IO3,1721, left leg,no,,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,no,lower limb
+CT12,4032, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,,,none,no,
+TQ35,170, left leg,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,,,,,can't identify,lower limb
+CT14,10926, no limb is injured,,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,yes,yes,none,no,thorax
+CT27,4249, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,,yes,none,no,thorax
+Cric18,1831, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,,throat
+ND12,874, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,no,
+TQ18,3638, left arm,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,yes,no,yes,none,,lower limb
+Cric11,2739, no limb is injured,,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,yes,throat
+TQ34,601,,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,yes,no,,none,can't identify,
+IO26,601, right leg,,,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,no,lower limb
+IO5,1590, left leg,no,,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,no,lower limb
+Cric15,736, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,no,throat
+IO27,2743,,,,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,,lower limb
+IO19,381, left leg,no,,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,no,lower limb
+IO25,260,,,,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,,
+TQ2,1563,right arm,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,yes,no,yes,,can't identify,lower limb
+Cric25,2015, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,,throat
+Cric12,499, no limb is injured,,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,no,throat
+IO23,2005, right leg,no,,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,no,lower limb
+Cric28,314, no limb is injured,,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,no,throat
+IO34,1619, left leg,,,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,,lower limb
+CT22,2412, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,,yes,none,no,thorax
+TQ12,1159, right leg,can't identify,no catheter is used,,,can't identify,can't identify,yes,no,yes,,can't identify,upper limb
+ND8,1107, no limb is injured,no,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,no,thorax
+ND28,25, no limb is injured,,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,,none,,
+ND2,2035, no limb is injured,no,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,no,thorax
+IO35,499,,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,can't identify,lower limb
+CT8,68, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,no,
+TQ3,1, right leg,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,,no,yes,,can't identify,lower limb
+CT22,4248, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,yes,yes,none,no,thorax
+ND26,72, no limb is injured,no,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,,none,can't identify,thorax
+ND2,1473, no limb is injured,no,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,no,thorax
+TQ5,1128, right leg,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,yes,no,yes,,can't identify,upper limb
+Cric5,555, no limb is injured,,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,no,throat
+CT15,2657, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,yes,yes,none,no,thorax
+IO21,1, left leg,no,,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,no,lower limb
+TQ3,1348, right leg,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,yes,no,yes,,can't identify,lower limb
+TQ11,1879, right leg,can't identify,no catheter is used,,,can't identify,can't identify,yes,no,yes,none,can't identify,upper limb
+Cric11,2945, no limb is injured,,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,yes,throat
+ND11,1, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,,none,,
+TQ21,599, left leg,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,yes,no,yes,left leg,can't identify,upper limb
+TQ22,421, left leg,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,,no,yes,left leg,can't identify,upper limb
+IO29,784,,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,can't identify,lower limb
+IO22,1707, left leg,no,lower limb,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,no,lower limb
+Cric6,2042, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,yes,throat
+Cric34,2459, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,yes,
+IO12,1059,,no,,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,,lower limb
+IO22,1354, left leg,no,,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,no,lower limb
+IO26,155, right leg,,,no,there is no bleeding,can't identify,can't identify,no,no,,none,no,lower limb
+CT11,1406, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,,yes,none,no,thorax
+CT25,2625, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,,thorax
+CT25,1012, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,can't identify,thorax
+ND29,569, no limb is injured,,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,,thorax
+IO21,1923, left leg,no,lower limb,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,no,lower limb
+ND21,1, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,can't identify,
+Cric6,145, no limb is injured,,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,no,throat
+ND13,551, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,no,
+TQ13,1242,,can't identify,no catheter is used,no,there is no bleeding,yes,yes,yes,no,yes,,can't identify,lower limb
+Cric8,1743, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,,throat
+ND26,53, no limb is injured,no,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,,none,can't identify,thorax
+TQ12,1266, right leg,can't identify,no catheter is used,,,can't identify,can't identify,yes,no,yes,,can't identify,upper limb
+Cric35,5384, no limb is injured,,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,yes,throat
+TQ35,1351, left leg,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,yes,,,,can't identify,lower limb
+TQ6,1307, right leg,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,,no,,right leg,can't identify,lower limb
+Cric11,310, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,,none,no,throat
+ND13,1133, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,no,
+ND2,2039, no limb is injured,no,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,no,thorax
+TQ21,976, left leg,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,yes,no,yes,left leg,can't identify,upper limb
+ND18,234, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,no,
+Cric28,2553, no limb is injured,,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,yes,throat
+ND15,563, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,no,
+Cric12,2032, no limb is injured,,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,,throat
+ND8,1103, no limb is injured,no,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,no,thorax
+Cric37,2334,,,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,yes,upper limb
+TQ19,3892, right leg,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,yes,no,yes,none,can't identify,upper limb
+ND2,1287, no limb is injured,no,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,no,thorax
+IO5,367, left leg,no,,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,no,lower limb
+CT3,58, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,,none,,
+CT13,3506, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,yes,yes,none,no,thorax
+CT2,820, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,,yes,none,can't identify,thorax
+Cric23,2152, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,,
+ND12,1128, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,no,
+IO20,1603, left leg,no,,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,no,lower limb
+IO22,786, left leg,no,,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,no,lower limb
+Cric35,2799, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,,throat
+TQ21,776, left leg,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,yes,no,yes,left leg,can't identify,upper limb
+Cric22,2671, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,yes,throat
+TQ35,864, left leg,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,yes,,,left arm,can't identify,lower limb
+CT3,2872, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,yes,yes,none,no,thorax
+Cric11,1667, no limb is injured,,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,,none,,throat
+IO22,187, left leg,no,,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,no,lower limb
+ND21,640, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,can't identify,
+ND18,1153, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,no,
+ND5,1287, no limb is injured,no,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,no,thorax
+CT14,15003, no limb is injured,,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,yes,yes,none,no,thorax
+CT2,2899, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,,thorax
+IO33,2013, left leg,,,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,,lower limb
+Cric28,2102, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,,throat
+IO5,284, left leg,no,,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,no,lower limb
+IO12,1777,,no,,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,,lower limb
+Cric21,2012, no limb is injured,,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,yes,throat
+IO3,1492, left leg,no,,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,no,lower limb
+IO34,1689, left leg,,,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,,lower limb
+IO29,1035,,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,can't identify,lower limb
+IO35,37,,can't identify,,no,there is no bleeding,can't identify,can't identify,no,no,yes,,can't identify,lower limb
+CT14,5768, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,,yes,none,can't identify,thorax
+Cric21,1898, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,,throat
+TQ34,120,,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,,no,,none,can't identify,
+CT15,2023, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,,yes,none,no,thorax
+TQ23,344, left leg,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,,no,yes,left leg,can't identify,upper limb
+Cric28,2407, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,yes,throat
+IO18,1590, left leg,no,,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,no,lower limb
+IO18,905, left leg,no,,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,no,lower limb
+TQ13,827,,can't identify,no catheter is used,no,there is no bleeding,yes,yes,yes,no,yes,,can't identify,lower limb
+ND26,696, no limb is injured,no,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,can't identify,thorax
+IO13,190, left leg,no,,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,,lower limb
+Cric11,2463, no limb is injured,,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,,none,,throat
+CT13,3501, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,yes,yes,none,no,thorax
+Cric12,1992, no limb is injured,,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,,throat
+CT26,11772, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,,yes,none,can't identify,thorax
+Cric23,2156, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,,
+TQ3,825, right leg,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,yes,no,yes,,can't identify,lower limb
+CT13,2712, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,yes,yes,none,no,thorax
+CT11,128, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,no,
+Cric5,665, no limb is injured,,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,no,throat
+IO23,1617, right leg,no,,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,no,lower limb
+TQ12,1053, right leg,can't identify,no catheter is used,,,can't identify,can't identify,yes,no,yes,,can't identify,upper limb
+Cric8,3, no limb is injured,,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,no,throat
+TQ33,1568,right arm,can't identify,no catheter is used,,,can't identify,can't identify,yes,no,yes,right leg,can't identify,lower limb
+CT14,5265, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,,yes,none,can't identify,thorax
+IO33,2059, left leg,,,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,,lower limb
+IO5,671, left leg,no,,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,no,lower limb
+CT19,445, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,no,
+TQ27,379,,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,yes,no,yes,,can't identify,lower limb
+IO8,1493, left leg,no,,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,no,lower limb
+Cric11,763, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,,none,no,throat
+CT25,424, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,can't identify,thorax
+IO26,1808, right leg,no,lower limb,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,no,lower limb
+IO11,209,,,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,,lower limb
+Cric8,596, no limb is injured,,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,no,throat
+CT25,96, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,,
+IO14,871,,,,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,,lower limb
+Cric23,2842, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,yes,
+CT13,3154, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,yes,yes,none,no,thorax
+ND15,1315, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,no,thorax
+IO20,298, left leg,no,,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,no,lower limb
+CT22,1572, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,,yes,none,no,thorax
+ND21,1248, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,can't identify,thorax
+ND13,1384, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,no,thorax
+IO25,146, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,,none,can't identify,
+Cric22,2059, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,,throat
+TQ33,606,right arm,can't identify,no catheter is used,,,can't identify,can't identify,yes,no,yes,right leg,can't identify,lower limb
+ND5,1972, no limb is injured,no,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,no,thorax
+TQ22,760, left leg,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,yes,no,yes,left leg,can't identify,upper limb
+TQ25,899,right arm,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,yes,no,yes,none,can't identify,lower limb
+IO18,835, left leg,no,,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,no,lower limb
+Cric11,1821, no limb is injured,,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,,none,,throat
+TQ35,200, left leg,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,,,,,can't identify,lower limb
+IO2,2459, left leg,no,lower limb,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,no,lower limb
+IO5,1774, left leg,no,,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,no,lower limb
+IO11,1,,,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,,lower limb
+CT6,3835, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,yes,yes,none,,thorax
+IO19,1086, left leg,no,,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,no,lower limb
+TQ26,1389,,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,yes,no,yes,,can't identify,lower limb
+IO20,105, left leg,no,,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,no,lower limb
+ND6,556, no limb is injured,no,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,,none,no,thorax
+CT5,834, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,,yes,none,no,thorax
+TQ18,299, left arm,,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,can't identify,none,,lower limb
+Cric18,1221, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,no,throat
+IO11,121,,,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,,lower limb
+TQ27,1095,,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,,no,,,can't identify,
+TQ3,1066, right leg,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,yes,no,yes,,can't identify,lower limb
+CT22,2994, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,,yes,none,no,thorax
+IO15,1549,,,,no,,can't identify,can't identify,no,no,yes,none,can't identify,
+IO11,1655,,,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,,lower limb
+ND29,587, no limb is injured,no,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,no,thorax
+TQ27,277, left leg,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,,no,yes,left leg,can't identify,lower limb
+ND33,254,right arm,no,,no,yes,,,no,no,yes,,,
+Cric25,465, no limb is injured,,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,no,throat
+CT27,4935, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,,yes,none,no,thorax
+CT6,2833, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,,yes,none,,thorax
+Cric28,679, no limb is injured,,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,no,throat
+CT25,1022, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,can't identify,thorax
+Cric18,1986, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,,throat
+CT12,3318, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,,,none,no,
+ND26,1232, no limb is injured,no,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,can't identify,thorax
+ND25,1742, no limb is injured,,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,can't identify,thorax
+IO14,1452,,,,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,,lower limb
+Cric13,2051, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,,throat
+IO3,577, left leg,no,,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,no,lower limb
+CT11,3464, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,yes,yes,none,,thorax
+IO6,1872,,no,lower limb,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,no,lower limb
+ND28,1052, no limb is injured,,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,,
+CT28,7980, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,yes,yes,none,no,thorax
+ND13,1647, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,no,thorax
+CT29,18810, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,yes,yes,none,no,thorax
+Cric18,1678, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,,throat
+Cric34,3832, no limb is injured,,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,yes,
+ND25,559, no limb is injured,,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,can't identify,thorax
+TQ12,1772, right leg,can't identify,no catheter is used,no,yes,can't identify,can't identify,yes,no,yes,,can't identify,upper limb
+TQ3,1390, right leg,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,yes,no,yes,,can't identify,lower limb
+IO2,394, left leg,no,,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,no,lower limb
+TQ25,146,,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,,no,yes,none,can't identify,
+Cric18,1729, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,,throat
+IO19,1660, left leg,no,,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,no,lower limb
+Cric14,2012, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,,throat
+CT6,3832, no limb is injured,can't identify,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,yes,yes,none,,thorax
+Cric25,2, no limb is injured,,no catheter is used,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,no,throat
+IO12,483,,no,,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,,lower limb
+IO2,498, left leg,no,,no,there is no bleeding,can't identify,can't identify,no,no,yes,none,no,lower limb

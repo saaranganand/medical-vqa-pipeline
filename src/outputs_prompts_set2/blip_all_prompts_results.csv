@@ -1,0 +1,1601 @@
+Image,Frame,Model,Prompt,What limb is injured?,Is the patient intubated?,Where is the catheter inserted?,Is there bleeding?,Has the bleeding stopped?,Is the patient moving?,Is the patient breathing?,Is there a tourniquet?,Is there a chest tube?,Are the patient and instruments secured?,If a limb is missing which one?,Is there mechanical ventilation?,What is the position of the injury?
+Cric33_frame1566.jpg,1566,blip,prompt1,leg,lung cancer,eye,blood,blood,in case of accident,lung,yes,lung,in eye,leg,lunges,injury
+ND2_frame1836.jpg,1836,blip,prompt1,leg,eye,eye,blood,blood,eye,no,yes,lung,eye,eye,no,leg
+CT2_frame3051.jpg,3051,blip,prompt1,injury,yes,eyes,no,no,yes,breathing,yes,inhaler,yes,eye,yes,injury
+Cric22_frame2.jpg,2,blip,prompt1,injury,in case of death,eyes,blood,blood,in case of death,inhalation,surgery,inhalation,injectable,eye,obstructed,injury
+ND6_frame1119.jpg,1119,blip,prompt1,leg,lung,eyes,blood,blood,no,lung,yes,lung,eye,eye,no,leg
+ND6_frame555.jpg,555,blip,prompt1,leg,lung cancer,eye,blood,blood,eye,lung,yes,lung,eye,eye,eye,leg
+CT15_frame1.jpg,1,blip,prompt1,eye,eye,eyes,blood,blood,eye,lung,yes,lung,eyes,eye,eye,eye
+ND28_frame1000.jpg,1000,blip,prompt1,leg,lung cancer,eye,blood,blood,in case of injury,in case of death,yes,lung,in case of injury,leg,lunges,injury
+Cric28_frame612.jpg,612,blip,prompt1,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,eye,yes,knee
+IO19_frame1223.jpg,1223,blip,prompt1,leg,yes,eyes,blood,blood pressure,yes,inhaler,yes,hypothermia,yes,leg,yes,injury
+CT14_frame13610.jpg,13610,blip,prompt1,leg,inhaler,eyes,blood,blood,injecting,inhaler,yes,inhaler,injectable,leg,lung,leg
+ND6_frame2389.jpg,2389,blip,prompt1,leg,lung cancer,eye,blood,blood pressure,eye,lung,yes,lung,eye,eye,eye,eye
+TQ22_frame22.jpg,22,blip,prompt1,leg,blood pressure,blood,blood,blood,blood pressure,lung,surgery,blood,blood pressure,blood,blood pressure,injury
+Cric22_frame3.jpg,3,blip,prompt1,injury,in case of death,eyes,blood,blood,in case of death,in case of death,surgery,inhalation,injectable,eye,obstructed,injury
+Cric5_frame1599.jpg,1599,blip,prompt1,injury,eye,eye,blood,blood pressure,yes,no,yes,hypothermia,yes,eye,no,injury
+CT19_frame2333.jpg,2333,blip,prompt1,leg,lung,eye,blood,blood,injecting,lung,yes,lung,injecting,eye,lung,eye
+IO26_frame343.jpg,343,blip,prompt1,leg,in case of injury,eyes,blood,blood,in case of injury,inhaler,no,inhalation,no,leg,no,injury
+TQ26_frame1608.jpg,1608,blip,prompt1,leg,leg,eyes,blood,blood,in case of accident,injecting,aspro,inhalation,injecting,leg,obstructed,leg
+IO28_frame210.jpg,210,blip,prompt1,leg,hypothermia,yes,blood,blood,hypothermia,hypothermia,yes,hypothermia,yes,leg,yes,injury
+Cric37_frame2406.jpg,2406,blip,prompt1,injury,in case of injury,eye,blood,blood,in case of injury,inhalation,yes,inhalation,injectable,eye,lung,injury
+ND13_frame1648.jpg,1648,blip,prompt1,injury,in case of injury,eyes,blood,blood pressure,in case of accident,in case of death,surgery,inhaler,injectable,eye,nebulizer,injury
+Cric23_frame2145.jpg,2145,blip,prompt1,injury,yes,eyes,blood,no,yes,no,yes,no,yes,eye,yes,injury
+ND26_frame1238.jpg,1238,blip,prompt1,injury,in case of death,eyes,blood,blood,in case of death,in case of death,yes,inhalation,eye,leg,lung,injury
+TQ13_frame1714.jpg,1714,blip,prompt1,arm,lung,eye,blood,blood,yes,lung,lung,lung,in eye,eye,lung,injury
+Cric22_frame2085.jpg,2085,blip,prompt1,injury,yes,eyes,blood,blood,yes,injecting,yes,inhalation,yes,eye,yes,injury
+ND3_frame2963.jpg,2963,blip,prompt1,leg,lung cancer,eye,blood,blood,eye,lung,surgery,lung,eye,eye,eye,eye
+IO8_frame1940.jpg,1940,blip,prompt1,injury,in case of injury,eyes,blood,blood,in case of accident,inhalation,surgery,inhalation,yes,eye,yes,injury
+IO2_frame327.jpg,327,blip,prompt1,injury,in case of injury,eyes,blood,blood pressure,yes,in case of death,yes,inhalation,yes,leg,yes,injury
+CT19_frame1928.jpg,1928,blip,prompt1,lung,in case of accident,eyes,blood,blood,in case of accident,inhaler,yes,lung,eye,eye,eye,eye
+Cric12_frame1951.jpg,1951,blip,prompt1,surgery,injecting,eyes,blood,blood,yes,injecting,yes,inhalation,yes,eye,yes,injury
+Cric22_frame2677.jpg,2677,blip,prompt1,injury,in case of death,eyes,blood,blood pressure,yes,breathing,surgery,inhalation,yes,eye,yes,injury
+IO22_frame1351.jpg,1351,blip,prompt1,leg,yes,eyes,blood,blood,yes,yes,yes,hypothermia,yes,leg,yes,injury
+CT5_frame1960.jpg,1960,blip,prompt1,injury,in bed,eyes,blood,blood,in bed,breathing,yes,inhaler,eyes,eye,no,injury
+ND8_frame1091.jpg,1091,blip,prompt1,leg,eye,eye,blood,blood,eye,eye,yes,lung,eye,eye,eye,eye
+CT6_frame1702.jpg,1702,blip,prompt1,stomach,inhaler,no,hypothermia,no,yes,inhaler,yes,hypothermia,no,stomach,no idea,stomach
+ND28_frame1300.jpg,1300,blip,prompt1,leg,lung cancer,eye,blood,blood,yes,in case of death,yes,lung,yes,leg,lung,injury
+Cric6_frame919.jpg,919,blip,prompt1,injury,yes,eye,blood,blood pressure,yes,no,yes,hypothermia,yes,eye,yes,injury
+ND6_frame1120.jpg,1120,blip,prompt1,leg,lung,eyes,blood,blood,no,lung,yes,lung,eye,eye,no,leg
+CT13_frame3398.jpg,3398,blip,prompt1,injury,in case of death,eyes,blood,blood,yes,lung,yes,lung,eye,eye,lung,injury
+TQ12_frame1052.jpg,1052,blip,prompt1,leg,lung,eyes,blood,blood,no,lung,yes,lung,no,eye,no,injury
+TQ26_frame1489.jpg,1489,blip,prompt1,leg,leg,eyes,blood,blood,yes,inhaler,yes,inhalation,no,leg,lung,injury
+IO19_frame817.jpg,817,blip,prompt1,injury,in case of injury,eyes,blood,blood,yes,no,yes,hypothermia,yes,leg,no,injury
+Cric18_frame1272.jpg,1272,blip,prompt1,injury,yes,eyes,blood,blood pressure,yes,yes,yes,hypothermia,yes,leg,yes,injury
+TQ21_frame480.jpg,480,blip,prompt1,leg,in case of death,eye,blood,blood,in case of death,lung,yes,lung,eye,eye,lunges,injury
+ND6_frame1586.jpg,1586,blip,prompt1,leg,lung cancer,eye,blood,blood,no,lung,yes,lung,eye,eye,eye,eye
+Cric33_frame1511.jpg,1511,blip,prompt1,leg,lung cancer,eye,blood,blood,in case of accident,inhaler,yes,lung,in eye,leg,lunges,injury
+CT6_frame2091.jpg,2091,blip,prompt1,injury,in case of death,eyes,no,no,yes,inhaler,yes,inhaler,no,stomach,c,injury
+TQ6_frame664.jpg,664,blip,prompt1,leg,leg,eyes,blood,blood,yes,no,yes,hypothermia,no,leg,no,leg
+Cric28_frame1414.jpg,1414,blip,prompt1,leg,yes,eye,blood,blood,yes,no,yes,yes,yes,eye,yes,injury
+IO11_frame110.jpg,110,blip,prompt1,injury,yes,eyes,blood,blood,yes,inhalation,yes,inhalation,yes,arm,yes,injury
+IO35_frame1013.jpg,1013,blip,prompt1,leg,yes,no,blood,blood,yes,no,yes,hypothermia,yes,leg,yes,injury
+IO23_frame726.jpg,726,blip,prompt1,leg,no,eyes,blood,blood,no,no,no,lung,no,leg,no,injury
+TQ6_frame642.jpg,642,blip,prompt1,leg,leg,eyes,blood,blood,yes,injecting,yes,hypothermia,no,leg,no,leg
+CT3_frame1514.jpg,1514,blip,prompt1,injury,no,eyes,blood,blood,yes,no,yes,hypothermia,no,leg,no,injury
+TQ20_frame3088.jpg,3088,blip,prompt1,injury,lunges,eye,blood,blood,yes,lung,yes,lung,yes,leg,lung,injury
+Cric6_frame1418.jpg,1418,blip,prompt1,leg,yes,eyes,blood,blood,yes,injecting,yes,inhalation,yes,eye,yes,injury
+CT12_frame2120.jpg,2120,blip,prompt1,leg,no,eye,blood,blood,no,breathing,no,inhalation,no,eye,no,injury
+ND11_frame1184.jpg,1184,blip,prompt1,leg,in case of death,eyes,blood,blood pressure,in case of injury,inhalation,surgery,inhalation,injectable,eye,nebulizer,injury
+ND19_frame358.jpg,358,blip,prompt1,injury,in case of injury,eyes,blood,blood pressure,in case of injury,inhalation,surgery,inhalation,injecting,leg,obstructed,injury
+Cric14_frame2054.jpg,2054,blip,prompt1,injury,yes,eye,blood,blood pressure,yes,lung,yes,lung,yes,eye,yes,injury
+IO28_frame1610.jpg,1610,blip,prompt1,leg,hypothermia,no,hypothermia,hypothermia,hypothermia,hypothermia,yes,hypothermia,no,leg,no,leg
+ND13_frame1.jpg,1,blip,prompt1,injury,in case of death,eyes,blood,blood pressure,in case of death,in case of death,surgery,inhalation,in case of surgery,eye,nebulizer,injury
+Cric13_frame2066.jpg,2066,blip,prompt1,injury,yes,eye,blood,blood pressure,yes,lung,yes,lung,yes,eye,yes,injury
+CT2_frame2632.jpg,2632,blip,prompt1,leg,yes,eyes,hypothermia,hypothermia,yes,breathing,yes,hypothermia,yes,leg,yes,injury
+TQ33_frame1380.jpg,1380,blip,prompt1,leg,blood pressure,blood,blood,blood,blood,injecting,blood,blood,blood pressure,leg,blood,injury
+Cric27_frame1224.jpg,1224,blip,prompt1,injury,yes,eyes,blood,blood pressure,yes,injecting,yes,inhalation,yes,prosthetic leg,yes,injury
+Cric8_frame2330.jpg,2330,blip,prompt1,leg,lunges,eye,blood,blood pressure,yes,lung,yes,lung,yes,leg,lung,injury
+Cric26_frame2077.jpg,2077,blip,prompt1,injury,in case of surgery,eyes,blood,blood,yes,inhaler,yes,hypothermia,yes,eye,yes,injury
+IO21_frame1321.jpg,1321,blip,prompt1,leg,yes,eyes,blood,blood pressure,yes,inhaler,yes,hypothermia,yes,leg,yes,knee injury
+ND18_frame1197.jpg,1197,blip,prompt1,injury,in case of death,eyes,blood,blood pressure,yes,in case of death,surgery,inhaler,yes,eye,yes,injury
+ND2_frame380.jpg,380,blip,prompt1,leg,lung cancer,eye,blood,blood,no,lung,lung,lung,eye surgery,eye,lung,leg
+IO19_frame995.jpg,995,blip,prompt1,injury,in case of injury,eyes,blood,blood,yes,inhaler,yes,inhaler,no,leg,yes,injury
+CT27_frame7408.jpg,7408,blip,prompt1,arm,no,eyes,blood,blood,yes,in case of death,yes,yes,no,arm,no,injury
+IO29_frame1131.jpg,1131,blip,prompt1,leg,leg,eyes,blood,blood,yes,inhaler,yes,hypothermia,yes,leg,no,leg
+IO26_frame1839.jpg,1839,blip,prompt1,leg,lunges,eyes,blood,blood,no,lung,yes,lung,no,leg,no,injury
+Cric5_frame1417.jpg,1417,blip,prompt1,injury,yes,eye,blood,blood pressure,yes,lung,yes,hypothermia,yes,eye,yes,injury
+TQ19_frame1226.jpg,1226,blip,prompt1,leg,breast cancer,breast,blood,blood,yes,inhalation,surgery,inhalation,in eye,leg,lung,injury
+IO25_frame12.jpg,12,blip,prompt1,leg,no,eyes,blood,no,no,no,no,hypothermia,no,eye,no,eye
+IO20_frame878.jpg,878,blip,prompt1,leg,yes,eyes,blood,blood,yes,injecting,yes,blood,yes,leg,yes,injury
+CT8_frame702.jpg,702,blip,prompt1,injury,in case of death,eyes,blood,blood pressure,yes,breathing,yes,inhaler,no,eye,no,injury
+Cric28_frame1398.jpg,1398,blip,prompt1,leg,yes,eyes,blood,blood,yes,yes,yes,yes,yes,eye,yes,injury
+TQ19_frame1318.jpg,1318,blip,prompt1,leg,yes,breast,blood,blood,yes,lung,yes,yes,yes,leg,yes,injury
+ND25_frame1519.jpg,1519,blip,prompt1,injury,in case of death,eyes,blood,blood,in case of accident,inhaler,yes,inhalation,in case of accident,leg,in case of death,injury
+ND28_frame1143.jpg,1143,blip,prompt1,leg,lunges,eye,blood,blood,yes,inhaler,yes,lung,yes,leg,lung,injury
+ND19_frame1.jpg,1,blip,prompt1,injury,in case of death,eyes,blood pressure,blood pressure,in case of death,in case of death,surgery,inhalation,in case of surgery,eye,nebulizer,injury
+TQ19_frame3883.jpg,3883,blip,prompt1,leg,in case of injury,eyes,blood,blood,in case of accident,injecting,yes,inhalation,injecting,leg,c,injury
+CT15_frame1632.jpg,1632,blip,prompt1,leg,eye,eye,no,no,yes,no,yes,stomach,eye,eye,eye,eye
+TQ18_frame3030.jpg,3030,blip,prompt1,injury,lung,eyes,blood,blood,yes,lung,yes,lung,yes,leg,lung,injury
+ND5_frame2198.jpg,2198,blip,prompt1,leg,lung cancer,eye,blood,blood,eye,lung,yes,lung,eye,eye,eye,eye
+Cric22_frame312.jpg,312,blip,prompt1,injury,yes,eyes,blood,blood,yes,yes,yes,yes,yes,eye,yes,injury
+ND5_frame2907.jpg,2907,blip,prompt1,leg,lung,eye,blood,blood,eye,lung,lung,lung,eye,eye,eye,leg
+TQ20_frame2309.jpg,2309,blip,prompt1,leg,in case of death,eyes,blood,blood,in case of death,injectable,yes,inhalation,in eye,eye,lunges,injury
+ND18_frame1263.jpg,1263,blip,prompt1,injury,in case of injury,eyes,blood,blood pressure,in case of injury,injecting,surgery,inhalation,injectable,leg,obstructed,injury
+CT8_frame815.jpg,815,blip,prompt1,injury,in case of surgery,eyes,blood,blood,yes,breathing,yes,inhaler,yes,eye,yes,injury
+TQ23_frame796.jpg,796,blip,prompt1,leg,lung cancer,eyes,blood,blood,yes,lung,yes,lung,yes,leg,lung,injury
+Cric5_frame2372.jpg,2372,blip,prompt1,leg,yes,eyes,blood,blood pressure,yes,injecting,yes,hypothermia,yes,leg,yes,injury
+IO6_frame2032.jpg,2032,blip,prompt1,injury,in case of injury,eyes,blood,blood pressure,yes,in case of death,surgery,inhalation,yes,leg,yes,injury
+IO20_frame934.jpg,934,blip,prompt1,injury,blood pressure,eyes,blood,blood,yes,lung,yes,blood,yes,leg,yes,injury
+IO15_frame60.jpg,60,blip,prompt1,injury,in case of death,eyes,blood,blood,yes,in case of death,yes,hypothermia,yes,eye,yes,injury
+Cric11_frame1711.jpg,1711,blip,prompt1,leg,yes,eye,blood,blood pressure,yes,no,yes,lung,yes,eye,yes,injury
+IO6_frame1866.jpg,1866,blip,prompt1,injury,in case of injury,eyes,blood,blood pressure,yes,in case of death,surgery,inhalation,yes,leg,yes,injury
+TQ19_frame3886.jpg,3886,blip,prompt1,leg,in case of injury,eyes,blood,blood,in case of accident,injecting,surgery,inhalation,injecting,leg,c,injury
+ND19_frame1402.jpg,1402,blip,prompt1,injury,in case of injury,eyes,blood,blood pressure,in case of injury,in case of death,surgery,inhalation,surgery,injury,obstructed,injury
+ND15_frame1439.jpg,1439,blip,prompt1,injury,injectable,eyes,blood,blood pressure,yes,injecting,yes,inhalation,yes,eye,nebulizer,injury
+ND11_frame1654.jpg,1654,blip,prompt1,leg,in case of death,eyes,blood,in blood,in case of injury,in case of death,yes,inhalation,eye,eye,nene,injury
+Cric11_frame1369.jpg,1369,blip,prompt1,injury,yes,eye,blood,blood pressure,yes,no,yes,yes,yes,eye,yes,injury
+Cric34_frame4262.jpg,4262,blip,prompt1,leg,lung cancer,eye,blood,blood pressure,in case of injury,lung,yes,lung,eye surgery,eye,lunges,injury
+Cric33_frame1519.jpg,1519,blip,prompt1,leg,lung cancer,eye,blood,blood,in case of accident,lung,yes,lung,in eye,leg,lunges,injury
+ND11_frame935.jpg,935,blip,prompt1,injury,in case of death,eyes,blood,blood pressure,in case of death,in case of death,yes,inhalation,injecting,eye,lung,injury
+TQ11_frame101.jpg,101,blip,prompt1,leg,lunges,eye,blood,blood,no,lung,yes,lung,no,eye,lunges,injury
+ND6_frame626.jpg,626,blip,prompt1,leg,lung cancer,eye,blood,blood,eye,lung,yes,lung,eye,eye,eye,leg
+CT28_frame823.jpg,823,blip,prompt1,leg,in case of death,eyes,blood,blood,in case of accident,inhaler,yes,inhaler,in eye,leg,lung,injury
+IO29_frame218.jpg,218,blip,prompt1,leg,yes,yes,blood,blood,yes,no,yes,hypothermia,yes,leg,yes,injury
+CT15_frame2790.jpg,2790,blip,prompt1,leg,eye,eyes,blood,blood,eye,no,yes,lung,eye,eye,eye,eye
+TQ11_frame359.jpg,359,blip,prompt1,leg,no,eye,blood,blood,no,no,no,lung,no,leg,no,injury
+IO33_frame2145.jpg,2145,blip,prompt1,leg,hypothermia,eyes,blood,blood,hypothermia,no,yes,hypothermia,no,leg,no,leg
+IO12_frame2263.jpg,2263,blip,prompt1,injury,in case of death,eye,blood,blood pressure,yes,inhalation,surgery,inhalation,yes,blood,yes,injury
+IO6_frame531.jpg,531,blip,prompt1,injury,in case of injury,eyes,blood,blood pressure,yes,inhaler,yes,inhalation,yes,leg,yes,injury
+IO27_frame2526.jpg,2526,blip,prompt1,leg,lunges,eye,blood,blood,yes,lung,yes,lung,eye,leg,eye protection,injury
+IO15_frame1195.jpg,1195,blip,prompt1,injury,in case of injury,eyes,blood,blood,yes,inhaler,yes,inhalation,yes,eye,yes,injury
+IO26_frame457.jpg,457,blip,prompt1,leg,lunges,eye,blood,blood,lunges,lung,lunges,lung,in eye,leg,lunges,injury
+ND2_frame183.jpg,183,blip,prompt1,leg,eye,eye,blood,blood,eye,no,yes,lung,eye,eye,eye,eye
+CT3_frame1869.jpg,1869,blip,prompt1,injury,in case of death,eyes,blood,blood,yes,inhaler,yes,inhalation,no,leg,no,injury
+IO12_frame1220.jpg,1220,blip,prompt1,injury,in case of death,eyes,blood,blood,yes,injecting,yes,hypothermia,yes,leg,yes,injury
+CT3_frame1873.jpg,1873,blip,prompt1,injury,in case of death,eyes,blood,blood pressure,yes,breathing,yes,hypothermia,no,eye,no,injury
+TQ19_frame4078.jpg,4078,blip,prompt1,leg,injecting,eyes,blood,blood,injecting,injecting,surgery,inhalation,injector,leg,obstructed,leg
+CT15_frame4077.jpg,4077,blip,prompt1,injury,inhaler,eye,blood,no,yes,lung,yes,lung,yes,eye,lung,eye
+ND8_frame3373.jpg,3373,blip,prompt1,leg,lung cancer,eye,blood,blood,eye,lung,yes,lung,eye,eye,eye,eye
+TQ21_frame1043.jpg,1043,blip,prompt1,injury,in case of death,eye,blood,blood,in case of accident,in case of death,yes,lung,in eye,blood,lung,injury
+IO28_frame1810.jpg,1810,blip,prompt1,leg,yes,yes,blood,blood,yes,yes,yes,hypothermia,yes,leg,yes,knee
+TQ2_frame151.jpg,151,blip,prompt1,leg,in case of death,eyes,blood,blood,in case of death,inhaler,no,inhaler,eye,eye,eye,injury
+TQ5_frame643.jpg,643,blip,prompt1,injury,in case of injury,eyes,blood,blood,in case of injury,injecting,surgery,inhalation,injecting,eye,no,injury
+IO6_frame1329.jpg,1329,blip,prompt1,injury,in case of injury,eyes,blood,blood pressure,yes,in case of death,yes,inhalation,yes,leg,yes,injury
+Cric33_frame427.jpg,427,blip,prompt1,leg,lung cancer,eye,blood,blood,in case of accident,lung,yes,lung,eye,eye,lunges,injury
+ND25_frame866.jpg,866,blip,prompt1,leg,in case of death,eye,blood,blood,yes,inhaler,yes,inhaler,eye surgery,leg,lunges,injury
+ND6_frame225.jpg,225,blip,prompt1,leg,lung cancer,eyes,blood,blood,no,lung,yes,lung,eyes,leg,no,leg
+IO8_frame1199.jpg,1199,blip,prompt1,injury,in case of injury,eyes,blood,blood,yes,injecting,yes,blood,yes,eye,yes,injury
+TQ22_frame815.jpg,815,blip,prompt1,injury,in case of injury,eye,blood,blood,in case of injury,in case of death,yes,in case of injury,in eye,blood,lunges,injury
+IO13_frame924.jpg,924,blip,prompt1,injury,in case of injury,eyes,blood,blood,yes,inhaler,yes,hypothermia,yes,leg,yes,injury
+CT5_frame2776.jpg,2776,blip,prompt1,injury,in case of death,eyes,blood,blood,yes,inhaler,yes,inhaler,yes,eye,yes,injury
+CT6_frame3812.jpg,3812,blip,prompt1,injury,inhaler,eyes,hypothermia,no,yes,breathing,yes,hypothermia,no,stomach,nene,injury
+CT19_frame1923.jpg,1923,blip,prompt1,injury,in case of injury,eyes,blood,blood,in case of accident,inhaler,yes,lung,eye,eye,eye,eye
+Cric26_frame615.jpg,615,blip,prompt1,injury,yes,eyes,blood,blood,yes,no,yes,hypothermia,yes,eye,yes,injury
+IO28_frame1724.jpg,1724,blip,prompt1,leg,yes,no,blood,blood,yes,no,yes,hypothermia,yes,leg,yes,knee
+Cric35_frame4095.jpg,4095,blip,prompt1,leg,lung cancer,eye,blood,blood,in case of death,lung,surgery,lung,in eye,eye,lunges,injury
+IO26_frame2067.jpg,2067,blip,prompt1,leg,lung,eyes,blood,blood,no,lung,yes,lung,no,leg,no,injury
+TQ11_frame1882.jpg,1882,blip,prompt1,leg,no,eyes,blood,blood,hypothermia,lung,yes,lung,no,eye,no,injury
+TQ23_frame1102.jpg,1102,blip,prompt1,leg,lung cancer,eye,blood,blood,in case of accident,lung,yes,lung,yes,leg,lunges,injury
+ND18_frame1016.jpg,1016,blip,prompt1,injury,in case of death,eyes,blood,blood pressure,in case of death,in case of death,surgery,inhalation,surgery,eye,obstructed,injury
+TQ26_frame117.jpg,117,blip,prompt1,leg,lung cancer,eyes,blood,blood pressure,yes,lung,yes,liver,no,leg,no,injury
+IO23_frame3936.jpg,3936,blip,prompt1,leg,lunges,eyes,blood,blood,in case of accident,lung,yes,lung,in case of accident,leg,lunges,injury
+Cric18_frame2706.jpg,2706,blip,prompt1,injury,in case of death,eyes,blood,blood pressure,yes,inhalation,yes,inhalation,yes,eye,yes,injury
+CT13_frame3396.jpg,3396,blip,prompt1,injury,in case of death,eyes,blood,blood,yes,inhaler,yes,lung,eye,eye,eye,injury
+ND18_frame1074.jpg,1074,blip,prompt1,injury,in case of death,eyes,blood,blood pressure,in case of death,in case of death,surgery,inhalation,surgery,eye,nebulizer,injury
+CT19_frame1926.jpg,1926,blip,prompt1,lung,lung,eyes,blood,blood,in case of accident,inhaler,eye,lung,eye,eye,lung,eye
+TQ26_frame2295.jpg,2295,blip,prompt1,leg,lung cancer,eyes,blood,blood pressure,yes,lung,yes,hypothermia,no,leg,lunges,leg
+IO3_frame1705.jpg,1705,blip,prompt1,injury,in case of injury,eyes,blood,blood pressure,yes,inhalation,yes,inhalation,yes,leg,yes,injury
+Cric22_frame25.jpg,25,blip,prompt1,injury,in case of death,eyes,blood,blood pressure,in case of death,inhaler,surgery,inhalation,injectable,eye,obstructed,injury
+IO11_frame198.jpg,198,blip,prompt1,injury,in case of injury,eyes,blood,blood,in case of accident,inhalation,surgery,inhalation,yes,leg,yes,injury
+CT15_frame52.jpg,52,blip,prompt1,leg,eye,eye,hypothermia,no,eye,no,yes,hypothermia,eye,eye,eye,eye
+Cric26_frame2059.jpg,2059,blip,prompt1,injury,in case of surgery,eyes,blood,blood,yes,inhaler,yes,inhaler,yes,leg,yes,injury
+Cric15_frame1876.jpg,1876,blip,prompt1,injury,yes,eye,blood,blood,yes,lung,yes,lung,yes,eye,yes,injury
+IO21_frame972.jpg,972,blip,prompt1,injury,yes,no,blood,blood,yes,no,yes,lung,yes,leg,yes,injury
+Cric21_frame2071.jpg,2071,blip,prompt1,injury,yes,eye,blood,blood,yes,inhalation,yes,inhalation,yes,leg,yes,injury
+ND14_frame729.jpg,729,blip,prompt1,injury,in case of death,eyes,blood,blood pressure,in case of injury,inhaler,surgery,inhalation,injectable,eye,nebulizer,injury
+ND11_frame1697.jpg,1697,blip,prompt1,leg,in case of injury,eyes,blood,in blood,in case of injury,inhalation,yes,inhalation,in eye,eye,nebulizer,injury
+ND8_frame1064.jpg,1064,blip,prompt1,leg,lung cancer,eye,blood,blood,eye,lung,eye,lung,eye,eye,eye,eye
+TQ20_frame765.jpg,765,blip,prompt1,leg,in case of death,eyes,blood,blood,yes,lung,yes,blood,eye,eye,lunges,injury
+Cric26_frame2173.jpg,2173,blip,prompt1,injury,yes,eyes,blood,blood,yes,injecting,yes,yes,yes,eye,yes,injury
+Cric8_frame580.jpg,580,blip,prompt1,leg,no,eyes,blood,blood pressure,no,no,yes,hypothermia,eye,eye,no,injury
+ND14_frame1198.jpg,1198,blip,prompt1,leg,injectable,eyes,blood,blood pressure,in case of injury,inhalation,yes,inhalation,injectable,eye,nebulizer,injury
+ND5_frame974.jpg,974,blip,prompt1,leg,eye,eye,blood,blood,eye,eyes,yes,lung,eye,eye,eye,leg
+ND5_frame512.jpg,512,blip,prompt1,leg,eye,eye,blood,blood,eye,lung,prosthetic,lung,eye,eye,eye,leg
+CT29_frame15320.jpg,15320,blip,prompt1,leg,inhalation,eyes,blood,blood,in case of death,inhalation,surgery,inhalation,in eye,eye,lung,injury
+IO15_frame1110.jpg,1110,blip,prompt1,injury,in case of injury,eyes,blood,blood,yes,inhaler,yes,inhalation,yes,leg,yes,injury
+IO6_frame2033.jpg,2033,blip,prompt1,injury,in case of injury,eyes,blood,blood pressure,in case of accident,in case of death,surgery,inhalation,injector,leg,yes,injury
+TQ3_frame615.jpg,615,blip,prompt1,injury,in case of death,eyes,blood,blood,in case of accident,inhalation,surgery,inhalation,injecting,prosthetic,nene,injury
+Cric37_frame1.jpg,1,blip,prompt1,injury,in case of death,eyes,blood,blood,in case of death,breathing,surgery,inhalation,in operating system,eye,lung,injury
+ND18_frame585.jpg,585,blip,prompt1,injury,in case of injury,eyes,blood,blood pressure,yes,in case of death,surgery,inhalation,surgery,injury,obstructed,injury
+TQ18_frame3111.jpg,3111,blip,prompt1,injury,eye,eyes,blood,blood,yes,injecting,surgery,blood,eye,eye,eye,injury
+CT25_frame473.jpg,473,blip,prompt1,leg,no,eye,no,no,no,no,surgery,no,eye,eye,nene,eye
+ND14_frame410.jpg,410,blip,prompt1,injury,injectable,eyes,blood,blood pressure,in case of injury,inhalation,surgery,inhalation,injectable,eye,nebulizer,injury
+CT8_frame35.jpg,35,blip,prompt1,leg,inhaler,eyes,blood,blood pressure,yes,inhaler,yes,inhaler,no,eye,no,injury
+CT27_frame2803.jpg,2803,blip,prompt1,leg,in case of death,eyes,blood,blood,in case of death,inhaler,yes,inhaler,in eye,leg,no,injury
+Cric25_frame1116.jpg,1116,blip,prompt1,injury,yes,eyes,blood,blood,yes,yes,yes,yes,yes,eye,yes,injury
+IO34_frame1653.jpg,1653,blip,prompt1,leg,yes,eyes,blood,blood,yes,no,yes,hypothermia,yes,leg,yes,leg
+CT29_frame16383.jpg,16383,blip,prompt1,leg,in case of death,eyes,blood,blood,in case of death,in case of death,yes,inhalation,in eye,leg,nene,injury
+TQ23_frame877.jpg,877,blip,prompt1,injury,in case of death,eye,blood,blood,in case of accident,in eye,yes,lung,in eye,eye,lunges,injury
+ND14_frame857.jpg,857,blip,prompt1,injury,in case of injury,eyes,blood,blood pressure,in case of accident,inhaler,yes,inhalation,injectable,eye,nene,injury
+IO3_frame1721.jpg,1721,blip,prompt1,injury,injury,eyes,blood,blood pressure,yes,in case of death,yes,blood,yes,leg,yes,injury
+CT12_frame4032.jpg,4032,blip,prompt1,leg,breast cancer,breast,blood,blood,yes,inhaler,yes,inhaler,injecting,endorse,lung,injury
+TQ35_frame170.jpg,170,blip,prompt1,leg,leg,eyes,blood,blood,yes,lung,yes,hypothermia,yes,leg,lung,injury
+CT14_frame10926.jpg,10926,blip,prompt1,leg,lung,eye,blood,blood,lung,lung,lung,lung,injecting,leg,lunges,injury
+CT27_frame4249.jpg,4249,blip,prompt1,leg,lunges,eyes,blood,blood,in case of death,inhaler,yes,lung,in eye,eye,lung,injury
+Cric18_frame1831.jpg,1831,blip,prompt1,injury,in case of death,eyes,blood,blood pressure,yes,inhalation,surgery,inhalation,yes,eye,yes,injury
+ND12_frame874.jpg,874,blip,prompt1,leg,in case of death,eyes,blood,blood pressure,in case of death,inhalation,yes,inhalation,in eye,eye,nene,injury
+TQ18_frame3638.jpg,3638,blip,prompt1,injury,in case of accident,eyes,blood,blood,yes,injectable,yes,inhaler,yes,leg,obstructed,injury
+Cric11_frame2739.jpg,2739,blip,prompt1,injury,yes,eyes,blood,blood pressure,yes,injecting,yes,lung,yes,leg,yes,injury
+TQ34_frame601.jpg,601,blip,prompt1,leg,in case of injury,eyes,blood,blood,yes,injecting,yes,inhaler,injecting,leg,no,injury
+IO26_frame601.jpg,601,blip,prompt1,leg,in case of injury,eyes,blood,blood,no,inhaler,no,inhalation,no,leg,no,injury
+IO5_frame1590.jpg,1590,blip,prompt1,leg,yes,eyes,blood,blood,yes,yes,yes,yes,yes,leg,yes,injury
+Cric15_frame736.jpg,736,blip,prompt1,injury,yes,eyes,blood,blood,yes,yes,yes,yes,yes,eye,yes,injury
+IO27_frame2743.jpg,2743,blip,prompt1,leg,lung,eye,blood,blood,lung cancer,lung,lung,lung,in eye,leg,lung,injury
+IO19_frame381.jpg,381,blip,prompt1,injury,yes,eyes,blood,blood,yes,no,yes,hypothermia,yes,leg,yes,injury
+IO25_frame260.jpg,260,blip,prompt1,leg,lung,eyes,blood,blood,lung,lung,yes,lung,no,leg,lung,injury
+TQ2_frame1563.jpg,1563,blip,prompt1,injury,injecting,eyes,blood,blood,yes,injecting,surgery,inhalation,no,eye,eye,injury
+Cric25_frame2015.jpg,2015,blip,prompt1,injury,yes,eyes,blood,blood pressure,yes,inhaler,yes,inhaler,yes,leg,yes,injury
+Cric12_frame499.jpg,499,blip,prompt1,injury,yes,eye,blood,blood,yes,lung,yes,lung,yes,eye,yes,injury
+IO23_frame2005.jpg,2005,blip,prompt1,leg,lung,eyes,blood,blood,in case of accident,lung,yes,lung,in eye,leg,lung,injury
+Cric28_frame314.jpg,314,blip,prompt1,injury,lunges,eyes,blood,blood,yes,in case of death,yes,lung,yes,eye,yes,injury
+IO34_frame1619.jpg,1619,blip,prompt1,leg,yes,eyes,blood,blood,yes,no,yes,hypothermia,yes,leg,yes,leg
+CT22_frame2412.jpg,2412,blip,prompt1,injury,inhaler,eye,blood,blood,nene,inhaler,yes,inhaler,injecting,eye,nene,injury
+TQ12_frame1159.jpg,1159,blip,prompt1,leg,lunges,eye,blood,blood,yes,lung,yes,lung,eye,eye,lunges,injury
+ND8_frame1107.jpg,1107,blip,prompt1,leg,eye,eye,blood,blood,eye,lung,yes,lung,eye,eye,eye,leg
+ND28_frame25.jpg,25,blip,prompt1,injury,lunges,eyes,blood,blood,yes,in case of death,yes,yes,yes,lung,lunges,injury
+ND2_frame2035.jpg,2035,blip,prompt1,eye,eye,eye,blood,blood,eye,eye,eye,lung,eye,eye,eye,eye
+IO35_frame499.jpg,499,blip,prompt1,leg,yes,no,blood,blood,yes,no,yes,hypothermia,yes,leg,no,injury
+CT8_frame68.jpg,68,blip,prompt1,injury,inhaler,eyes,no,no,yes,inhaler,yes,hypothermia,yes,eye,no,eye
+TQ3_frame1.jpg,1,blip,prompt1,leg,injectable,eyes,blood,blood,injecting,inhaler,prosthetic,inhaler,injectable,leg,lung,injury
+CT22_frame4248.jpg,4248,blip,prompt1,leg,inhalation,eyes,blood,blood,injecting,inhaler,yes,inhalation,injecting,eye,nene,stomach
+ND26_frame72.jpg,72,blip,prompt1,leg,in case of death,eyes,blood,blood,in case of accident,inhaler,yes,hypothermia,eye,leg,lung,injury
+ND2_frame1473.jpg,1473,blip,prompt1,leg,eye,eye,blood,blood,eye,in eye,eye,lung,eye,eye,eye,eye
+TQ5_frame1128.jpg,1128,blip,prompt1,leg,lunges,eye,blood,blood,yes,lung,yes,lung,yes,leg,lunges,injury
+Cric5_frame555.jpg,555,blip,prompt1,leg,eye,eye,blood,blood pressure,yes,no,yes,hypothermia,eye,eye,eye,injury
+CT15_frame2657.jpg,2657,blip,prompt1,leg,eye,eye,blood,blood,eye,inhalation,eye,inhalation,eye,eye,eye,eye
+IO21_frame1.jpg,1,blip,prompt1,injury,in case of death,eyes,blood,blood,yes,in case of death,yes,inhaler,yes,leg,yes,injury
+TQ3_frame1348.jpg,1348,blip,prompt1,injury,injecting,eyes,blood,blood,yes,inhaler,yes,inhaler,injecting,leg,lung,injury
+TQ11_frame1879.jpg,1879,blip,prompt1,leg,no,eye,blood,blood,no,no,no,lung,no,eye,no,injury
+Cric11_frame2945.jpg,2945,blip,prompt1,injury,lunges,eye,blood,blood pressure,yes,lung,yes,lung,yes,liver,lung,injury
+ND11_frame1.jpg,1,blip,prompt1,injury,in case of death,eyes,blood,blood pressure,in case of death,in case of death,surgery,inhalation,in case of injury,eye,lung,injury
+TQ21_frame599.jpg,599,blip,prompt1,injury,in case of accident,eye,blood,blood,in case of accident,lung,yes,lung,in case of accident,eye,lunges,injury
+TQ22_frame421.jpg,421,blip,prompt1,leg,lung cancer,eye,blood,blood,in case of death,lung,surgery,lung,in eye,eye,lunges,injury
+IO29_frame784.jpg,784,blip,prompt1,leg,yes,eye,blood,blood,yes,no,yes,hypothermia,yes,leg,yes,knee
+IO22_frame1707.jpg,1707,blip,prompt1,leg,yes,eyes,blood,blood,yes,in case of death,yes,blood,yes,leg,yes,injury
+Cric6_frame2042.jpg,2042,blip,prompt1,injury,lunges,eyes,blood,blood pressure,yes,lung,yes,inhalation,yes,eye,yes,injury
+Cric34_frame2459.jpg,2459,blip,prompt1,leg,lung cancer,eye,blood,blood,in case of death,lung,yes,lung,eye,eye,lunges,injury
+IO12_frame1059.jpg,1059,blip,prompt1,injury,yes,eyes,blood,blood pressure,yes,no,yes,inhalation,yes,leg,yes,injury
+IO22_frame1354.jpg,1354,blip,prompt1,leg,yes,eyes,blood,blood pressure,yes,no,yes,hypothermia,yes,leg,yes,injury
+IO26_frame155.jpg,155,blip,prompt1,leg,lung,eyes,blood,blood,in case of accident,lung,yes,lung,no,leg,no,injury
+CT11_frame1406.jpg,1406,blip,prompt1,leg,in case of death,eyes,blood,blood,yes,inhaler,no,inhalation,no,eye,no,injury
+CT25_frame2625.jpg,2625,blip,prompt1,leg,in case of death,eye,blood,blood,in case of death,inhaler,yes,inhalation,eye,eye,eye,injury
+CT25_frame1012.jpg,1012,blip,prompt1,injury,eye,eye,no,no,yes,no,yes,hypothermia,yes,eye,eye,eye surgery
+ND29_frame569.jpg,569,blip,prompt1,injury,lunges,eye,blood,blood,in case of death,in case of death,yes,in case of surgery,in eye surgery,lung,lunges,injury
+IO21_frame1923.jpg,1923,blip,prompt1,injury,in case of injury,eyes,blood,blood,yes,in case of death,yes,inhalation,yes,leg,yes,injury
+ND21_frame1.jpg,1,blip,prompt1,injury,in case of death,eyes,blood,blood pressure,in case of death,in case of death,surgery,inhaler,injecting,eye,obstructed,injury
+Cric6_frame145.jpg,145,blip,prompt1,leg,eye,eye,blood,blood pressure,yes,no,yes,hypothermia,eye,eye,eye,injury
+ND13_frame551.jpg,551,blip,prompt1,leg,in case of death,eyes,blood,blood pressure,in case of injury,inhaler,yes,inhaler,in eye,eye,nene,injury
+TQ13_frame1242.jpg,1242,blip,prompt1,leg,in case of death,eyes,blood,blood,yes,inhaler,yes,blood,yes,leg,lung,injury
+Cric8_frame1743.jpg,1743,blip,prompt1,injury,lunges,eye,blood,blood pressure,yes,injecting,surgery,hypothermia,surgery,eye,yes,injury
+ND26_frame53.jpg,53,blip,prompt1,leg,in case of death,eyes,blood,blood,in case of death,inhaler,yes,hypothermia,eye,leg,no,injury
+TQ12_frame1266.jpg,1266,blip,prompt1,leg,no,eyes,blood,blood,no,no,no,no,no,eye,no,eye
+Cric35_frame5384.jpg,5384,blip,prompt1,lung,lung cancer,eye,blood,blood,yes,lung,yes,lung,yes,eye,lung,eye
+TQ35_frame1351.jpg,1351,blip,prompt1,leg,lung cancer,eyes,blood,blood,yes,lung,yes,blood,yes,leg,lung,injury
+TQ6_frame1307.jpg,1307,blip,prompt1,leg,no,no,blood,blood,yes,no,yes,no,no,leg,no,injury
+Cric11_frame310.jpg,310,blip,prompt1,leg,lung,eye,blood,blood,yes,inhaler,yes,hypothermia,eye,leg,lung,injury
+ND13_frame1133.jpg,1133,blip,prompt1,injury,injectable,eyes,blood,blood pressure,in case of injury,injectable nose,surgery,inhaler,injectable gloves,eye,nene,injury
+ND2_frame2039.jpg,2039,blip,prompt1,eye,eye,eye,blood,blood,eye,lung,eye,lung,eye,eye,eye,eye
+TQ21_frame976.jpg,976,blip,prompt1,leg,in case of death,eye,blood,blood,in case of accident,in case of death,yes,lung,in eye,leg,lunges,injury
+ND18_frame234.jpg,234,blip,prompt1,injury,in case of injury,eyes,blood,blood pressure,in case of injury,in case of death,surgery,inhalation,surgery,leg,obstructed,injury
+Cric28_frame2553.jpg,2553,blip,prompt1,injury,in case of surgery,eyes,blood,blood,yes,inhaler,yes,inhaler,yes,leg,lung,injury
+ND15_frame563.jpg,563,blip,prompt1,injury,in case of death,eyes,blood,blood,in case of injury,inhalation,yes,inhalation,injectable,eye,nebulizer,injury
+Cric12_frame2032.jpg,2032,blip,prompt1,injury,yes,eyes,blood,blood,yes,yes,yes,yes,yes,eye,yes,injury
+ND8_frame1103.jpg,1103,blip,prompt1,leg,lung,eye,blood,blood,eye,lung,yes,lung,eye,eye,eye,leg
+Cric37_frame2334.jpg,2334,blip,prompt1,injury,eye,eyes,blood,blood,yes,eyes,yes,inhaler,eye,eye,eye,injury
+TQ19_frame3892.jpg,3892,blip,prompt1,leg,in case of injury,eyes,blood,blood,yes,injecting,surgery,inhalation,yes,leg,yes,injury
+ND2_frame1287.jpg,1287,blip,prompt1,leg,lung cancer,eye,blood,blood,eye,lung,lung,lung,eye,eye,eye,eye
+IO5_frame367.jpg,367,blip,prompt1,injury,in case of injury,eyes,blood,blood,yes,in case of death,surgery,inhalation,yes,leg,yes,injury
+CT3_frame58.jpg,58,blip,prompt1,injury,inhaler,eyes,no,no,yes,breathing,yes,inhaler,yes,eye,yes,injury
+CT13_frame3506.jpg,3506,blip,prompt1,injury,lung cancer,breast cancer,blood,blood,lung cancer,lung,lung,lung,injecting,end of leg,lung,injury
+CT2_frame820.jpg,820,blip,prompt1,eye,yes,eyes,no,no,yes,yes,yes,hypothermia,yes,eye,yes,eye
+Cric23_frame2152.jpg,2152,blip,prompt1,injury,in case of surgery,eye,blood,blood pressure,yes,inhaler,yes,inhaler,yes,eye,yes,injury
+ND12_frame1128.jpg,1128,blip,prompt1,injury,in case of death,eyes,blood,blood pressure,in case of death,inhaler,yes,inhalation,injectable,eye,nebulizer,injury
+IO20_frame1603.jpg,1603,blip,prompt1,leg,in case of injury,eyes,blood,blood,yes,no,yes,hypothermia,yes,leg,yes,injury
+IO22_frame786.jpg,786,blip,prompt1,leg,yes,eyes,blood,blood pressure,yes,in case of death,yes,hypothermia,yes,leg,yes,injury
+Cric35_frame2799.jpg,2799,blip,prompt1,leg,in case of death,eye,blood,blood,in case of accident,inhaler,yes,lung,in eye,eye,lunges,injury
+TQ21_frame776.jpg,776,blip,prompt1,injury,in case of death,eyes,blood,blood,in case of accident,lung,yes,blood,in eye,leg,lung,injury
+Cric22_frame2671.jpg,2671,blip,prompt1,injury,in case of surgery,eyes,blood pressure,blood pressure,yes,breathing,yes,inhalation,yes,eye,yes,injury
+TQ35_frame864.jpg,864,blip,prompt1,leg,injecting,eyes,blood,blood,yes,inhaler,yes,hypothermia,no,leg,no,injury
+CT3_frame2872.jpg,2872,blip,prompt1,injury,in case of death,eyes,blood,blood,yes,inhaler,yes,inhaler,yes,eye,yes,injury
+Cric11_frame1667.jpg,1667,blip,prompt1,leg,yes,eyes,blood,blood pressure,yes,lung,yes,lung,yes,eye,yes,injury
+IO22_frame187.jpg,187,blip,prompt1,leg,yes,eyes,blood,blood,yes,no,yes,blood,yes,leg,yes,injury
+ND21_frame640.jpg,640,blip,prompt1,injury,in case of death,eyes,blood,blood pressure,yes,in case of death,surgery,inhalation,surgery,leg,obstructed,injury
+ND18_frame1153.jpg,1153,blip,prompt1,injury,in case of death,eyes,blood,blood pressure,nene,in case of death,surgery,inhalation,injecting,end of surgery,nebulizer,injury
+ND5_frame1287.jpg,1287,blip,prompt1,leg,lung cancer,eye,blood,blood,eye,lung,lung,lung,eye,eye,eye,eye
+CT14_frame15003.jpg,15003,blip,prompt1,leg,in case of death,eyes,blood,blood,in case of death,inhaler,lung,inhalation,in eye,eye,lunges,injury
+CT2_frame2899.jpg,2899,blip,prompt1,injury,yes,eyes,blood,blood pressure,yes,breathing,yes,inhaler,yes,eye,yes,injury
+IO33_frame2013.jpg,2013,blip,prompt1,leg,yes,eyes,blood,blood,yes,inhaler,yes,hypothermia,yes,leg,yes,knee
+Cric28_frame2102.jpg,2102,blip,prompt1,injury,lunges,eyes,blood,blood,yes,lung,yes,lung,yes,lung,yes,injury
+IO5_frame284.jpg,284,blip,prompt1,injury,in case of injury,eyes,blood,blood pressure,yes,inhalation,yes,hypothermia,yes,leg,yes,injury
+IO12_frame1777.jpg,1777,blip,prompt1,leg,in case of injury,eyes,blood,blood,yes,inhalation,yes,hypothermia,yes,leg,yes,injury
+Cric21_frame2012.jpg,2012,blip,prompt1,injury,in case of surgery,eye,blood,blood pressure,yes,injecting,surgery,inhalation,yes,eye,yes,injury
+IO3_frame1492.jpg,1492,blip,prompt1,leg injury,injury,eyes,blood,blood pressure,yes,inhalation,yes,inhalation,yes,leg,yes,injury
+IO34_frame1689.jpg,1689,blip,prompt1,leg,yes,eyes,blood,blood,yes,yes,yes,hypothermia,yes,leg,yes,knee
+IO29_frame1035.jpg,1035,blip,prompt1,leg,hypothermia,eye,blood,blood,no,no,yes,hypothermia,yes,leg,no,injury
+IO35_frame37.jpg,37,blip,prompt1,leg,yes,yes,blood,blood,yes,no,yes,hypothermia,yes,leg,no,leg
+CT14_frame5768.jpg,5768,blip,prompt1,leg,in case of injury,eyes,blood,blood,in case of injury,inhaler,yes,inhalation,in eye,leg,lung,leg
+Cric21_frame1898.jpg,1898,blip,prompt1,injury,yes,eyes,blood,blood pressure,yes,lunges,yes,lung,yes,eye,yes,injury
+TQ34_frame120.jpg,120,blip,prompt1,leg,leg,eyes,blood,blood pressure,yes,no,yes,hypothermia,no,leg,no,injury
+CT15_frame2023.jpg,2023,blip,prompt1,leg,in case of death,eyes,blood,blood,in case of death,inhaler,eye,lung,eye,eye,lung,eye
+TQ23_frame344.jpg,344,blip,prompt1,leg,lung cancer,eye,blood,blood,in case of accident,lung,yes,lung,in eye,leg,lunges,injury
+Cric28_frame2407.jpg,2407,blip,prompt1,injury,lung,yes,blood,blood,yes,lung,yes,yes,yes,lung,yes,injury
+IO18_frame1590.jpg,1590,blip,prompt1,injury,lunges,eyes,blood,blood,yes,lung,yes,hypothermia,yes,leg,yes,injury
+IO18_frame905.jpg,905,blip,prompt1,leg,yes,eyes,blood,blood pressure,yes,yes,yes,hypothermia,yes,leg,yes,knee injury
+TQ13_frame827.jpg,827,blip,prompt1,injury,in case of death,eyes,blood,blood,yes,injecting,yes,inhaler,injecting,leg,in case of death,injury
+ND26_frame696.jpg,696,blip,prompt1,leg,in case of death,eye,blood,blood pressure,in case of death,inhaler,yes,hypothermia,eye,leg,no,injury
+IO13_frame190.jpg,190,blip,prompt1,injury,in case of death,eyes,blood,blood pressure,yes,in case of death,yes,inhaler,yes,eye,yes,injury
+Cric11_frame2463.jpg,2463,blip,prompt1,leg,no,eye,blood,blood,yes,no,yes,hypothermia,no,eye,no,injury
+CT13_frame3501.jpg,3501,blip,prompt1,injury,lung,eye,blood,blood,lung cancer,lung,yes,lung,injecting,eye,lung,injury
+Cric12_frame1992.jpg,1992,blip,prompt1,injury,yes,eyes,blood,blood,yes,injecting,yes,yes,yes,blood,yes,injury
+CT26_frame11772.jpg,11772,blip,prompt1,leg,no,eyes,blood,no,yes,no,yes,hypothermia,no,leg,yes,injury
+Cric23_frame2156.jpg,2156,blip,prompt1,injury,eye,eye,blood,blood pressure,yes,injecting,yes,inhalation,eye,eye,yes,injury
+TQ3_frame825.jpg,825,blip,prompt1,injury,injecting,eyes,blood,blood,injecting,inhalation,surgery,inhalation,injecting,leg,nene,injury
+CT13_frame2712.jpg,2712,blip,prompt1,leg,no,eye,blood,no,no,no,no,lung,no,eye,no,injury
+CT11_frame128.jpg,128,blip,prompt1,leg,in case of death,eyes,blood,blood,no,inhaler,no,inhaler,no,eye,no,injury
+Cric5_frame665.jpg,665,blip,prompt1,injury,injecting,eye,blood,blood pressure,yes,inhaler,yes,hypothermia,yes,eye,yes,injury
+IO23_frame1617.jpg,1617,blip,prompt1,leg,no,eyes,no,no,no,no,yes,lung,no,leg,no,injury
+TQ12_frame1053.jpg,1053,blip,prompt1,leg,no,eye,blood,blood,no,no,no,lung,no,eye,no,injury
+Cric8_frame3.jpg,3,blip,prompt1,injury,lunges,eyes,blood,blood pressure,yes,injecting,surgery,inhalation,surgery,leg,obstructed,injury
+TQ33_frame1568.jpg,1568,blip,prompt1,injury,blood,blood,blood,blood,blood,blood,blood,blood,blood pressure,leg,blood,injury
+CT14_frame5265.jpg,5265,blip,prompt1,leg,in case of death,eyes,blood,blood,in case of death,inhaler,surgery,inhalation,eyes,leg,lung,injury
+IO33_frame2059.jpg,2059,blip,prompt1,leg,yes,eyes,blood,blood,yes,no,yes,hypothermia,yes,leg,no,knee
+IO5_frame671.jpg,671,blip,prompt1,injury,in case of injury,eyes,blood,blood pressure,yes,inhaler,yes,inhalation,yes,leg,yes,injury
+CT19_frame445.jpg,445,blip,prompt1,leg,in case of injury,eye,blood,blood,in case of injury,inhaler,yes,inhaler,in eye,eye,eye,eye
+TQ27_frame379.jpg,379,blip,prompt1,leg,blood pressure,eye,blood,blood,blood pressure,lung,yes,blood,eye,leg,blood,injury
+IO8_frame1493.jpg,1493,blip,prompt1,leg,in case of injury,eyes,blood,blood,yes,inhaler,yes,hypothermia,yes,leg,yes,injury
+Cric11_frame763.jpg,763,blip,prompt1,leg,injectable,eye,blood,blood pressure,yes,injecting,yes,inhalation,yes,leg,obstructed,injury
+CT25_frame424.jpg,424,blip,prompt1,leg,in case of surgery,eye,blood,blood,in case of surgery,inhalation,surgery,inhalation,eye,eye,nene,eye
+IO26_frame1808.jpg,1808,blip,prompt1,leg,no,eyes,blood,blood,no,no,no,no,no,leg,no,injury
+IO11_frame209.jpg,209,blip,prompt1,injury,in case of injury,eyes,blood,blood,in case of accident,injecting,surgery,inhalation,surgery,leg,yes,injury
+Cric8_frame596.jpg,596,blip,prompt1,leg,no,eye,blood,blood pressure,no,no,yes,hypothermia,eye,eye,no,injury
+CT25_frame96.jpg,96,blip,prompt1,leg,eye,eye,no,no,no,no,surgery,lung,eye,eye,eye,eye
+IO14_frame871.jpg,871,blip,prompt1,injury,in case of injury,eyes,blood,blood,yes,inhaler,yes,hypothermia,yes,leg,yes,injury
+Cric23_frame2842.jpg,2842,blip,prompt1,injury,yes,eyes,blood,blood pressure,yes,yes,yes,yes,yes,eye,yes,injury
+CT13_frame3154.jpg,3154,blip,prompt1,leg,in case of death,eyes,blood,blood,yes,inhaler,yes,inhalation,eye,eye,eye,injury
+ND15_frame1315.jpg,1315,blip,prompt1,injury,injectable,eyes,blood,blood pressure,in case of injury,injecting,yes,inhalation,injectable,eye,nebulizer,injury
+IO20_frame298.jpg,298,blip,prompt1,leg,in case of injury,eyes,blood,blood,yes,injecting,yes,blood,yes,leg,no,injury
+CT22_frame1572.jpg,1572,blip,prompt1,eye,in eye,eye,blood,blood,nene,in eye,yes,inhalation,eye,eye,nene,eye
+ND21_frame1248.jpg,1248,blip,prompt1,injury,in case of injury,eyes,blood,blood pressure,yes,inhalation,yes,inhalation,yes,leg,obstructed,injury
+ND13_frame1384.jpg,1384,blip,prompt1,leg,in case of injury,eyes,blood,blood pressure,in case of injury,inhalation,yes,inhalation,injectable,leg,in case of injury,injury
+IO25_frame146.jpg,146,blip,prompt1,injury,no,eyes,blood,blood,yes,lung,yes,lung,no,eye,no,injury
+Cric22_frame2059.jpg,2059,blip,prompt1,injury,in case of surgery,eye,blood,blood pressure,yes,injecting,yes,hypothermia,yes,eye,yes,injury
+TQ33_frame606.jpg,606,blip,prompt1,injury,blood,blood,blood,blood,blood,lung,blood,blood,blood,blood,blood,injury
+ND5_frame1972.jpg,1972,blip,prompt1,leg,lung,eye,blood,blood,eye,lung,yes,lung,eye,eye,eye,eye
+TQ22_frame760.jpg,760,blip,prompt1,injury,in case of death,eye,blood,blood,in case of accident,lung,yes,lung,in eye,blood,lunges,injury
+TQ25_frame899.jpg,899,blip,prompt1,leg,lung cancer,eye,blood,blood pressure,no,in case of injury,prosthetic,lung,no,leg,no,injury
+IO18_frame835.jpg,835,blip,prompt1,leg,in case of injury,eyes,blood,blood pressure,yes,inhaler,yes,hypothermia,yes,leg,yes,injury
+Cric11_frame1821.jpg,1821,blip,prompt1,leg,eye,eye,blood,blood,yes,no,yes,lung,eye,eye,eye,injury
+TQ35_frame200.jpg,200,blip,prompt1,leg,blood pressure,eyes,blood,blood,yes,inhaler,yes,blood,injecting,leg,blood,injury
+IO2_frame2459.jpg,2459,blip,prompt1,injury,in case of injury,eyes,blood,blood pressure,yes,in case of death,surgery,inhalation,yes,leg,yes,injury
+IO5_frame1774.jpg,1774,blip,prompt1,injury,yes,eyes,blood,blood pressure,yes,no,yes,hypothermia,yes,leg,yes,injury
+IO11_frame1.jpg,1,blip,prompt1,injury,in case of death,eyes,blood,blood,in case of accident,inhalation,surgery,inhalation,in eye,eye,yes,injury
+CT6_frame3835.jpg,3835,blip,prompt1,injury,stomach,no,hypothermia,no,yes,breathing,yes,hypothermia,no,stomach,no,stomach
+IO19_frame1086.jpg,1086,blip,prompt1,leg,yes,eyes,blood,blood pressure,yes,in case of death,yes,hypothermia,yes,leg,yes,injury
+TQ26_frame1389.jpg,1389,blip,prompt1,leg,leg,eyes,blood,blood,in case of injury,injecting,aspro,inhaler,injectable,leg,lung,leg
+IO20_frame105.jpg,105,blip,prompt1,injury,blood pressure,eyes,blood,blood,yes,in case of death,yes,blood,yes,leg,yes,injury
+ND6_frame556.jpg,556,blip,prompt1,leg,lung,eye,blood,blood,eye,lung,yes,lung,eye,eye,eye,leg
+CT5_frame834.jpg,834,blip,prompt1,injury,in case of death,eyes,blood,blood pressure,yes,breathing,yes,hypothermia,yes,eye,yes,injury
+TQ18_frame299.jpg,299,blip,prompt1,injury,injectable,eyes,blood,blood,in case of accident,injecting,yes,inhalation,injecting,eye,in case of death,injury
+Cric18_frame1221.jpg,1221,blip,prompt1,injury,in case of death,eyes,blood,blood pressure,yes,in case of death,yes,inhalation,yes,eye,yes,injury
+IO11_frame121.jpg,121,blip,prompt1,injury,in case of death,eyes,blood,blood,yes,no,surgery,inhalation,yes,eye,yes,injury
+TQ27_frame1095.jpg,1095,blip,prompt1,leg,blood pressure,eye,blood,blood,blood pressure,lung,yes,blood,eye,leg,lunges,injury
+TQ3_frame1066.jpg,1066,blip,prompt1,injury,in case of injury,eyes,blood,blood,yes,inhaler,yes,hypothermia,no,leg,lung,injury
+CT22_frame2994.jpg,2994,blip,prompt1,leg,injecting,eye,blood,blood,nene,inhaler,yes,inhaler,in eye,eye,nene,eye
+IO15_frame1549.jpg,1549,blip,prompt1,injury,in case of death,eyes,blood,blood,yes,in case of death,yes,inhaler,yes,eye,yes,injury
+IO11_frame1655.jpg,1655,blip,prompt1,leg,in case of injury,eyes,blood,blood,yes,injecting,yes,inhalation,yes,leg,no,injury
+ND29_frame587.jpg,587,blip,prompt1,lung cancer,lunges,eyes,blood,blood,yes,breathing,yes,lung,yes,eye,lung,injury
+TQ27_frame277.jpg,277,blip,prompt1,leg,blood pressure,eye,blood,blood,blood,lung,blood,blood,eye,leg,blood,injury
+ND33_frame254.jpg,254,blip,prompt1,leg,lung,eyes,blood,blood,in case of death,in case of death,yes,inhalation,injecting,leg,lung,injury
+Cric25_frame465.jpg,465,blip,prompt1,injury,in case of surgery,eyes,blood,blood pressure,yes,inhaler,yes,inhalation,yes,eye,yes,injury
+CT27_frame4935.jpg,4935,blip,prompt1,lung,lung,eyes,blood,blood,yes,lung,yes,lung,yes,eye,lung,injury
+CT6_frame2833.jpg,2833,blip,prompt1,injury,in case of surgery,eyes,blood,blood,yes,inhalation,yes,inhalation,no,c,c,injury
+Cric28_frame679.jpg,679,blip,prompt1,leg,yes,eye,yes,yes,yes,yes,yes,yes,yes,eye,yes,knee
+CT25_frame1022.jpg,1022,blip,prompt1,eye,no,eye,no,no,no,no,yes,hypothermia,yes,eye,no,eye surgery
+Cric18_frame1986.jpg,1986,blip,prompt1,injury,yes,eyes,blood,blood pressure,yes,lung,yes,lung,yes,leg,yes,injury
+CT12_frame3318.jpg,3318,blip,prompt1,leg,inhalation,eyes,blood,blood,hypothermia,inhaler,yes,inhalation,eye,eye,eye,injury
+ND26_frame1232.jpg,1232,blip,prompt1,injury,in case of death,eye,blood,blood,in case of accident,inhaler,yes,inhalation,eye,leg,lung,injury
+ND25_frame1742.jpg,1742,blip,prompt1,leg,in case of death,eye,blood,blood,yes,inhaler,yes,inhaler,eye,eye,lung,injury
+IO14_frame1452.jpg,1452,blip,prompt1,injury,in case of injury,eye,blood,blood,yes,in case of death,yes,lung,yes,leg,yes,injury
+Cric13_frame2051.jpg,2051,blip,prompt1,injury,yes,eye,blood,blood pressure,yes,injecting,yes,lung,yes,eye,yes,injury
+IO3_frame577.jpg,577,blip,prompt1,injury,in case of injury,eyes,blood,blood pressure,yes,in case of death,yes,inhalation,yes,leg,yes,injury
+CT11_frame3464.jpg,3464,blip,prompt1,leg,lung,eyes,blood,blood,yes,lung,yes,lung,yes,eye,lung,eye
+IO6_frame1872.jpg,1872,blip,prompt1,injury,in case of injury,eyes,blood,blood pressure,yes,in case of death,yes,inhalation,yes,leg,yes,injury
+ND28_frame1052.jpg,1052,blip,prompt1,leg,lung,eye,blood,blood,yes,inhaler,yes,yes,yes,leg,lung,injury
+CT28_frame7980.jpg,7980,blip,prompt1,injury,yes,eyes,blood,blood pressure,yes,inhaler,yes,yes,yes,liver,yes,injury
+ND13_frame1647.jpg,1647,blip,prompt1,injury,in case of injury,eyes,blood,blood pressure,in case of accident,in case of death,surgery,inhalation,injectable,eye,nebulizer,injury
+CT29_frame18810.jpg,18810,blip,prompt1,injury,injecting,eyes,blood,blood,in case of death,inhalation,surgery,inhalation,injecting,leg,lung,injury
+Cric18_frame1678.jpg,1678,blip,prompt1,injury,in case of death,eyes,blood,blood pressure,yes,breathing,surgery,inhalation,yes,leg,yes,injury
+Cric34_frame3832.jpg,3832,blip,prompt1,leg,lung cancer,eye,blood,blood pressure,in case of injury,lung,surgery,lung,eye,eye,lunges,injury
+ND25_frame559.jpg,559,blip,prompt1,leg,in case of death,eyes,blood,blood,in case of accident,inhaler,yes,hypothermia,eye,leg,no,injury
+TQ12_frame1772.jpg,1772,blip,prompt1,leg,lung,eye,blood,blood,no,lung,no,lung,no,eye,no,injury
+TQ3_frame1390.jpg,1390,blip,prompt1,leg,inhalation,eyes,blood,blood,injecting,inhalation,yes,inhalation,injector,eye,in case of injury,injury
+IO2_frame394.jpg,394,blip,prompt1,injury,in case of injury,eyes,blood,blood pressure,yes,inhalation,yes,inhalation,yes,leg,yes,injury
+TQ25_frame146.jpg,146,blip,prompt1,leg,lung cancer,eye,blood,blood,in case of accident,inhaler,yes,lung,in eye,leg,lunges,injury
+Cric18_frame1729.jpg,1729,blip,prompt1,injury,in case of death,eyes,blood,blood,yes,inhalation,yes,inhalation,yes,eye,yes,injury
+IO19_frame1660.jpg,1660,blip,prompt1,injury,blood pressure,eyes,blood,blood,yes,in case of death,yes,blood,yes,blood,yes,injury
+Cric14_frame2012.jpg,2012,blip,prompt1,injury,yes,eye,blood,blood,yes,yes,yes,yes,yes,eye,yes,injury
+CT6_frame3832.jpg,3832,blip,prompt1,injury,inhaler,eyes,hypothermia,no,yes,breathing,yes,hypothermia,no,eye,no,injury
+Cric25_frame2.jpg,2,blip,prompt1,injury,in case of death,eyes,blood,blood pressure,yes,breathing,surgery,inhalation,yes,eye,yes,injury
+IO12_frame483.jpg,483,blip,prompt1,injury,yes,eyes,blood,blood,yes,no,yes,lung,yes,eye,yes,injury
+IO2_frame498.jpg,498,blip,prompt1,leg,yes,eyes,blood,blood,yes,no,yes,blood,yes,leg,yes,injury
+Cric33_frame1566.jpg,1566,blip,prompt2,arm,no,eye,no,no,no,no,yes,no,no,blood pressure,no,lower leg
+ND2_frame1836.jpg,1836,blip,prompt2,arm,no,no,no,no,no,no,yes,breast cancer,no,leg,no,lower leg
+CT2_frame3051.jpg,3051,blip,prompt2,left leg,no,no,no,no,no,no,yes,no,no,no,no,stomach
+Cric22_frame2.jpg,2,blip,prompt2,arm,no,no,no,no,no,no,no,no,no,arm,no,lower back
+ND6_frame1119.jpg,1119,blip,prompt2,arm,no,no,no,no,no,no,yes,breast cancer,no,no,no,lower leg
+ND6_frame555.jpg,555,blip,prompt2,arm,no,breast cancer,no,no,no,no,yes,breast cancer,no,eye,eye,lower leg
+CT15_frame1.jpg,1,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,no,no,stomach
+ND28_frame1000.jpg,1000,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,blood,eyes,lower back
+Cric28_frame612.jpg,612,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,yes,no,lower leg
+IO19_frame1223.jpg,1223,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,yes,no,lower leg
+CT14_frame13610.jpg,13610,blip,prompt2,arm,no,no,no,no,no,no,yes,breast,no,leg,eyes,leg
+ND6_frame2389.jpg,2389,blip,prompt2,arm,no,breast cancer,no,no,no,no,yes,breast cancer,no,blood pressure,no,lower leg
+TQ22_frame22.jpg,22,blip,prompt2,arm,red eye,blood,blood,blood,no,no,yes,no,no,blood,yes,lower leg
+Cric22_frame3.jpg,3,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,eye,no,stomach
+Cric5_frame1599.jpg,1599,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,no,no,lower leg
+CT19_frame2333.jpg,2333,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,no,no,stomach
+IO26_frame343.jpg,343,blip,prompt2,arm,no,no,no,no,no,no,no,no,no,leg,no,lower leg
+TQ26_frame1608.jpg,1608,blip,prompt2,arm,bdsm,no,blood,bdsm,no,no,yes,b,no,blood,eyes,lower leg
+IO28_frame210.jpg,210,blip,prompt2,arm,b,no,no,b,no,b,yes,i don ' t know,no,yes,no,lower leg
+Cric37_frame2406.jpg,2406,blip,prompt2,arm,b,no,no,no,no,no,yes,b,b,c,no,lower back
+ND13_frame1648.jpg,1648,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,e,no,lower leg
+Cric23_frame2145.jpg,2145,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,left leg,no,lower leg
+ND26_frame1238.jpg,1238,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,left leg,no,lower leg
+TQ13_frame1714.jpg,1714,blip,prompt2,arm,b,breast,no,no,no,no,yes,no,no,arm,no,arm
+Cric22_frame2085.jpg,2085,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,arm,no,arm
+ND3_frame2963.jpg,2963,blip,prompt2,arm,b,breast cancer,breast cancer,no,no,no,yes,breast cancer,b,blood,no,eye
+IO8_frame1940.jpg,1940,blip,prompt2,arm,no,no,no,no,no,no,no,no,no,arm,no,arm
+IO2_frame327.jpg,327,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,yes,no,lower leg
+CT19_frame1928.jpg,1928,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,eye,no,eye
+Cric12_frame1951.jpg,1951,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,left,no,lower leg
+Cric22_frame2677.jpg,2677,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,no,no,lower back
+IO22_frame1351.jpg,1351,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,blood,no,lower leg
+CT5_frame1960.jpg,1960,blip,prompt2,arm,no,no,no,no,no,no,no,no,no,no,no,stomach
+ND8_frame1091.jpg,1091,blip,prompt2,arm,no,breast,no,no,no,no,yes,breast cancer,no,leg,no,lower leg
+CT6_frame1702.jpg,1702,blip,prompt2,arm,no,no,no,no,no,no,no,no,no,no,no,stomach
+ND28_frame1300.jpg,1300,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,left leg,no,lower back
+Cric6_frame919.jpg,919,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,eye,no,lower leg
+ND6_frame1120.jpg,1120,blip,prompt2,arm,no,no,no,no,no,no,yes,breast cancer,no,no,no,lower leg
+CT13_frame3398.jpg,3398,blip,prompt2,arm,no,no,no,no,no,no,yes,breast cancer,no,no,no,arm
+TQ12_frame1052.jpg,1052,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,left leg,no,stomach
+TQ26_frame1489.jpg,1489,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,leg,no,leg
+IO19_frame817.jpg,817,blip,prompt2,arm,no,no,no,no,no,no,no,no,no,arm,no,arm
+Cric18_frame1272.jpg,1272,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,left leg,no,lower leg
+TQ21_frame480.jpg,480,blip,prompt2,arm,no,eye,blood,no,no,no,yes,no,no,blood,eyes,arm
+ND6_frame1586.jpg,1586,blip,prompt2,arm,no,breast cancer,no,no,no,no,yes,breast cancer,no,blood,no,lower leg
+Cric33_frame1511.jpg,1511,blip,prompt2,arm,no,eye,no,no,no,no,yes,no,no,blood,no,lower leg
+CT6_frame2091.jpg,2091,blip,prompt2,arm,no,no,no,no,no,no,no,no,no,arm,eyes,stomach
+TQ6_frame664.jpg,664,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,left leg,no,lower leg
+Cric28_frame1414.jpg,1414,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,no,no,lower leg
+IO11_frame110.jpg,110,blip,prompt2,arm,no,no,no,no,no,no,no,no,no,arm,no,arm
+IO35_frame1013.jpg,1013,blip,prompt2,arm,yes,no,yes,yes,yes,no,yes,no,no,left leg,no,lower leg
+IO23_frame726.jpg,726,blip,prompt2,arm,no,no,no,no,no,no,no,no,no,no,no,lower back
+TQ6_frame642.jpg,642,blip,prompt2,arm,b,no,no,b,no,no,yes,no,no,left leg,no,lower leg
+CT3_frame1514.jpg,1514,blip,prompt2,left leg,no,no,no,no,no,no,no,no,no,no,no,lower back
+TQ20_frame3088.jpg,3088,blip,prompt2,arm,b,no,yes,yes,no,no,yes,no,no,blood,no,arm
+Cric6_frame1418.jpg,1418,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,eye,no,lower leg
+CT12_frame2120.jpg,2120,blip,prompt2,arm,no,no,no,no,no,no,no,breast,no,no,no,stomach
+ND11_frame1184.jpg,1184,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,e,no,arm
+ND19_frame358.jpg,358,blip,prompt2,arm,no,no,no,no,no,no,no,no,no,arm,no,lower back
+Cric14_frame2054.jpg,2054,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,left leg,no,lower leg
+IO28_frame1610.jpg,1610,blip,prompt2,arm,b,no,no,b,no,b,yes,b,b,c,no,lower leg
+ND13_frame1.jpg,1,blip,prompt2,arm,no,breast,no,no,no,no,no,no,no,e,no,stomach
+Cric13_frame2066.jpg,2066,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,no,no,lower leg
+CT2_frame2632.jpg,2632,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,left leg,no,stomach
+TQ33_frame1380.jpg,1380,blip,prompt2,arm,b,b,blood,b,no,b,no,b,b,blood,no,lower back
+Cric27_frame1224.jpg,1224,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,no,no,lower back
+Cric8_frame2330.jpg,2330,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,yes,no,lower leg
+Cric26_frame2077.jpg,2077,blip,prompt2,left leg,no,no,no,no,no,no,yes,no,no,left leg,no,lower leg
+IO21_frame1321.jpg,1321,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,yes,no,lower leg
+ND18_frame1197.jpg,1197,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,arm,no,arm
+ND2_frame380.jpg,380,blip,prompt2,arm,b,no,no,no,no,no,yes,breast cancer,no,leg,no,lower leg
+IO19_frame995.jpg,995,blip,prompt2,arm,no,no,no,no,no,no,no,no,no,arm,no,arm
+CT27_frame7408.jpg,7408,blip,prompt2,arm,no,no,no,no,no,no,no,no,no,no,no,arm
+IO29_frame1131.jpg,1131,blip,prompt2,arm,b,no,no,b,no,b,yes,b,b,yes,no,leg
+IO26_frame1839.jpg,1839,blip,prompt2,arm,no,no,no,no,no,no,no,no,no,x,no,lower leg
+Cric5_frame1417.jpg,1417,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,no,no,lower leg
+TQ19_frame1226.jpg,1226,blip,prompt2,arm,b,no,yes,b,no,b,yes,b,b,arm,no,lower back
+IO25_frame12.jpg,12,blip,prompt2,left leg,no,no,no,no,no,no,no,no,no,no,no,stomach
+IO20_frame878.jpg,878,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,blood,no,lower leg
+CT8_frame702.jpg,702,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,left leg,no,stomach
+Cric28_frame1398.jpg,1398,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,left leg,no,lower leg
+TQ19_frame1318.jpg,1318,blip,prompt2,arm,no,no,yes,yes,no,no,yes,no,no,left leg,no,lower back
+ND25_frame1519.jpg,1519,blip,prompt2,arm,no,no,yes,yes,no,no,yes,no,no,blood,no,lower leg
+ND28_frame1143.jpg,1143,blip,prompt2,arm,b,no,no,no,no,no,yes,no,no,blood,eyes,lower back
+ND19_frame1.jpg,1,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,e,no,lower leg
+TQ19_frame3883.jpg,3883,blip,prompt2,arm,b,breast,blood,b,no,b,yes,b,b,blood,breast,arm
+CT15_frame1632.jpg,1632,blip,prompt2,arm,no,no,no,no,no,no,no,no,no,no,no,stomach
+TQ18_frame3030.jpg,3030,blip,prompt2,arm,b,no,blood,yes,no,no,yes,i don ' t know,no,arm,no,lower leg
+ND5_frame2198.jpg,2198,blip,prompt2,arm,no,breast cancer,no,no,no,no,yes,breast cancer,no,blood pressure,no,lower leg
+Cric22_frame312.jpg,312,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,left leg,no,arm
+ND5_frame2907.jpg,2907,blip,prompt2,arm,no,breast cancer,no,no,no,no,yes,breast cancer,no,leg,no,lower leg
+TQ20_frame2309.jpg,2309,blip,prompt2,arm,b,breast,no,no,no,no,yes,i don ' t know,no,x,eyes,stomach
+ND18_frame1263.jpg,1263,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,e,no,arm
+CT8_frame815.jpg,815,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,left leg,no,stomach
+TQ23_frame796.jpg,796,blip,prompt2,arm,no,no,no,no,no,no,yes,chest,no,left,no,lower leg
+Cric5_frame2372.jpg,2372,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,left,no,lower leg
+IO6_frame2032.jpg,2032,blip,prompt2,arm,no,no,blood,no,no,no,yes,no,no,blood,no,lower leg
+IO20_frame934.jpg,934,blip,prompt2,arm,no,no,blood,no,no,no,yes,no,no,blood,no,lower leg
+IO15_frame60.jpg,60,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,left leg,no,lower leg
+Cric11_frame1711.jpg,1711,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,eye,no,lower leg
+IO6_frame1866.jpg,1866,blip,prompt2,arm,no,no,blood,no,no,no,yes,no,no,blood,no,lower leg
+TQ19_frame3886.jpg,3886,blip,prompt2,arm,b,breast,blood,red eye,no,no,yes,breast,b,blood,no,arm
+ND19_frame1402.jpg,1402,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,arm,no,lower back
+ND15_frame1439.jpg,1439,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,no,no,lower leg
+ND11_frame1654.jpg,1654,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,leg,no,lower leg
+Cric11_frame1369.jpg,1369,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,no,no,lower leg
+Cric34_frame4262.jpg,4262,blip,prompt2,arm,no,eye,no,no,no,no,yes,no,no,eye,no,lower leg
+Cric33_frame1519.jpg,1519,blip,prompt2,arm,no,eye,no,no,no,no,yes,no,no,blood,no,lower leg
+ND11_frame935.jpg,935,blip,prompt2,arm,no,no,no,no,no,no,no,no,no,arm,no,arm
+TQ11_frame101.jpg,101,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,eye,no,stomach
+ND6_frame626.jpg,626,blip,prompt2,arm,no,breast cancer,no,no,no,no,yes,breast cancer,no,leg,eye,lower leg
+CT28_frame823.jpg,823,blip,prompt2,arm,no,no,no,no,no,no,no,no,no,no,no,lower leg
+IO29_frame218.jpg,218,blip,prompt2,arm,yes,yes,yes,yes,yes,no,yes,no,yes,yes,no,arm
+CT15_frame2790.jpg,2790,blip,prompt2,arm,no,no,no,no,no,no,no,no,no,no,no,lower leg
+TQ11_frame359.jpg,359,blip,prompt2,arm,no,no,no,no,no,no,no,no,no,no,no,stomach
+IO33_frame2145.jpg,2145,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,yes,no,lower leg
+IO12_frame2263.jpg,2263,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,blood,no,lower leg
+IO6_frame531.jpg,531,blip,prompt2,arm,no,no,no,no,no,no,no,no,no,yes,no,lower leg
+IO27_frame2526.jpg,2526,blip,prompt2,left leg,no,no,no,no,no,no,yes,no,no,leg,eye,leg
+IO15_frame1195.jpg,1195,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,yes,no,arm
+IO26_frame457.jpg,457,blip,prompt2,arm,no,no,no,no,no,no,no,no,no,blood pressure,eye,lower leg
+ND2_frame183.jpg,183,blip,prompt2,arm,no,eye,no,no,no,no,yes,breast cancer,no,eye,no,lower leg
+CT3_frame1869.jpg,1869,blip,prompt2,arm,no,breast,no,no,no,no,yes,i don ' t know,no,arm,no,stomach
+IO12_frame1220.jpg,1220,blip,prompt2,arm,no,no,no,no,no,no,no,no,no,blood,no,lower leg
+CT3_frame1873.jpg,1873,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,left leg,no,stomach
+TQ19_frame4078.jpg,4078,blip,prompt2,arm,b,breast,blood,red,no,b,yes,b,b,blood,no,arm
+CT15_frame4077.jpg,4077,blip,prompt2,arm,no,no,no,no,no,no,yes,breast,no,no,no,lower back
+ND8_frame3373.jpg,3373,blip,prompt2,arm,no,breast cancer,no,no,no,no,yes,breast cancer,no,eye,eyes,lower leg
+TQ21_frame1043.jpg,1043,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,blood,no,arm
+IO28_frame1810.jpg,1810,blip,prompt2,arm,yes,yes,yes,yes,yes,no,yes,no,yes,yes,yes,lower leg
+TQ2_frame151.jpg,151,blip,prompt2,arm,no,eye,no,eyes,no,no,yes,no,no,eye,eye,eye
+TQ5_frame643.jpg,643,blip,prompt2,arm,b,no,no,b,no,no,yes,no,no,left eye,eyes,lower leg
+IO6_frame1329.jpg,1329,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,left leg,no,lower leg
+Cric33_frame427.jpg,427,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,blood,no,lower leg
+ND25_frame866.jpg,866,blip,prompt2,arm,yes,eye,yes,yes,yes,yes,yes,no,yes,blood,yes,lower leg
+ND6_frame225.jpg,225,blip,prompt2,arm,no,no,no,no,no,no,yes,breast cancer,no,left leg,no,lower leg
+IO8_frame1199.jpg,1199,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,yes,no,arm
+TQ22_frame815.jpg,815,blip,prompt2,arm,red,no,blood,red eye,no,no,yes,no,no,blood,no,chest
+IO13_frame924.jpg,924,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,left leg,no,lower leg
+CT5_frame2776.jpg,2776,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,no,no,stomach
+CT6_frame3812.jpg,3812,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,no,no,stomach
+CT19_frame1923.jpg,1923,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,eye,no,eye
+Cric26_frame615.jpg,615,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,left leg,no,arm
+IO28_frame1724.jpg,1724,blip,prompt2,arm,no,no,yes,yes,no,no,yes,no,no,yes,no,lower leg
+Cric35_frame4095.jpg,4095,blip,prompt2,arm,no,eye,no,no,no,no,yes,no,no,eye,eyes,lower leg
+IO26_frame2067.jpg,2067,blip,prompt2,left leg,no,no,no,no,no,no,no,no,no,no,no,lower leg
+TQ11_frame1882.jpg,1882,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,eye,no,lower leg
+TQ23_frame1102.jpg,1102,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,blood,no,lower leg
+ND18_frame1016.jpg,1016,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,e,no,neck
+TQ26_frame117.jpg,117,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,yes,no,lower leg
+IO23_frame3936.jpg,3936,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,leg,no,lower leg
+Cric18_frame2706.jpg,2706,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,no,no,lower back
+CT13_frame3396.jpg,3396,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,no,no,arm
+ND18_frame1074.jpg,1074,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,e,no,lower leg
+CT19_frame1926.jpg,1926,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,eye,eye,eye
+TQ26_frame2295.jpg,2295,blip,prompt2,arm,no,no,no,no,no,no,no,no,no,leg,no,lower leg
+IO3_frame1705.jpg,1705,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,left leg,no,lower leg
+Cric22_frame25.jpg,25,blip,prompt2,arm,no,no,no,no,no,no,no,no,no,e,no,stomach
+IO11_frame198.jpg,198,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,blood,no,arm
+CT15_frame52.jpg,52,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,no,no,stomach
+Cric26_frame2059.jpg,2059,blip,prompt2,left leg,no,no,no,no,no,no,yes,no,no,left leg,no,lower leg
+Cric15_frame1876.jpg,1876,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,no,no,arm
+IO21_frame972.jpg,972,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,blood,no,lower leg
+Cric21_frame2071.jpg,2071,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,left leg,no,lower back
+ND14_frame729.jpg,729,blip,prompt2,arm,no,breast,no,no,no,no,yes,no,no,e,no,stomach
+ND11_frame1697.jpg,1697,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,no,no,lower leg
+ND8_frame1064.jpg,1064,blip,prompt2,arm,no,breast cancer,no,no,no,no,yes,breast cancer,no,leg,no,lower leg
+TQ20_frame765.jpg,765,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,eye,no,eye
+Cric26_frame2173.jpg,2173,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,no,no,arm
+Cric8_frame580.jpg,580,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,no,no,lower leg
+ND14_frame1198.jpg,1198,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,arm,no,lower leg
+ND5_frame974.jpg,974,blip,prompt2,arm,no,no,no,no,no,no,no,breast cancer,no,leg,no,lower leg
+ND5_frame512.jpg,512,blip,prompt2,arm,no,breast cancer,no,no,no,no,yes,breast cancer,no,leg,eye,lower leg
+CT29_frame15320.jpg,15320,blip,prompt2,arm,b,no,no,no,no,no,yes,breast,no,eye,no,stomach
+IO15_frame1110.jpg,1110,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,yes,no,lower leg
+IO6_frame2033.jpg,2033,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,blood,no,lower leg
+TQ3_frame615.jpg,615,blip,prompt2,arm,bjf,breast,blood,b,no,no,yes,b,bj,c,eyes,neck
+Cric37_frame1.jpg,1,blip,prompt2,arm,b,eyes,no,eyes,no,eyes,yes,breast,b,eye,eyes,arm
+ND18_frame585.jpg,585,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,no,no,lower leg
+TQ18_frame3111.jpg,3111,blip,prompt2,arm,no,no,blood,no,no,no,yes,no,no,blood,eyes,arm
+CT25_frame473.jpg,473,blip,prompt2,arm,no,no,no,no,no,no,scissors,breast,no,no,no,lower leg
+ND14_frame410.jpg,410,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,e,no,lower leg
+CT8_frame35.jpg,35,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,no,no,stomach
+CT27_frame2803.jpg,2803,blip,prompt2,arm,no,no,no,no,no,no,no,no,no,no,no,lower leg
+Cric25_frame1116.jpg,1116,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,left leg,no,lower leg
+IO34_frame1653.jpg,1653,blip,prompt2,arm,no,yes,yes,yes,no,no,yes,no,no,yes,no,lower leg
+CT29_frame16383.jpg,16383,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,leg,no,lower leg
+TQ23_frame877.jpg,877,blip,prompt2,arm,no,no,blood,no,no,no,yes,no,no,blood,no,arm
+ND14_frame857.jpg,857,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,arm,no,arm
+IO3_frame1721.jpg,1721,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,blood,no,leg
+CT12_frame4032.jpg,4032,blip,prompt2,arm,no,breast,no,no,no,no,yes,breast,no,arm,no,lower back
+TQ35_frame170.jpg,170,blip,prompt2,arm,no,no,yes,yes,no,no,yes,no,no,left leg,eyes,lower leg
+CT14_frame10926.jpg,10926,blip,prompt2,left leg,no,no,no,no,no,no,no,no,no,leg,no,leg
+CT27_frame4249.jpg,4249,blip,prompt2,arm,no,no,no,no,no,no,no,no,no,no,no,lower leg
+Cric18_frame1831.jpg,1831,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,no,no,arm
+ND12_frame874.jpg,874,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,leg,no,lower leg
+TQ18_frame3638.jpg,3638,blip,prompt2,arm,b,no,blood,red eye,no,no,yes,i don ' t know,b,blood,no,arm
+Cric11_frame2739.jpg,2739,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,blood pressure,no,lower leg
+TQ34_frame601.jpg,601,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,left leg,no,lower leg
+IO26_frame601.jpg,601,blip,prompt2,arm,no,no,no,no,no,no,no,no,no,blood,no,lower leg
+IO5_frame1590.jpg,1590,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,left leg,no,lower leg
+Cric15_frame736.jpg,736,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,yes,no,lower back
+IO27_frame2743.jpg,2743,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,leg,eye,lower leg
+IO19_frame381.jpg,381,blip,prompt2,arm,no,no,no,no,no,no,no,no,no,blood,no,arm
+IO25_frame260.jpg,260,blip,prompt2,left leg,no,no,no,no,no,no,no,no,no,no,no,lower leg
+TQ2_frame1563.jpg,1563,blip,prompt2,arm,b,no,no,no,no,no,yes,no,no,blood,eyes,arm
+Cric25_frame2015.jpg,2015,blip,prompt2,left leg,no,no,no,no,no,no,yes,no,no,left leg,no,lower leg
+Cric12_frame499.jpg,499,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,left leg,no,lower leg
+IO23_frame2005.jpg,2005,blip,prompt2,arm,no,no,no,no,no,no,no,no,no,no,no,lower leg
+Cric28_frame314.jpg,314,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,no,no,lower leg
+IO34_frame1619.jpg,1619,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,yes,no,lower leg
+CT22_frame2412.jpg,2412,blip,prompt2,arm,no,breast,no,no,no,no,yes,breast,no,arm,no,arm
+TQ12_frame1159.jpg,1159,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,eye,no,stomach
+ND8_frame1107.jpg,1107,blip,prompt2,arm,no,no,no,no,no,no,yes,breast cancer,no,leg,no,lower leg
+ND28_frame25.jpg,25,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,left eye,eyes,chest
+ND2_frame2035.jpg,2035,blip,prompt2,arm,breast cancer,breast cancer,breast cancer,no,no,no,yes,breast cancer,no,eye,eye,eye
+IO35_frame499.jpg,499,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,yes,no,arm
+CT8_frame68.jpg,68,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,no,no,stomach
+TQ3_frame1.jpg,1,blip,prompt2,arm,bleu,no,no,no,no,no,yes,no,no,arm,no,neck
+CT22_frame4248.jpg,4248,blip,prompt2,arm,no,breast,no,no,no,no,yes,i don ' t know,no,arm,no,stomach
+ND26_frame72.jpg,72,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,left leg,no,lower leg
+ND2_frame1473.jpg,1473,blip,prompt2,arm,b,breast cancer,breast cancer,no,no,no,yes,breast cancer,no,eye,eye,lower leg
+TQ5_frame1128.jpg,1128,blip,prompt2,arm,b,breast,b,b,no,b,yes,b,b,blood,no,stomach
+Cric5_frame555.jpg,555,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,eye,no,lower leg
+CT15_frame2657.jpg,2657,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,no,no,lower leg
+IO21_frame1.jpg,1,blip,prompt2,arm,no,no,blood,no,no,no,no,no,no,blood,no,neck
+TQ3_frame1348.jpg,1348,blip,prompt2,arm,b,no,yes,b,no,b,yes,i don ' t know,no,left leg,no,lower back
+TQ11_frame1879.jpg,1879,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,left leg,no,lower leg
+Cric11_frame2945.jpg,2945,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,no,no,lower leg
+ND11_frame1.jpg,1,blip,prompt2,arm,no,no,no,no,no,no,no,no,no,arm,no,stomach
+TQ21_frame599.jpg,599,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,blood,no,arm
+TQ22_frame421.jpg,421,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,blood,no,arm
+IO29_frame784.jpg,784,blip,prompt2,arm,yes,no,yes,yes,no,no,yes,no,yes,yes,no,lower leg
+IO22_frame1707.jpg,1707,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,blood,no,lower leg
+Cric6_frame2042.jpg,2042,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,eye,eyes,lower leg
+Cric34_frame2459.jpg,2459,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,blood,yes,lower leg
+IO12_frame1059.jpg,1059,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,left leg,no,lower leg
+IO22_frame1354.jpg,1354,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,yes,no,lower leg
+IO26_frame155.jpg,155,blip,prompt2,arm,no,no,no,no,no,no,no,no,no,eye,no,arm
+CT11_frame1406.jpg,1406,blip,prompt2,arm,no,no,no,no,no,no,no,no,no,leg,no,stomach
+CT25_frame2625.jpg,2625,blip,prompt2,arm,no,no,no,no,no,no,no,breast,no,arm,no,arm
+CT25_frame1012.jpg,1012,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,no,no,lower back
+ND29_frame569.jpg,569,blip,prompt2,arm,bleu,no,no,no,no,no,yes,no,no,left eye,eyes,chest
+IO21_frame1923.jpg,1923,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,blood,no,lower leg
+ND21_frame1.jpg,1,blip,prompt2,arm,no,no,no,no,no,no,no,no,no,no,no,stomach
+Cric6_frame145.jpg,145,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,no,no,lower leg
+ND13_frame551.jpg,551,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,left leg,no,lower leg
+TQ13_frame1242.jpg,1242,blip,prompt2,arm,no,no,no,yes,no,no,yes,no,no,yes,eyes,arm
+Cric8_frame1743.jpg,1743,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,eye,no,lower leg
+ND26_frame53.jpg,53,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,leg,no,lower leg
+TQ12_frame1266.jpg,1266,blip,prompt2,left leg,no,no,no,no,no,no,no,no,no,no,no,stomach
+Cric35_frame5384.jpg,5384,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,,no,stomach
+TQ35_frame1351.jpg,1351,blip,prompt2,arm,no,no,yes,yes,no,no,yes,no,yes,yes,no,lower leg
+TQ6_frame1307.jpg,1307,blip,prompt2,arm,no,no,no,no,no,no,no,no,no,left leg,no,lower leg
+Cric11_frame310.jpg,310,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,eye,no,lower leg
+ND13_frame1133.jpg,1133,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,arm,eyes,arm
+ND2_frame2039.jpg,2039,blip,prompt2,arm,breast cancer,breast cancer,breast cancer,no,no,no,yes,breast cancer,no,eye,eye,eye
+TQ21_frame976.jpg,976,blip,prompt2,arm,no,no,no,no,no,no,yes,chest,no,blood,no,chest
+ND18_frame234.jpg,234,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,no,no,lower leg
+Cric28_frame2553.jpg,2553,blip,prompt2,arm,no,no,no,no,no,no,no,no,no,no,no,lower leg
+ND15_frame563.jpg,563,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,arm,eyes,arm
+Cric12_frame2032.jpg,2032,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,left leg,yes,arm
+ND8_frame1103.jpg,1103,blip,prompt2,arm,no,breast cancer,no,no,no,no,yes,breast cancer,no,leg,no,lower leg
+Cric37_frame2334.jpg,2334,blip,prompt2,arm,no,no,no,eyes,no,eyes,yes,no,no,eye,eyes,eye
+TQ19_frame3892.jpg,3892,blip,prompt2,arm,b,no,blood,no,no,no,yes,no,no,blood,no,arm
+ND2_frame1287.jpg,1287,blip,prompt2,arm,b,breast cancer,no,no,no,no,yes,breast cancer,no,eye,eye,lower leg
+IO5_frame367.jpg,367,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,blood,no,lower leg
+CT3_frame58.jpg,58,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,no,no,stomach
+CT13_frame3506.jpg,3506,blip,prompt2,arm,no,breast,no,no,no,no,yes,breast cancer,no,e,no,stomach
+CT2_frame820.jpg,820,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,left leg,no,neck
+Cric23_frame2152.jpg,2152,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,left leg,no,lower leg
+ND12_frame1128.jpg,1128,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,e,no,arm
+IO20_frame1603.jpg,1603,blip,prompt2,left leg,no,no,no,no,no,no,yes,no,no,leg,no,lower leg
+IO22_frame786.jpg,786,blip,prompt2,arm,no,no,no,no,no,no,no,no,no,yes,no,lower leg
+Cric35_frame2799.jpg,2799,blip,prompt2,arm,no,eye,no,no,no,no,yes,no,no,eye,eye,lower leg
+TQ21_frame776.jpg,776,blip,prompt2,arm,red eye,eyes,blood,red eye,no,no,yes,chest,no,blood,eyes,arm
+Cric22_frame2671.jpg,2671,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,no,no,lower back
+TQ35_frame864.jpg,864,blip,prompt2,arm,b,no,yes,yes,no,no,yes,b,no,yes,eyes,lower leg
+CT3_frame2872.jpg,2872,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,left arm,no,stomach
+Cric11_frame1667.jpg,1667,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,eye,no,lower leg
+IO22_frame187.jpg,187,blip,prompt2,arm,no,no,yes,no,no,no,yes,no,no,blood,no,lower leg
+ND21_frame640.jpg,640,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,no,no,lower leg
+ND18_frame1153.jpg,1153,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,e,no,lower leg
+ND5_frame1287.jpg,1287,blip,prompt2,arm,no,breast cancer,breast cancer,no,no,no,yes,breast cancer,no,eye,no,lower leg
+CT14_frame15003.jpg,15003,blip,prompt2,arm,no,no,no,no,no,no,yes,breast cancer,ear,eye,no,lower leg
+CT2_frame2899.jpg,2899,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,left leg,no,stomach
+IO33_frame2013.jpg,2013,blip,prompt2,arm,yes,yes,no,yes,no,no,yes,i don ' t know,yes,yes,no,lower leg
+Cric28_frame2102.jpg,2102,blip,prompt2,arm,no,no,no,no,no,no,no,no,no,no,no,lower leg
+IO5_frame284.jpg,284,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,blood,no,lower leg
+IO12_frame1777.jpg,1777,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,wrist,no,lower leg
+Cric21_frame2012.jpg,2012,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,no,no,lower leg
+IO3_frame1492.jpg,1492,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,leg,no,lower leg
+IO34_frame1689.jpg,1689,blip,prompt2,arm,yes,yes,yes,yes,no,no,yes,no,no,yes,no,lower leg
+IO29_frame1035.jpg,1035,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,leg,no,lower leg
+IO35_frame37.jpg,37,blip,prompt2,arm,no,no,no,yes,no,no,yes,no,no,yes,no,leg
+CT14_frame5768.jpg,5768,blip,prompt2,arm,no,no,no,no,no,no,no,breast,no,leg,eyes,lower leg
+Cric21_frame1898.jpg,1898,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,no,no,lower leg
+TQ34_frame120.jpg,120,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,left leg,no,lower leg
+CT15_frame2023.jpg,2023,blip,prompt2,arm,no,breast,no,no,no,no,yes,breast cancer,no,e,no,eye
+TQ23_frame344.jpg,344,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,blood,no,lower leg
+Cric28_frame2407.jpg,2407,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,no,no,lower leg
+IO18_frame1590.jpg,1590,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,left leg,no,lower leg
+IO18_frame905.jpg,905,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,left leg,no,lower leg
+TQ13_frame827.jpg,827,blip,prompt2,arm,b,no,no,b,no,no,yes,b,no,yes,no,stomach
+ND26_frame696.jpg,696,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,leg,no,lower leg
+IO13_frame190.jpg,190,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,blood,no,lower leg
+Cric11_frame2463.jpg,2463,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,no,no,lower leg
+CT13_frame3501.jpg,3501,blip,prompt2,arm,no,no,no,no,no,no,yes,breast,no,no,no,lower back
+Cric12_frame1992.jpg,1992,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,left leg,no,lower leg
+CT26_frame11772.jpg,11772,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,no,no,lower back
+Cric23_frame2156.jpg,2156,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,eye,no,lower leg
+TQ3_frame825.jpg,825,blip,prompt2,arm,b,no,b,b,no,no,yes,b,b,c,eyes,neck
+CT13_frame2712.jpg,2712,blip,prompt2,arm,no,no,no,no,no,no,no,breast cancer,no,no,no,stomach
+CT11_frame128.jpg,128,blip,prompt2,arm,no,no,no,no,no,no,no,breast,no,leg,no,stomach
+Cric5_frame665.jpg,665,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,eye,eye,lower leg
+IO23_frame1617.jpg,1617,blip,prompt2,left leg,no,no,no,no,no,no,no,no,no,no,no,lower leg
+TQ12_frame1053.jpg,1053,blip,prompt2,arm,no,no,no,no,no,no,no,no,no,no,no,lower leg
+Cric8_frame3.jpg,3,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,no,no,lower leg
+TQ33_frame1568.jpg,1568,blip,prompt2,arm,b,no,blood,blood,no,b,no,b,b,blood,no,lower leg
+CT14_frame5265.jpg,5265,blip,prompt2,arm,no,eyes,no,no,no,no,no,breast,no,eye,eyes,lower leg
+IO33_frame2059.jpg,2059,blip,prompt2,arm,no,no,no,yes,no,no,yes,no,no,yes,no,lower leg
+IO5_frame671.jpg,671,blip,prompt2,arm,no,no,no,no,no,no,no,no,no,yes,no,lower leg
+CT19_frame445.jpg,445,blip,prompt2,arm,no,breast,no,no,no,no,yes,breast,no,no,no,eye
+TQ27_frame379.jpg,379,blip,prompt2,arm,b,no,blood,b,no,b,yes,b,b,blood,eyes,lower leg
+IO8_frame1493.jpg,1493,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,arm,no,lower leg
+Cric11_frame763.jpg,763,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,arm,no,lower leg
+CT25_frame424.jpg,424,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,no,no,lower leg
+IO26_frame1808.jpg,1808,blip,prompt2,left leg,no,no,no,no,no,no,no,no,no,no,no,lower leg
+IO11_frame209.jpg,209,blip,prompt2,arm,no,no,blood,no,no,no,yes,no,no,blood,no,arm
+Cric8_frame596.jpg,596,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,no,no,lower leg
+CT25_frame96.jpg,96,blip,prompt2,arm,no,no,no,no,no,no,yes,breast cancer,no,eye,no,lower leg
+IO14_frame871.jpg,871,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,yes,no,lower leg
+Cric23_frame2842.jpg,2842,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,yes,no,lower back
+CT13_frame3154.jpg,3154,blip,prompt2,arm,no,no,no,no,no,no,no,no,no,no,no,lower back
+ND15_frame1315.jpg,1315,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,c,no,lower leg
+IO20_frame298.jpg,298,blip,prompt2,arm,no,no,blood,no,no,no,no,no,no,blood,no,lower leg
+CT22_frame1572.jpg,1572,blip,prompt2,arm,no,breast,no,no,no,no,yes,breast,no,eye,eyes,stomach
+ND21_frame1248.jpg,1248,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,no,no,lower leg
+ND13_frame1384.jpg,1384,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,arm,no,arm
+IO25_frame146.jpg,146,blip,prompt2,arm,no,no,no,no,no,no,no,no,no,no,no,stomach
+Cric22_frame2059.jpg,2059,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,leg,no,lower leg
+TQ33_frame606.jpg,606,blip,prompt2,arm,b,no,blood,blood,no,no,yes,b,no,blood,no,lower leg
+ND5_frame1972.jpg,1972,blip,prompt2,arm,no,breast cancer,breast cancer,no,no,no,yes,breast cancer,no,blood pressure,eye,lower leg
+TQ22_frame760.jpg,760,blip,prompt2,arm,no,eye,blood,no,no,no,yes,no,no,blood,no,chest
+TQ25_frame899.jpg,899,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,left leg,no,lower leg
+IO18_frame835.jpg,835,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,left leg,no,lower leg
+Cric11_frame1821.jpg,1821,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,eye,no,lower leg
+TQ35_frame200.jpg,200,blip,prompt2,arm,b,breast,yes,eyes,no,no,yes,b,no,arm,eyes,lower leg
+IO2_frame2459.jpg,2459,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,blood,no,lower leg
+IO5_frame1774.jpg,1774,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,left leg,no,lower leg
+IO11_frame1.jpg,1,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,arm,no,arm
+CT6_frame3835.jpg,3835,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,no,no,neck
+IO19_frame1086.jpg,1086,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,left leg,no,lower leg
+TQ26_frame1389.jpg,1389,blip,prompt2,arm,bdsm,no,no,bdsm,no,no,yes,b,no,x,no,lower leg
+IO20_frame105.jpg,105,blip,prompt2,arm,no,no,blood,no,no,no,yes,no,no,blood,no,lower leg
+ND6_frame556.jpg,556,blip,prompt2,arm,no,breast cancer,breast cancer,no,no,no,yes,breast cancer,no,eye,eye,lower leg
+CT5_frame834.jpg,834,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,left leg,eyes,stomach
+TQ18_frame299.jpg,299,blip,prompt2,arm,b,no,blood,eyes,no,no,yes,i don ' t know,b,arm,eyes,arm
+Cric18_frame1221.jpg,1221,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,arm,no,arm
+IO11_frame121.jpg,121,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,blood,no,arm
+TQ27_frame1095.jpg,1095,blip,prompt2,arm,no,no,blood,no,no,no,yes,no,no,blood,no,lower leg
+TQ3_frame1066.jpg,1066,blip,prompt2,arm,blemishes,no,b,b,no,b,yes,b,b,left arm,no,lower back
+CT22_frame2994.jpg,2994,blip,prompt2,arm,no,breast,no,no,no,no,yes,breast,no,arm,no,stomach
+IO15_frame1549.jpg,1549,blip,prompt2,arm,no,no,yes,no,no,no,yes,no,no,blood,no,arm
+IO11_frame1655.jpg,1655,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,arm,no,lower leg
+ND29_frame587.jpg,587,blip,prompt2,arm,bleu,eyes,no,no,no,no,yes,no,no,eye,eyes,chest
+TQ27_frame277.jpg,277,blip,prompt2,arm,b,no,blood,blood,no,no,yes,no,no,blood,eye,lower leg
+ND33_frame254.jpg,254,blip,prompt2,arm,b,eyes,blood,b,no,b,yes,i don ' t know,b,blood,eyes,lower back
+Cric25_frame465.jpg,465,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,no,no,lower leg
+CT27_frame4935.jpg,4935,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,no,no,stomach
+CT6_frame2833.jpg,2833,blip,prompt2,arm,no,no,no,no,no,no,no,no,no,arm,no,lower back
+Cric28_frame679.jpg,679,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,left,no,lower leg
+CT25_frame1022.jpg,1022,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,no,no,lower back
+Cric18_frame1986.jpg,1986,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,left leg,yes,lower leg
+CT12_frame3318.jpg,3318,blip,prompt2,arm,no,breast,no,no,no,no,yes,breast,no,eye,no,arm
+ND26_frame1232.jpg,1232,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,left leg,no,arm
+ND25_frame1742.jpg,1742,blip,prompt2,arm,no,no,no,yes,no,no,yes,no,no,left leg,no,lower back
+IO14_frame1452.jpg,1452,blip,prompt2,arm,no,no,blood,no,no,no,yes,no,no,blood,no,lower leg
+Cric13_frame2051.jpg,2051,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,no,no,lower leg
+IO3_frame577.jpg,577,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,yes,no,lower leg
+CT11_frame3464.jpg,3464,blip,prompt2,arm,no,no,no,no,no,no,yes,breast,no,e,no,lower leg
+IO6_frame1872.jpg,1872,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,blood,no,lower leg
+ND28_frame1052.jpg,1052,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,eye,eyes,lower back
+CT28_frame7980.jpg,7980,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,left leg,no,lower back
+ND13_frame1647.jpg,1647,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,e,no,lower leg
+CT29_frame18810.jpg,18810,blip,prompt2,arm,b,no,no,no,no,no,yes,i don ' t know,no,eye,eyes,arm
+Cric18_frame1678.jpg,1678,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,no,no,lower back
+Cric34_frame3832.jpg,3832,blip,prompt2,arm,no,eye,no,no,no,no,yes,no,no,eye,eye,eye
+ND25_frame559.jpg,559,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,left leg,no,lower leg
+TQ12_frame1772.jpg,1772,blip,prompt2,arm,no,no,no,no,no,no,no,no,no,no,no,lower leg
+TQ3_frame1390.jpg,1390,blip,prompt2,arm,b,no,b,b,no,no,no,b,no,arm,eyes,lower back
+IO2_frame394.jpg,394,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,yes,no,lower leg
+TQ25_frame146.jpg,146,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,blood pressure,no,lower leg
+Cric18_frame1729.jpg,1729,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,no,no,lower back
+IO19_frame1660.jpg,1660,blip,prompt2,arm,no,no,blood,no,no,no,no,no,no,blood,no,arm
+Cric14_frame2012.jpg,2012,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,left leg,no,lower leg
+CT6_frame3832.jpg,3832,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,no,no,neck
+Cric25_frame2.jpg,2,blip,prompt2,arm,no,no,no,no,no,no,no,no,no,no,no,arm
+IO12_frame483.jpg,483,blip,prompt2,arm,no,no,no,no,no,no,yes,no,no,arm,no,arm
+IO2_frame498.jpg,498,blip,prompt2,arm,no,no,no,no,no,no,no,no,no,leg,no,lower leg
+Cric33_frame1566.jpg,1566,blip,prompt3,arm,eye surgery,eye,gun,blood,eye surgery,eye surgery,no,eye surgery,no,blood,eye surgery,eye surgery
+ND2_frame1836.jpg,1836,blip,prompt3,leg,eye,eye,eye,blood,eye,eye,no,no,scissors,leg,eye,leg
+CT2_frame3051.jpg,3051,blip,prompt3,no,no,no,no,no,no,no,no,no,no,no,no,eye surgery
+Cric22_frame2.jpg,2,blip,prompt3,arm,no,eye,no,no,no,no,no,no,no,eye,no,eye surgery
+ND6_frame1119.jpg,1119,blip,prompt3,leg,eye,eyes,no,blood,eye,eye,no,no,no,blood,eye,eye
+ND6_frame555.jpg,555,blip,prompt3,blood pressure,eye,eye,gun,blood,eye,eye,no,eye,eye,blood,eye,eye surgery
+CT15_frame1.jpg,1,blip,prompt3,leg,eye,no,eye,no,eye,eye,no,no,no,eye,eye,eye
+ND28_frame1000.jpg,1000,blip,prompt3,arm,wearing mask,eye,gun,blood,wearing mask,wearing mask,no,no,no,blood,eye surgery,eye surgery
+Cric28_frame612.jpg,612,blip,prompt3,yes,no,no,no,no,no,no,no,no,no,no,no,no
+IO19_frame1223.jpg,1223,blip,prompt3,leg,foot,no,no,blood,foot,foot,foot,no,no,foot,foot,leg
+CT14_frame13610.jpg,13610,blip,prompt3,leg,foot,no,blood,blood,no,no,no,no,no,leg,no,leg
+ND6_frame2389.jpg,2389,blip,prompt3,blood pressure,eye,breast cancer,gun,gun,eye,eye,breast cancer,breast cancer,eye,blood pressure,eye,eye
+TQ22_frame22.jpg,22,blip,prompt3,blood,blood,blood,blood,blood,blood,blood,blood,blood,blood,blood,blood,blood
+Cric22_frame3.jpg,3,blip,prompt3,arm,eye surgery,eye,eye surgery,no,no,eye surgery,no,no,no,eye,eye surgery,eye surgery
+Cric5_frame1599.jpg,1599,blip,prompt3,arm,no,no,no,blood pressure,no,eye surgery,no,no,no,blood pressure,eye surgery,eye surgery
+CT19_frame2333.jpg,2333,blip,prompt3,leg,eye,no,eye,blood,eye,eye,no,no,no,eye,eye,eye
+IO26_frame343.jpg,343,blip,prompt3,leg,no,no,no,blood,no,no,no,no,no,foot,no,foot
+TQ26_frame1608.jpg,1608,blip,prompt3,arm,no,no,blood,blood,no,eye surgery,no,no,no,leg,eye surgery,leg
+IO28_frame210.jpg,210,blip,prompt3,arm,no,no,no,blood,no,no,no,no,no,blood,no,eye
+Cric37_frame2406.jpg,2406,blip,prompt3,arm,no,no,no,blood,no,no,no,no,no,blood,no,eye surgery
+ND13_frame1648.jpg,1648,blip,prompt3,arm,eye surgery,eye,eye,no,head,eye surgery,no,no,no,eye,eye surgery,eye
+Cric23_frame2145.jpg,2145,blip,prompt3,arm,no,no,no,no,no,no,no,no,no,foot,eye surgery,eye surgery
+ND26_frame1238.jpg,1238,blip,prompt3,arm,eye surgery,eye,eye,blood,eye,eye,no,eye,eye,blood,eye,eye
+TQ13_frame1714.jpg,1714,blip,prompt3,arm,blood,eye,blood,blood,blood,blood,no,blood,no,arm,blood,arm
+Cric22_frame2085.jpg,2085,blip,prompt3,arm,no,no,no,no,no,no,no,no,no,foot,no,arm
+ND3_frame2963.jpg,2963,blip,prompt3,gun,gun,breast cancer,gun,gun,eye,gun,gun,breast cancer,gun,gun,gun,eye
+IO8_frame1940.jpg,1940,blip,prompt3,arm,no,no,no,blood,no,no,no,no,no,arm,no,arm
+IO2_frame327.jpg,327,blip,prompt3,arm,no,no,blood pressure,blood pressure,no,no,no,no,no,blood pressure,no,blood pressure
+CT19_frame1928.jpg,1928,blip,prompt3,eye,eye,eye,eye,eye,eye,eye,no,eye,suitcase,eye,eye,eye
+Cric12_frame1951.jpg,1951,blip,prompt3,arm,no,no,no,blood,no,no,no,no,no,blood,no,eye surgery
+Cric22_frame2677.jpg,2677,blip,prompt3,arm,eye surgery,eye surgery,eye surgery,blood pressure,eye surgery,eye surgery,no,no,eye surgery,eye surgery,eye surgery,eye surgery
+IO22_frame1351.jpg,1351,blip,prompt3,blood,blood pressure,no,blood,blood,foot,blood,foot,no,no,blood,blood pressure,blood
+CT5_frame1960.jpg,1960,blip,prompt3,arm,no,no,no,no,no,mask,no,no,no,foot,mask,eye
+ND8_frame1091.jpg,1091,blip,prompt3,leg,eye,eye,gun,gun,eye,eye,no,eye,eye,leg,eye,eye
+CT6_frame1702.jpg,1702,blip,prompt3,no,no,no,no,no,no,no,no,no,no,no,no,stomach
+ND28_frame1300.jpg,1300,blip,prompt3,arm,no,no,gun,blood,no,wearing mask,no,no,no,blood,eye surgery,eye surgery
+Cric6_frame919.jpg,919,blip,prompt3,arm,eye surgery,eye,eye surgery,blood pressure,eye surgery,eye surgery,no,no,eye surgery,blood pressure,eye surgery,eye surgery
+ND6_frame1120.jpg,1120,blip,prompt3,leg,no,no,no,no,eye,eye,no,no,no,blood,eye,eye
+CT13_frame3398.jpg,3398,blip,prompt3,arm,no,no,no,no,no,eye,no,no,no,eye,no,eye
+TQ12_frame1052.jpg,1052,blip,prompt3,leg,no,no,blood,blood,no,no,no,no,no,blood,no,eye
+TQ26_frame1489.jpg,1489,blip,prompt3,leg,foot,foot,foot,blood,foot,foot,foot,foot,foot,foot,foot,leg
+IO19_frame817.jpg,817,blip,prompt3,arm,no,no,no,blood,no,no,no,no,no,foot,no,arm
+Cric18_frame1272.jpg,1272,blip,prompt3,leg,no,no,no,no,no,no,no,no,no,leg,no,legs
+TQ21_frame480.jpg,480,blip,prompt3,arm,no,eye,gun,gun,wearing mask,no,no,no,gun,blood,gun,eye surgery
+ND6_frame1586.jpg,1586,blip,prompt3,blood,no,breast cancer,gun,blood,eye,eye,breast cancer,breast cancer,no,blood,eye,eye surgery
+Cric33_frame1511.jpg,1511,blip,prompt3,arm,eye surgery,eye,eye,blood,eye surgery,eye surgery,no,eye surgery,eye surgery,blood,eye surgery,eye surgery
+CT6_frame2091.jpg,2091,blip,prompt3,arm,no,no,no,no,no,no,no,no,no,no,no,arm
+TQ6_frame664.jpg,664,blip,prompt3,arm,no,no,blood,blood,no,no,no,no,no,leg,no,leg
+Cric28_frame1414.jpg,1414,blip,prompt3,leg,no,no,no,no,no,no,no,no,no,foot,no,eye surgery
+IO11_frame110.jpg,110,blip,prompt3,arm,no,no,no,blood,no,no,no,no,no,arm,no,arm
+IO35_frame1013.jpg,1013,blip,prompt3,leg,foot,no,no,blood,foot,foot,foot,no,no,foot,foot,leg
+IO23_frame726.jpg,726,blip,prompt3,arm,no,no,no,no,no,no,no,no,no,no,no,no
+TQ6_frame642.jpg,642,blip,prompt3,arm,no,no,blood,blood,no,no,no,no,no,leg,no,leg
+CT3_frame1514.jpg,1514,blip,prompt3,leg,no,no,no,no,no,no,no,no,no,no,no,no
+TQ20_frame3088.jpg,3088,blip,prompt3,arm,no,blood,blood,blood,no,blood,no,no,no,blood,blood,arm
+Cric6_frame1418.jpg,1418,blip,prompt3,leg,eye surgery,eye surgery,eye surgery,blood,eye surgery,eye surgery,surgery,surgery,eye surgery,eye surgery,eye surgery,eye surgery
+CT12_frame2120.jpg,2120,blip,prompt3,leg,no,no,no,no,no,no,no,no,no,eye,no,eye
+ND11_frame1184.jpg,1184,blip,prompt3,leg,eye surgery,eye,eye surgery,no,eye surgery,eye surgery,no,eye surgery,eye surgery,leg,eye surgery,eye surgery
+ND19_frame358.jpg,358,blip,prompt3,arm,no,no,no,blood pressure,no,no,no,no,no,blood pressure,no,arm
+Cric14_frame2054.jpg,2054,blip,prompt3,arm,surgery,eye,surgery,blood,surgery,surgery,surgery,surgery,surgery,eye surgery,surgery,eye surgery
+IO28_frame1610.jpg,1610,blip,prompt3,leg,no,no,no,blood,no,no,no,no,no,blood,no,leg
+ND13_frame1.jpg,1,blip,prompt3,arm,head,no,no,no,head,head,no,no,no,eye,head,head
+Cric13_frame2066.jpg,2066,blip,prompt3,arm,no,eye,no,no,no,eye surgery,no,no,no,eye surgery,eye surgery,eye surgery
+CT2_frame2632.jpg,2632,blip,prompt3,leg,no,no,no,no,no,no,no,no,no,foot,no,stomach
+TQ33_frame1380.jpg,1380,blip,prompt3,blood,blood,blood,blood,blood,blood,blood,blood,blood,blood,blood,blood,blood
+Cric27_frame1224.jpg,1224,blip,prompt3,blood pressure,no,no,no,blood pressure,no,no,no,no,no,blood pressure,no,surgery
+Cric8_frame2330.jpg,2330,blip,prompt3,arm,no,no,blood pressure,blood pressure,no,blood pressure,no,no,no,blood pressure,no,leg
+Cric26_frame2077.jpg,2077,blip,prompt3,leg,no,no,no,blood,no,no,no,no,no,blood,no,eye surgery
+IO21_frame1321.jpg,1321,blip,prompt3,leg,foot,no,no,no,no,no,no,no,no,leg,no,leg
+ND18_frame1197.jpg,1197,blip,prompt3,arm,no,no,no,blood,no,no,no,no,no,eye,no,eye surgery
+ND2_frame380.jpg,380,blip,prompt3,leg,shoes,no,gun,gun,no,eye surgery,no,breast cancer,scissors,blood pressure,eye,leg
+IO19_frame995.jpg,995,blip,prompt3,arm,no,no,no,blood,no,no,no,no,no,foot,no,arm
+CT27_frame7408.jpg,7408,blip,prompt3,arm,no,no,no,no,no,no,no,no,no,no,no,arm
+IO29_frame1131.jpg,1131,blip,prompt3,wrist,shoes,no,blood,blood,no,no,yes,no,no,leg,no,leg
+IO26_frame1839.jpg,1839,blip,prompt3,leg,no,no,no,blood,no,no,no,no,no,foot,no,leg
+Cric5_frame1417.jpg,1417,blip,prompt3,arm,eye surgery,eye surgery,no,blood,no,eye surgery,no,no,no,eye surgery,eye surgery,eye surgery
+TQ19_frame1226.jpg,1226,blip,prompt3,arm,no,breast cancer,blood,blood,no,blood,no,breast cancer,no,blood,blood pressure,arm
+IO25_frame12.jpg,12,blip,prompt3,no,no,no,no,no,no,no,no,no,no,no,no,no
+IO20_frame878.jpg,878,blip,prompt3,arm,blood pressure,no,blood,blood,blood,blood,no,no,blood pressure,blood,blood pressure,blood
+CT8_frame702.jpg,702,blip,prompt3,arm,no,no,no,no,no,no,no,no,no,arm,no,arm
+Cric28_frame1398.jpg,1398,blip,prompt3,leg,no,no,no,no,no,no,no,no,no,foot,no,eye surgery
+TQ19_frame1318.jpg,1318,blip,prompt3,arm,no,no,blood,blood,no,no,no,no,no,blood,no,arm
+ND25_frame1519.jpg,1519,blip,prompt3,arm,blood,eye,blood,blood,eye,blood,no,blood,eye,blood,eye,eye
+ND28_frame1143.jpg,1143,blip,prompt3,arm,wearing gloves,eye,gun,blood,wearing mask,wearing mask,no,no,no,blood,eye surgery,eye surgery
+ND19_frame1.jpg,1,blip,prompt3,arm,no,no,no,blood pressure,no,no,no,no,no,eye,no,eye surgery
+TQ19_frame3883.jpg,3883,blip,prompt3,arm,no,blood pressure,blood,blood,no,eye surgery,no,no,no,arm,gun,arm
+CT15_frame1632.jpg,1632,blip,prompt3,leg,no,no,no,no,no,no,no,no,no,no,no,eye
+TQ18_frame3030.jpg,3030,blip,prompt3,arm,no,eye,blood,blood,head,head,no,no,no,arm,head,arm
+ND5_frame2198.jpg,2198,blip,prompt3,blood pressure cuff,eye,breast cancer,gun,gun,eye,eye,breast cancer,breast cancer,eye,blood,eye,eye surgery
+Cric22_frame312.jpg,312,blip,prompt3,arm,no,no,no,blood,no,no,no,no,no,blood,no,eye surgery
+ND5_frame2907.jpg,2907,blip,prompt3,leg,no,breast cancer,eye,blood,eye,eye,no,breast cancer,no,leg,eye,leg
+TQ20_frame2309.jpg,2309,blip,prompt3,arm,no,eye,gun,gun,no,no,no,no,no,eye,gun,eye
+ND18_frame1263.jpg,1263,blip,prompt3,leg,no,no,no,blood,no,no,no,no,no,eye,no,eye surgery
+CT8_frame815.jpg,815,blip,prompt3,leg,no,no,no,blood,no,eye,no,no,no,foot,no,eye
+TQ23_frame796.jpg,796,blip,prompt3,arm,wearing mask,blood,gun,gun,no,no,no,no,no,blood,gun,arm
+Cric5_frame2372.jpg,2372,blip,prompt3,arm,no,no,blood pressure,blood pressure,no,no,no,no,no,blood pressure,no,leg
+IO6_frame2032.jpg,2032,blip,prompt3,blood pressure,blood pressure,no,blood pressure,blood,no,blood pressure,no,blood pressure,no,blood,blood pressure,blood pressure
+IO20_frame934.jpg,934,blip,prompt3,blood,blood,blood,blood,blood,blood,blood,blood,blood,blood,blood,blood pressure,blood
+IO15_frame60.jpg,60,blip,prompt3,leg,no,no,blood,blood,no,no,no,no,no,blood,no,blood
+Cric11_frame1711.jpg,1711,blip,prompt3,arm,eye surgery,eye,eye surgery,blood pressure,eye surgery,eye surgery,no,no,eye surgery,blood pressure,eye surgery,eye surgery
+IO6_frame1866.jpg,1866,blip,prompt3,blood pressure cuff,blood pressure,blood,blood,blood,no,blood,no,blood,no,blood,blood pressure,blood
+TQ19_frame3886.jpg,3886,blip,prompt3,arm,gun,blood,gun,blood,gun,gun,gun,gun,gun,arm,gun,arm
+ND19_frame1402.jpg,1402,blip,prompt3,arm,no,no,no,blood,no,no,no,no,no,eye,no,arm
+ND15_frame1439.jpg,1439,blip,prompt3,arm,eye surgery,eye,eye surgery,blood pressure,no,eye surgery,no,no,no,eye,eye surgery,eye surgery
+ND11_frame1654.jpg,1654,blip,prompt3,leg,eye surgery,eye,eye,no,eye,eye surgery,no,no,eye surgery,leg,eye surgery,eye surgery
+Cric11_frame1369.jpg,1369,blip,prompt3,wrist,eye surgery,eye surgery,blood,blood,eye surgery,eye surgery,surgery,no,no,blood pressure,eye surgery,eye surgery
+Cric34_frame4262.jpg,4262,blip,prompt3,eye,eye surgery,eye,eye surgery,gun,eye surgery,eye surgery,eye surgery,eye surgery,eye surgery,eye,eye surgery,eye surgery
+Cric33_frame1519.jpg,1519,blip,prompt3,arm,eye surgery,eye,gun,gun,eye surgery,eye surgery,no,eye,eye surgery,blood,eye surgery,eye surgery
+ND11_frame935.jpg,935,blip,prompt3,leg,no,eye,no,blood pressure,no,no,no,no,no,leg,no,arm
+TQ11_frame101.jpg,101,blip,prompt3,leg,no,no,blood,blood,no,no,no,no,no,eye,no,eye
+ND6_frame626.jpg,626,blip,prompt3,leg,eye,eye,eye,blood,eye,eye,no,eye,eye,blood pressure,eye,eye surgery
+CT28_frame823.jpg,823,blip,prompt3,leg,no,no,no,no,no,no,no,no,no,no,no,leg
+IO29_frame218.jpg,218,blip,prompt3,arm,no,no,yes,blood,no,no,no,no,no,leg,no,arm
+CT15_frame2790.jpg,2790,blip,prompt3,leg,no,no,no,no,no,no,no,no,no,no,no,eye
+TQ11_frame359.jpg,359,blip,prompt3,leg,no,no,no,blood,no,no,no,no,no,blood,no,stomach
+IO33_frame2145.jpg,2145,blip,prompt3,wrist,no,no,no,no,no,no,no,no,no,leg,no,leg
+IO12_frame2263.jpg,2263,blip,prompt3,arm,no,blood pressure,blood,blood,no,blood,no,no,no,blood,no,blood
+IO6_frame531.jpg,531,blip,prompt3,arm,no,no,blood,blood,no,no,no,no,no,blood,no,blood
+IO27_frame2526.jpg,2526,blip,prompt3,foot,no,no,gun,blood,gun,blood,no,gun,gun,foot,gun,blood
+IO15_frame1195.jpg,1195,blip,prompt3,arm,no,no,blood,blood,no,no,no,no,no,blood,no,arm
+IO26_frame457.jpg,457,blip,prompt3,leg,eye,eye,blood,blood,eye,blood pressure cuff,no,no,no,blood,gun,blood pressure
+ND2_frame183.jpg,183,blip,prompt3,leg,eye,eye,eye,eye,eye,eye,no,eye,eye,eye,eye,eye
+CT3_frame1869.jpg,1869,blip,prompt3,arm,no,no,no,no,no,no,no,no,no,arm,no,arm
+IO12_frame1220.jpg,1220,blip,prompt3,arm,no,no,no,blood,no,no,no,no,no,blood,no,eye surgery
+CT3_frame1873.jpg,1873,blip,prompt3,arm,no,eyes,no,no,no,no,no,no,no,arm,no,chest
+TQ19_frame4078.jpg,4078,blip,prompt3,arm,blood pressure,blood pressure,blood,blood,blood pressure,blood pressure,no,blood pressure,gun,blood,blood pressure,blood
+CT15_frame4077.jpg,4077,blip,prompt3,arm,no,no,no,no,no,no,no,no,no,eye,no,eye
+ND8_frame3373.jpg,3373,blip,prompt3,blood pressure,eye,eyes,gun,gun,eye,eye,eye,eye,eye,blood pressure,eye,eye surgery
+TQ21_frame1043.jpg,1043,blip,prompt3,arm,no,eye,gun,gun,no,no,no,no,no,arm,gun,arm
+IO28_frame1810.jpg,1810,blip,prompt3,blood,blood pressure,no,blood,blood,no,blood,no,no,no,blood,blood pressure,blood
+TQ2_frame151.jpg,151,blip,prompt3,blood,eye surgery,eye,eye,blood,eye,eye,eye,eye,eye,eye,eye,eye surgery
+TQ5_frame643.jpg,643,blip,prompt3,blood,no,no,blood,blood,no,blood,no,no,no,blood,no,blood
+IO6_frame1329.jpg,1329,blip,prompt3,arm,no,no,blood,blood,no,no,no,no,no,blood,no,leg
+Cric33_frame427.jpg,427,blip,prompt3,arm,eye surgery,eye,eye,blood,eye surgery,eye surgery,eye surgery,eye surgery,eye surgery,blood,eye surgery,eye surgery
+ND25_frame866.jpg,866,blip,prompt3,blood,blood,blood,blood,blood,blood,blood,blood,blood,blood,blood,blood,eye surgery
+ND6_frame225.jpg,225,blip,prompt3,leg,no,no,no,no,no,no,no,no,no,leg,no,leg
+IO8_frame1199.jpg,1199,blip,prompt3,arm,no,no,blood,blood,no,no,no,no,no,blood,no,blood
+TQ22_frame815.jpg,815,blip,prompt3,arm,wearing mask,wearing mask,blood,blood,wearing mask,wearing mask,no,chest,no,blood,wearing mask,blood
+IO13_frame924.jpg,924,blip,prompt3,arm,no,no,blood,blood,no,no,no,no,no,foot,no,arm
+CT5_frame2776.jpg,2776,blip,prompt3,arm,no,eyes,no,no,no,eye,no,no,no,foot,eye,eye
+CT6_frame3812.jpg,3812,blip,prompt3,arm,no,no,no,no,no,no,no,no,no,no,no,stomach
+CT19_frame1923.jpg,1923,blip,prompt3,leg,eye,eye,eye,eye,eye,eye,no,eye,suitcase,eye,eye,eye
+Cric26_frame615.jpg,615,blip,prompt3,arm,no,no,no,blood,no,no,no,no,no,foot,no,surgery
+IO28_frame1724.jpg,1724,blip,prompt3,leg,no,no,blood,blood,no,no,no,no,no,blood,no,leg
+Cric35_frame4095.jpg,4095,blip,prompt3,blood,eye surgery,eye,blood,blood,eye surgery,eye surgery,no,eye surgery,eye surgery,blood,eye surgery,eye surgery
+IO26_frame2067.jpg,2067,blip,prompt3,leg,no,no,gun,blood,no,no,no,no,no,foot,no,blood
+TQ11_frame1882.jpg,1882,blip,prompt3,leg,no,no,blood,blood,no,no,no,no,no,blood,no,eye
+TQ23_frame1102.jpg,1102,blip,prompt3,blood,no,blood,blood,blood,no,no,no,no,no,blood,gun,blood
+ND18_frame1016.jpg,1016,blip,prompt3,arm,no,no,no,blood,no,no,no,no,no,eye,no,eye surgery
+TQ26_frame117.jpg,117,blip,prompt3,arm,no,no,blood,blood,no,no,no,no,no,blood pressure,no,legs
+IO23_frame3936.jpg,3936,blip,prompt3,leg,no,wearing gloves,eye,blood,no,no,no,no,no,leg,no,eye surgery
+Cric18_frame2706.jpg,2706,blip,prompt3,arm,no,no,no,no,no,no,no,no,no,foot,no,arm
+CT13_frame3396.jpg,3396,blip,prompt3,arm,no,no,no,no,no,eye,no,no,no,eye,no,eye
+ND18_frame1074.jpg,1074,blip,prompt3,blood pressure cuff,no,no,no,blood,no,no,no,no,no,blood,no,eye surgery
+CT19_frame1926.jpg,1926,blip,prompt3,leg,eye,eye,eye,eye,eye,eye,suitcase,eye,suitcase,eye,eye,eye
+TQ26_frame2295.jpg,2295,blip,prompt3,leg,wearing mask,wearing mask,no,no,wearing mask,wearing mask,no,no,no,leg,wearing mask,leg
+IO3_frame1705.jpg,1705,blip,prompt3,leg,no,no,blood,blood,no,no,no,no,no,foot,no,legs
+Cric22_frame25.jpg,25,blip,prompt3,arm,eye surgery,eye,eye surgery,blood,eye surgery,eye surgery,no,no,no,eye,eye surgery,eye surgery
+IO11_frame198.jpg,198,blip,prompt3,arm,no,no,no,blood,no,no,no,no,no,blood,no,arm
+CT15_frame52.jpg,52,blip,prompt3,leg,no,no,no,no,no,no,no,no,no,eye,no,eye
+Cric26_frame2059.jpg,2059,blip,prompt3,leg,no,no,no,blood,no,no,no,no,no,foot,no,eye surgery
+Cric15_frame1876.jpg,1876,blip,prompt3,arm,eye surgery,eye,eye surgery,no,no,eye surgery,no,no,no,eye surgery,eye surgery,eye surgery
+IO21_frame972.jpg,972,blip,prompt3,foot,foot,no,blood,blood,no,no,no,no,no,foot,no,foot
+Cric21_frame2071.jpg,2071,blip,prompt3,arm,no,no,no,blood,no,no,no,no,no,leg,no,arm
+ND14_frame729.jpg,729,blip,prompt3,arm,no,eye,first aid,first aid,no,eye surgery,no,no,first aid,eye,eye surgery,eye surgery
+ND11_frame1697.jpg,1697,blip,prompt3,leg,eye,eye,eye,eye,eye,eye,no,no,eye,leg,eye,eye
+ND8_frame1064.jpg,1064,blip,prompt3,leg,eye,eye,gun,gun,eye,eye,no,eye,eye,leg,eye,eye
+TQ20_frame765.jpg,765,blip,prompt3,arm,no,eye,blood,blood,no,eye,yes,no,no,eye,no,eye
+Cric26_frame2173.jpg,2173,blip,prompt3,foot,no,no,no,no,no,no,no,no,no,foot,no,eye surgery
+Cric8_frame580.jpg,580,blip,prompt3,arm,no,no,no,blood pressure,no,no,no,no,no,no,no,eye surgery
+ND14_frame1198.jpg,1198,blip,prompt3,leg,no,no,no,no,no,eye surgery,no,no,no,leg,eye surgery,arm
+ND5_frame974.jpg,974,blip,prompt3,leg,eye,eye,eye,eye,eye,eye,no,no,eye,leg,eye,leg
+ND5_frame512.jpg,512,blip,prompt3,leg,eye,eye,eye,blood,eye,eye,eye,eye,eye,blood,eye,eye
+CT29_frame15320.jpg,15320,blip,prompt3,leg,eye surgery,eye,eye surgery,blood,eye surgery,eye surgery,no,breast cancer,no,eye,eye surgery,eye
+IO15_frame1110.jpg,1110,blip,prompt3,arm,no,no,blood,blood,no,no,no,no,no,blood,no,blood
+IO6_frame2033.jpg,2033,blip,prompt3,arm,no,no,blood pressure,blood,no,blood pressure,no,blood pressure,first aid,blood pressure,no,blood pressure
+TQ3_frame615.jpg,615,blip,prompt3,arm,head,blood,blood,blood,head,head,no,head,no,blood,head,eye surgery
+Cric37_frame1.jpg,1,blip,prompt3,arm,eye surgery,eye,eye,blood,eye,eye,no,eye,eye surgery,eye,eye surgery,eye
+ND18_frame585.jpg,585,blip,prompt3,blood pressure cuff,no,no,blood pressure,blood pressure,no,no,no,no,no,blood pressure,no,eye surgery
+TQ18_frame3111.jpg,3111,blip,prompt3,arm,eye surgery,eye,blood,blood,eye surgery,eye surgery,no,no,no,blood,eye surgery,arm
+CT25_frame473.jpg,473,blip,prompt3,leg,no,no,scissors,scissors,no,no,scissors,no,scissors,no,scissors,eye
+ND14_frame410.jpg,410,blip,prompt3,arm,eye surgery,eye surgery,eye surgery,blood,eye surgery,eye surgery,no,no,no,eye surgery,eye surgery,eye surgery
+CT8_frame35.jpg,35,blip,prompt3,foot,no,no,no,no,no,eyes,no,no,no,foot,no,eye
+CT27_frame2803.jpg,2803,blip,prompt3,leg,no,no,no,blood,no,no,no,no,no,foot,no,leg
+Cric25_frame1116.jpg,1116,blip,prompt3,leg,no,no,no,blood,no,no,no,no,no,foot,no,legs
+IO34_frame1653.jpg,1653,blip,prompt3,leg,shoes,no,no,blood,shoes,shoes,shoes,no,no,leg,shoes,leg
+CT29_frame16383.jpg,16383,blip,prompt3,leg,no,no,mask,mask,mask,mask,no,no,no,eye,mask,eye
+TQ23_frame877.jpg,877,blip,prompt3,arm,gun,blood,gun,gun,gun,gun,gun,gun,gun,blood,gun,blood
+ND14_frame857.jpg,857,blip,prompt3,arm,no,eye,eye surgery,no,no,eye surgery,no,no,no,eye,eye surgery,eye surgery
+IO3_frame1721.jpg,1721,blip,prompt3,foot,no,no,blood,blood,no,blood pressure,no,no,no,foot,no,blood
+CT12_frame4032.jpg,4032,blip,prompt3,leg,no,no,no,blood,no,no,no,fat,no,leg,no,arm
+TQ35_frame170.jpg,170,blip,prompt3,arm,blood,eyes,blood,blood,blood,blood,no,blood,no,leg,blood,leg
+CT14_frame10926.jpg,10926,blip,prompt3,leg,no,no,gun,gun,no,no,no,gun,no,blood,gun,blood
+CT27_frame4249.jpg,4249,blip,prompt3,leg,no,no,no,no,no,no,no,no,no,no,no,eye
+Cric18_frame1831.jpg,1831,blip,prompt3,arm,no,no,no,no,no,no,no,no,no,eye surgery,no,eye surgery
+ND12_frame874.jpg,874,blip,prompt3,leg,no,no,no,no,no,eye,no,no,no,leg,eye,eye
+TQ18_frame3638.jpg,3638,blip,prompt3,arm,blood,blood,blood,blood,blood,blood,no,blood,no,blood,blood,eye
+Cric11_frame2739.jpg,2739,blip,prompt3,blood pressure cuff,blood pressure,blood pressure,blood pressure,blood pressure,no,blood pressure,no,no,no,blood pressure,no,blood pressure
+TQ34_frame601.jpg,601,blip,prompt3,arm,no,wearing shoes,blood,blood,no,no,no,no,no,blood,no,legs
+IO26_frame601.jpg,601,blip,prompt3,leg,no,no,no,blood,no,no,no,no,no,foot,no,foot
+IO5_frame1590.jpg,1590,blip,prompt3,foot,foot,no,no,blood,foot,foot,no,no,no,foot,foot,leg
+Cric15_frame736.jpg,736,blip,prompt3,arm,no,no,no,blood,no,no,no,no,no,eye,no,eye surgery
+IO27_frame2743.jpg,2743,blip,prompt3,leg,no,no,gun,gun,no,eye,no,no,no,foot,gun,eye
+IO19_frame381.jpg,381,blip,prompt3,arm,no,no,blood,blood,no,no,no,no,no,foot,no,arm
+IO25_frame260.jpg,260,blip,prompt3,leg,no,no,no,no,suitcase,no,no,no,suitcase,leg,suitcase,eye
+TQ2_frame1563.jpg,1563,blip,prompt3,arm,blood,blood,blood,blood,eye surgery,blood,no,blood,scissors,blood,eye surgery,eye surgery
+Cric25_frame2015.jpg,2015,blip,prompt3,leg,no,no,no,no,no,no,no,no,no,foot,no,eye surgery
+Cric12_frame499.jpg,499,blip,prompt3,leg,no,no,no,blood,no,eye surgery,no,no,no,leg,eye surgery,eye surgery
+IO23_frame2005.jpg,2005,blip,prompt3,leg,no,no,no,gun,no,no,no,no,no,foot,gloves,eye
+Cric28_frame314.jpg,314,blip,prompt3,arm,no,eyes,no,no,no,no,no,no,no,eye,no,eye
+IO34_frame1619.jpg,1619,blip,prompt3,leg,shoes,no,no,blood,shoes,shoes,shoes,no,no,foot,shoes,leg
+CT22_frame2412.jpg,2412,blip,prompt3,arm,no,no,no,no,no,eye,no,no,no,leg,no,eye
+TQ12_frame1159.jpg,1159,blip,prompt3,leg,no,no,blood,blood,no,no,no,no,no,blood,no,eye
+ND8_frame1107.jpg,1107,blip,prompt3,leg,eye,eye,gun,gun,eye,eye,no,no,no,leg,eye,leg
+ND28_frame25.jpg,25,blip,prompt3,blood,eye surgery,eyes,gun,blood,eye surgery,eyes closed,no,chest,no,blood,eyes,eye surgery
+ND2_frame2035.jpg,2035,blip,prompt3,blood pressure,eye,eye,gun,gun,eye,eye,eye,eye,eye,eye,eye,eye
+IO35_frame499.jpg,499,blip,prompt3,wrist,no,no,yes,blood,no,no,no,no,no,leg,no,leg
+CT8_frame68.jpg,68,blip,prompt3,arm,no,no,no,no,no,no,no,no,no,no,no,eye
+TQ3_frame1.jpg,1,blip,prompt3,arm,no,no,no,blood,no,no,no,no,no,leg,no,eye surgery
+CT22_frame4248.jpg,4248,blip,prompt3,leg,no,no,no,blood,no,eye,no,no,no,leg,eye,arm
+ND26_frame72.jpg,72,blip,prompt3,leg,eye,eyes,blood,blood,eye,eye,no,no,no,foot,eye,eye
+ND2_frame1473.jpg,1473,blip,prompt3,blood pressure,eye,eye,eye,eye,eye,eye,eye,eye,eye,eye,eye,eye
+TQ5_frame1128.jpg,1128,blip,prompt3,arm,blood,blood,blood,blood,blood,blood,no,blood,blood,blood,blood,blood
+Cric5_frame555.jpg,555,blip,prompt3,wrist brace,eye surgery,no,eye surgery,blood pressure,eye surgery,eye surgery,no,no,no,blood pressure,eye surgery,eye surgery
+CT15_frame2657.jpg,2657,blip,prompt3,leg,no,no,no,no,no,eye,no,no,no,eye,eye,eye
+IO21_frame1.jpg,1,blip,prompt3,blood,blood,blood,blood,blood,blood,blood,blood,blood,blood,blood,blood pressure,blood
+TQ3_frame1348.jpg,1348,blip,prompt3,arm,blood,blood,blood,blood,blood,blood,no,no,blood,blood,blood,blood
+TQ11_frame1879.jpg,1879,blip,prompt3,leg,no,no,blood,blood,no,blood,no,no,no,blood,no,eye
+Cric11_frame2945.jpg,2945,blip,prompt3,arm,no,no,blood pressure,blood pressure,no,eye surgery,no,no,no,blood pressure,no,eye surgery
+ND11_frame1.jpg,1,blip,prompt3,arm,no,no,no,no,no,no,no,no,no,eye,no,eye
+TQ21_frame599.jpg,599,blip,prompt3,arm,wearing gun,wearing glasses,gun,gun,wearing mask,wearing mask,no,no,gun,blood,gun,eye surgery
+TQ22_frame421.jpg,421,blip,prompt3,arm,gun,eyes,gun,gun,gun,gun,no,no,gun,blood,gun,arm
+IO29_frame784.jpg,784,blip,prompt3,wrist,no,no,no,blood,no,no,no,no,no,blood,no,leg
+IO22_frame1707.jpg,1707,blip,prompt3,blood,blood pressure,blood,blood,blood,no,blood,no,no,no,blood,blood pressure,blood
+Cric6_frame2042.jpg,2042,blip,prompt3,arm,eye surgery,eye surgery,eye surgery,blood pressure,eye surgery,eye surgery,no,eye surgery,eye surgery,eye surgery,eye surgery,eye surgery
+Cric34_frame2459.jpg,2459,blip,prompt3,arm,no,eye,gun,blood,eye surgery,eye surgery,no,no,no,blood,eye surgery,blood
+IO12_frame1059.jpg,1059,blip,prompt3,arm,no,no,no,blood,no,no,no,no,no,blood,no,arm
+IO22_frame1354.jpg,1354,blip,prompt3,arm,foot,no,blood,blood,foot,blood,foot,no,no,blood,foot,blood
+IO26_frame155.jpg,155,blip,prompt3,arm,no,no,gun,gun,no,no,no,no,no,gun,gun,eye
+CT11_frame1406.jpg,1406,blip,prompt3,leg,no,eyes,no,no,no,eyes,no,no,no,eye,no mask,eye
+CT25_frame2625.jpg,2625,blip,prompt3,leg,no,no,no,no,no,no,no,no,no,leg,no,arm
+CT25_frame1012.jpg,1012,blip,prompt3,no,scissors,no,scissors,scissors,scissors,scissors,scissors,no,scissors,eye surgery,scissors,eye surgery
+ND29_frame569.jpg,569,blip,prompt3,blood,eyes,eyes,eyes,blood,eyes,eyes,eyes,eyes,eyes,blood,eyes,eye surgery
+IO21_frame1923.jpg,1923,blip,prompt3,foot,no,no,blood,blood,no,no,no,no,no,foot,no,legs
+ND21_frame1.jpg,1,blip,prompt3,arm,no,no,no,no,no,face,no,no,no,eye,no,head
+Cric6_frame145.jpg,145,blip,prompt3,arm,eye surgery,eye,eye surgery,blood,eye surgery,eye surgery,no,no,eye surgery,eye,eye surgery,eye surgery
+ND13_frame551.jpg,551,blip,prompt3,leg,no,no,no,no,no,no,no,no,no,foot,no,arm
+TQ13_frame1242.jpg,1242,blip,prompt3,arm,no,no,blood,blood,no,blood,no,no,no,blood,no,arm
+Cric8_frame1743.jpg,1743,blip,prompt3,arm,eye surgery,eye surgery,eye surgery,blood,eye surgery,eye surgery,no,no,eye surgery,eye surgery,eye surgery,eye surgery
+ND26_frame53.jpg,53,blip,prompt3,leg,eye,eyes,eye,blood,eye,eye,no,no,no,foot,eye,eye
+TQ12_frame1266.jpg,1266,blip,prompt3,wrist,no,no,no,no,no,no,no,no,no,no,no,eye
+Cric35_frame5384.jpg,5384,blip,prompt3,arm,eye,eye,gun,gun,eye,eye,no,eye,no,gun,eye,eye
+TQ35_frame1351.jpg,1351,blip,prompt3,blood,blood,blood,blood,blood,blood,blood,blood,blood,blood,blood,blood,blood
+TQ6_frame1307.jpg,1307,blip,prompt3,blood,no,no,blood,blood,no,blood,no,no,no,blood,no,blood
+Cric11_frame310.jpg,310,blip,prompt3,arm,eye surgery,eye,blood,blood,eye surgery,eye surgery,eye surgery,eye surgery,eye surgery,blood,eye surgery,leg
+ND13_frame1133.jpg,1133,blip,prompt3,arm,eye surgery,eye,eye surgery,no,eye surgery,eye surgery,no,eye surgery,gloves,glove,eye surgery,eye surgery
+ND2_frame2039.jpg,2039,blip,prompt3,blood,eye,breast cancer,gun,gun,eye,eye,breast cancer,breast cancer,gun,gun,eye,eye
+TQ21_frame976.jpg,976,blip,prompt3,arm,wearing gun,wearing gun,gun,gun,wearing mask,wearing mask,no,chest,no,blood,gun,arm
+ND18_frame234.jpg,234,blip,prompt3,leg,no,no,no,blood pressure,no,no,no,no,no,foot,no,leg
+Cric28_frame2553.jpg,2553,blip,prompt3,leg,no,no,no,blood,no,no,no,no,no,blood pressure,no,surgery
+ND15_frame563.jpg,563,blip,prompt3,arm,no,eye,eye,blood,no,eye surgery,no,no,no,eye,eye surgery,eye
+Cric12_frame2032.jpg,2032,blip,prompt3,arm,surgery,no,surgery,blood,surgery,surgery,surgery,no,surgery,blood,surgery,eye surgery
+ND8_frame1103.jpg,1103,blip,prompt3,leg,eye,eye,gun,gun,eye,eye,no,eye,eye,leg,eye,eye
+Cric37_frame2334.jpg,2334,blip,prompt3,arm,eye,eyes,eye,mask,mask,mask,no,no,eye,eye,mask,eye
+TQ19_frame3892.jpg,3892,blip,prompt3,arm,blood pressure,blood,blood,blood,no,blood,no,blood,gun,blood,gun,arm
+ND2_frame1287.jpg,1287,blip,prompt3,blood,eye,eyes,gun,gun,eye,eye,eye,eye,eye,blood,eye,eye
+IO5_frame367.jpg,367,blip,prompt3,blood pressure,no,no,blood,blood,no,no,no,no,no,blood,no,blood
+CT3_frame58.jpg,58,blip,prompt3,leg,no,no,no,no,no,no,no,no,no,no,no,eye
+CT13_frame3506.jpg,3506,blip,prompt3,leg,no,breast cancer,no,no,no,no,no,breast cancer,no,leg,no,eye
+CT2_frame820.jpg,820,blip,prompt3,arm,no,no,no,no,no,no,no,no,no,no,no,eye
+Cric23_frame2152.jpg,2152,blip,prompt3,arm,eye surgery,eye,eye surgery,blood,eye surgery,eye surgery,no,no,eye surgery,foot,eye surgery,eye surgery
+ND12_frame1128.jpg,1128,blip,prompt3,leg,eye surgery,eye,eye,no,eye,eye,no,no,eye surgery,eye,eye surgery,eye surgery
+IO20_frame1603.jpg,1603,blip,prompt3,leg,foot,no,no,no,foot,foot,foot,no,no,foot,foot,leg
+IO22_frame786.jpg,786,blip,prompt3,arm,no,no,blood,blood,no,no,no,no,no,foot,no,leg
+Cric35_frame2799.jpg,2799,blip,prompt3,blood,eye surgery,eye,gun,blood,eye surgery,eye surgery,eye surgery,eye surgery,eye surgery,blood,eye surgery,eye surgery
+TQ21_frame776.jpg,776,blip,prompt3,arm,no,blood,blood,blood,no,blood,no,blood,no,blood,no,arm
+Cric22_frame2671.jpg,2671,blip,prompt3,arm,no,no,no,blood pressure,no,no,no,no,no,blood pressure,no,eye surgery
+TQ35_frame864.jpg,864,blip,prompt3,arm,eyes,eyes,blood,blood,eyes,eyes,yes,no,eyes,leg,eyes,leg
+CT3_frame2872.jpg,2872,blip,prompt3,arm,no,no,no,blood,no,no,no,no,no,foot,no,arm
+Cric11_frame1667.jpg,1667,blip,prompt3,arm,no,no,no,blood pressure,no,eye surgery,no,no,no,blood pressure,no,eye surgery
+IO22_frame187.jpg,187,blip,prompt3,yes,blood,no,blood,blood,blood,blood,blood,blood,blood,blood,blood pressure,blood
+ND21_frame640.jpg,640,blip,prompt3,arm,no,no,no,no,no,no,no,no,no,eye,no,eye surgery
+ND18_frame1153.jpg,1153,blip,prompt3,blood pressure cuff,no,no,no,blood pressure,no,no,no,no,no,blood pressure cuff,no,eye surgery
+ND5_frame1287.jpg,1287,blip,prompt3,leg,eye,breast cancer,gun,gun,eye,eye,breast cancer,breast cancer,no,blood,eye,eye surgery
+CT14_frame15003.jpg,15003,blip,prompt3,eye,ear,eye,eye,blood,ear,ear,ear,eye,ear,eye,ear,eye
+CT2_frame2899.jpg,2899,blip,prompt3,arm,no,no,no,no,no,eyes,no,no,no,foot,eyes,arm
+IO33_frame2013.jpg,2013,blip,prompt3,wrist,no,no,blood,blood,no,no,no,no,no,blood,no,leg
+Cric28_frame2102.jpg,2102,blip,prompt3,no,no,no,no,no,no,no,no,no,no,no,no,no
+IO5_frame284.jpg,284,blip,prompt3,blood pressure,no,no,blood,blood,no,no,no,no,no,blood,no,blood
+IO12_frame1777.jpg,1777,blip,prompt3,arm,no,no,blood,blood,no,no,no,no,no,leg,no,leg
+Cric21_frame2012.jpg,2012,blip,prompt3,arm,surgery,no,surgery,blood,surgery,surgery,surgery,surgery,surgery,blood,surgery,eye surgery
+IO3_frame1492.jpg,1492,blip,prompt3,leg,no,no,no,blood,no,no,no,no,no,leg,no,legs
+IO34_frame1689.jpg,1689,blip,prompt3,leg,shoes,no,no,blood,shoes,no,shoes,no,no,leg,no,leg
+IO29_frame1035.jpg,1035,blip,prompt3,leg,no,no,no,no,no,no,no,no,no,foot,no,leg
+IO35_frame37.jpg,37,blip,prompt3,wrist,shoes,no,no,blood,shoes,shoes,shoes,no,no,leg,shoes,leg
+CT14_frame5768.jpg,5768,blip,prompt3,leg,no idea,no,no,blood,no idea,no idea,no idea,no idea,no,leg,no idea,leg
+Cric21_frame1898.jpg,1898,blip,prompt3,foot,eye surgery,eye,eye surgery,blood,eye surgery,eye surgery,no,no,no,eye,eye surgery,eye surgery
+TQ34_frame120.jpg,120,blip,prompt3,arm,shoes,no,no,blood,shoes,no,shoes,no,no,leg,shoes,leg
+CT15_frame2023.jpg,2023,blip,prompt3,leg,eye,eyes,eye,eye,eye,eye,no,breast cancer,eye,eye,eye,eye
+TQ23_frame344.jpg,344,blip,prompt3,arm,no,wearing shoes,gun,blood,no,no,no,no,no,blood,no,blood
+Cric28_frame2407.jpg,2407,blip,prompt3,leg,no,no,no,no,no,no,no,no,no,eye,no,eye surgery
+IO18_frame1590.jpg,1590,blip,prompt3,leg,no,no,blood,blood,no,no,no,no,no,foot,no,blood
+IO18_frame905.jpg,905,blip,prompt3,leg,foot,no,no,no,no,no,no,no,no,foot,no,leg
+TQ13_frame827.jpg,827,blip,prompt3,arm,blood,no,blood,blood,no,blood,no,no,no,blood,blood,arm
+ND26_frame696.jpg,696,blip,prompt3,leg,eye,eyes,blood,blood,eye,eye,no,no,no,foot,eye,eye
+IO13_frame190.jpg,190,blip,prompt3,arm,gun,blood,gun,gun,no,gun,no,gun,no,blood,gun,blood
+Cric11_frame2463.jpg,2463,blip,prompt3,wrist,no,no,no,no,no,no,no,no,scissors,no,no,no
+CT13_frame3501.jpg,3501,blip,prompt3,leg,no,no,no,no,no,no,no,no,no,leg,no,eye
+Cric12_frame1992.jpg,1992,blip,prompt3,arm,no,no,no,blood,no,no,no,no,no,blood,no,surgery
+CT26_frame11772.jpg,11772,blip,prompt3,leg,no,no,no,no,no,no,no,no,no,foot,no,no
+Cric23_frame2156.jpg,2156,blip,prompt3,leg,eye surgery,eye,eye surgery,eye,eye surgery,eye surgery,eye surgery,eye surgery,eye surgery,eye surgery,eye surgery,eye surgery
+TQ3_frame825.jpg,825,blip,prompt3,arm,head,no,blood,blood,head,head,no,head,no,blood,head,blood
+CT13_frame2712.jpg,2712,blip,prompt3,leg,no,no,no,no,no,no,no,no,no,no,no,eye
+CT11_frame128.jpg,128,blip,prompt3,leg,no,no,no,blood,no,no,no,no,no,eye,no,eye
+Cric5_frame665.jpg,665,blip,prompt3,arm,eye surgery,eye surgery,eye surgery,blood pressure,eye surgery,eye surgery,eye surgery,eye surgery,eye surgery,eye surgery,eye surgery,eye surgery
+IO23_frame1617.jpg,1617,blip,prompt3,leg,no,no,no,no,no,no,no,no,no,foot,no,no
+TQ12_frame1053.jpg,1053,blip,prompt3,leg,no,no,blood,blood,no,no,no,no,no,blood,no,eye
+Cric8_frame3.jpg,3,blip,prompt3,arm,no,no,no,no,no,no,no,no,no,eye surgery,no,arm
+TQ33_frame1568.jpg,1568,blip,prompt3,blood,blood,blood,blood,blood,blood,blood,blood,blood,blood,blood,blood,blood
+CT14_frame5265.jpg,5265,blip,prompt3,leg,no,eyes,no,blood,no,no,no,no,no,leg,no mask,eye surgery
+IO33_frame2059.jpg,2059,blip,prompt3,wrist,no,no,blood,blood,no,no,no,no,no,blood,no,leg
+IO5_frame671.jpg,671,blip,prompt3,arm,no,no,blood,blood,no,no,no,no,no,blood,no,blood
+CT19_frame445.jpg,445,blip,prompt3,leg,eye,eye,eye,eye,eye,eye,eye,eye,eye,eye,eye,eye
+TQ27_frame379.jpg,379,blip,prompt3,blood,blood,blood,blood,blood,blood,blood,blood,blood,blood,blood,blood,blood
+IO8_frame1493.jpg,1493,blip,prompt3,arm,no,no,no,blood,no,no,no,no,no,foot,no,leg
+Cric11_frame763.jpg,763,blip,prompt3,arm,eye surgery,eye surgery,blood pressure,blood pressure,eye surgery,eye surgery,no,no,no,blood pressure,eye surgery,arm
+CT25_frame424.jpg,424,blip,prompt3,leg,scissors,no,scissors,scissors,scissors,scissors,scissors,no,scissors,eye,scissors,eye
+IO26_frame1808.jpg,1808,blip,prompt3,foot,shoes,no,shoes,no,shoes,shoes,shoes,shoes,no,foot,shoes,foot
+IO11_frame209.jpg,209,blip,prompt3,arm,no,no,blood,blood,no,no,no,no,no,blood,no,arm
+Cric8_frame596.jpg,596,blip,prompt3,blood pressure,no,no,no,blood pressure,no,no,no,no,no,blood pressure,no,eye surgery
+CT25_frame96.jpg,96,blip,prompt3,leg,eye,eye,eye,scissors,eye,eye,scissors,eye,scissors,eye,eye,eye
+IO14_frame871.jpg,871,blip,prompt3,arm,no,no,blood,blood,no,blood,no,no,no,foot,no,blood
+Cric23_frame2842.jpg,2842,blip,prompt3,arm,no,no,no,no,no,no,no,no,no,eye,no,eye surgery
+CT13_frame3154.jpg,3154,blip,prompt3,leg,no,no,no,blood,no,no,no,no,no,eye,no,eye
+ND15_frame1315.jpg,1315,blip,prompt3,arm,eye surgery,eye,eye surgery,blood pressure,no,eye surgery,no,no,no,eye,eye surgery,eye surgery
+IO20_frame298.jpg,298,blip,prompt3,blood,blood,blood,blood,blood,blood,blood,foot,blood,blood pressure,blood,blood pressure,blood
+CT22_frame1572.jpg,1572,blip,prompt3,leg,eye,eyes,eye,blood,eye,eye,no,no,eye,eye,eye,eye
+ND21_frame1248.jpg,1248,blip,prompt3,leg,no,no,no,no,no,no,no,no,no,foot,no,eye surgery
+ND13_frame1384.jpg,1384,blip,prompt3,leg,no,no,no,no,no,no,no,no,no,leg,no,arm
+IO25_frame146.jpg,146,blip,prompt3,no,no,no,no,no,no,no,no,no,no,no,no,eye
+Cric22_frame2059.jpg,2059,blip,prompt3,leg,eye surgery,eye,eye surgery,blood,eye surgery,eye surgery,no,eye surgery,eye surgery,eye surgery,eye surgery,eye surgery
+TQ33_frame606.jpg,606,blip,prompt3,blood,blood,blood,blood,blood,blood,blood,blood,blood,blood,blood,blood,blood
+ND5_frame1972.jpg,1972,blip,prompt3,blood pressure cuff,eye,eye,eye,blood,eye,eye,breast cancer,eye,eye,blood pressure,eye,eye surgery
+TQ22_frame760.jpg,760,blip,prompt3,arm,no,blood,blood,blood,no,no,no,no,no,blood,gun,blood
+TQ25_frame899.jpg,899,blip,prompt3,leg,wearing shoes,wearing shoes,eye,blood,wearing shoes,wearing helmet,wearing helmet,no,no,blood,wearing helmet,eye surgery
+IO18_frame835.jpg,835,blip,prompt3,leg,foot,no,no,no,foot,foot,foot,no,no,foot,foot,foot
+Cric11_frame1821.jpg,1821,blip,prompt3,arm,eye surgery,eye,eye surgery,blood pressure,eye surgery,eye surgery,no,no,no,blood pressure,eye surgery,eye surgery
+TQ35_frame200.jpg,200,blip,prompt3,arm,blood,blood,blood,blood,blood,blood,blood,blood,blood,blood,blood,leg
+IO2_frame2459.jpg,2459,blip,prompt3,arm,no,no,blood,blood,no,no,no,no,no,blood,no,blood
+IO5_frame1774.jpg,1774,blip,prompt3,foot,foot,no,blood,blood,foot,foot,foot,no,no,foot,foot,leg
+IO11_frame1.jpg,1,blip,prompt3,arm,no,eye,blood,blood,no,no,no,no,no,arm,no,arm
+CT6_frame3835.jpg,3835,blip,prompt3,no,no,no,no,no,no,no,no,no,no,no,no,stomach
+IO19_frame1086.jpg,1086,blip,prompt3,leg,foot,no,no,no,foot,foot,foot,no,no,foot,foot,leg
+TQ26_frame1389.jpg,1389,blip,prompt3,leg,shoes,no,blood,blood,shoes,shoes,shoes,no,no,leg,shoes,leg
+IO20_frame105.jpg,105,blip,prompt3,blood,blood pressure,blood,blood,blood,blood,blood,blood pressure,blood,blood pressure,blood,blood pressure,blood
+ND6_frame556.jpg,556,blip,prompt3,blood,eye,eye,gun,blood,eye,eye,no,eye,eye,blood,eye,eye surgery
+CT5_frame834.jpg,834,blip,prompt3,arm,no,no,no,no,no,eyes closed,no,no,no,eye,eyes,eye
+TQ18_frame299.jpg,299,blip,prompt3,arm,eye,eye,blood,blood,eye,eye,no,no,no,blood,eye,arm
+Cric18_frame1221.jpg,1221,blip,prompt3,arm,no,no,no,no,no,no,no,no,no,arm,no,arm
+IO11_frame121.jpg,121,blip,prompt3,arm,no,no,blood,blood,no,no,no,no,no,blood,no,arm
+TQ27_frame1095.jpg,1095,blip,prompt3,leg,blood,eye,blood,blood,blood,blood,blood,blood,blood,blood,blood,blood
+TQ3_frame1066.jpg,1066,blip,prompt3,arm,blood,no,blood,blood,no,blood,no,no,no,blood,blood,blood
+CT22_frame2994.jpg,2994,blip,prompt3,leg,no,eye,no,blood,no,no,no,no,no,eye,no,eye
+IO15_frame1549.jpg,1549,blip,prompt3,arm,no,no,blood,blood,no,no,no,no,no,blood,no,eye
+IO11_frame1655.jpg,1655,blip,prompt3,arm,no,no,no,blood,no,no,no,no,no,blood,no,arm
+ND29_frame587.jpg,587,blip,prompt3,blood,eyes,eyes,eyes,blood,eyes,eyes,eyes,eyes,eyes,blood,eyes,eye surgery
+TQ27_frame277.jpg,277,blip,prompt3,blood,blood,blood,blood,blood,blood,blood,blood,blood,blood,blood,blood,blood
+ND33_frame254.jpg,254,blip,prompt3,arm,blood,eye,blood,blood,blood,blood,no,chest,no,blood,eye surgery,eye
+Cric25_frame465.jpg,465,blip,prompt3,arm,no,eye surgery,no,blood,no,eye surgery,no,no,no,foot,eye surgery,eye surgery
+CT27_frame4935.jpg,4935,blip,prompt3,leg,no,no,no,blood,no,no,no,no,no,no,no,arm
+CT6_frame2833.jpg,2833,blip,prompt3,arm,no,no,no,no,no,no,no,no,no,no,no,arm
+Cric28_frame679.jpg,679,blip,prompt3,leg,no,no,no,no,no,no,no,no,no,eye,no,eye
+CT25_frame1022.jpg,1022,blip,prompt3,no,scissors,no,scissors,scissors,scissors,scissors,scissors,no,scissors,eye surgery,scissors,eye surgery
+Cric18_frame1986.jpg,1986,blip,prompt3,arm,no,no,no,blood,no,no,no,no,no,blood,no,legs
+CT12_frame3318.jpg,3318,blip,prompt3,leg,eye,eyes,eye,blood,eye,eye,no,breast cancer,no,eye,eye,eye
+ND26_frame1232.jpg,1232,blip,prompt3,arm,eye,eye,eye,blood,eye,eye,eye,eye,eye,blood,eye,eye
+ND25_frame1742.jpg,1742,blip,prompt3,arm,eye surgery,eye,blood,blood,eye,eye,eye,eye,eye,blood,eye,eye surgery
+IO14_frame1452.jpg,1452,blip,prompt3,arm,blood,blood,gun,blood,blood,blood,no,blood,gun,blood,gun,blood
+Cric13_frame2051.jpg,2051,blip,prompt3,arm,eye surgery,eye,eye surgery,blood,eye surgery,eye surgery,no,no,no,eye,eye surgery,eye surgery
+IO3_frame577.jpg,577,blip,prompt3,arm,no,no,blood,blood,no,no,no,no,no,blood,no,blood pressure
+CT11_frame3464.jpg,3464,blip,prompt3,leg,no,eyes,no,blood,eye,eye,no,no,no,eye,no,eye
+IO6_frame1872.jpg,1872,blip,prompt3,arm,no,no,blood,blood,no,no,no,no,no,blood,no,leg
+ND28_frame1052.jpg,1052,blip,prompt3,arm,eye surgery,eye,eye surgery,blood,eye surgery,eye surgery,no,no,no,blood,eye surgery,eye surgery
+CT28_frame7980.jpg,7980,blip,prompt3,arm,no,no,no,no,no,no,no,no,no,no,no,no
+ND13_frame1647.jpg,1647,blip,prompt3,arm,eye surgery,no,eye,no,head,eye surgery,no,no,first aid,eye,eye surgery,eye
+CT29_frame18810.jpg,18810,blip,prompt3,leg,no,no,blood,blood,no,eye surgery,no,no,no,blood,eye surgery,eye surgery
+Cric18_frame1678.jpg,1678,blip,prompt3,arm,head,no,no,blood pressure,head,head,no,no,no,foot,head,arm
+Cric34_frame3832.jpg,3832,blip,prompt3,eye,eye surgery,eye,eye surgery,gun,eye surgery,eye surgery,eye surgery,eye surgery,eye surgery,eye,eye surgery,eye surgery
+ND25_frame559.jpg,559,blip,prompt3,arm,no,eyes,blood,blood,no,eye surgery,no,no,no,foot,no,arm
+TQ12_frame1772.jpg,1772,blip,prompt3,leg,no,no,blood,blood,no,no,no,no,no,foot,no,eye
+TQ3_frame1390.jpg,1390,blip,prompt3,arm,head,eye,blood,blood,head,head,no,no,no,blood,head,arm
+IO2_frame394.jpg,394,blip,prompt3,arm,no,no,blood,blood,no,no,no,no,no,eye,no,eye
+TQ25_frame146.jpg,146,blip,prompt3,blood pressure,wearing shoes,wearing shoes,blood,blood,wearing shoes,wearing mask,wearing shoes,wearing shoes,wearing shoes,blood,wearing shoes,blood pressure
+Cric18_frame1729.jpg,1729,blip,prompt3,arm,no,no,no,blood,no,head,no,no,no,foot,head,arm
+IO19_frame1660.jpg,1660,blip,prompt3,arm,blood,blood,blood,blood,blood,blood,blood,blood,blood,blood,blood,blood
+Cric14_frame2012.jpg,2012,blip,prompt3,arm,no,no,no,blood,no,no,no,no,no,surgery,no,surgery
+CT6_frame3832.jpg,3832,blip,prompt3,arm,no,no,no,no,no,no,no,no,no,no,no,stomach
+Cric25_frame2.jpg,2,blip,prompt3,arm,no,no,no,blood pressure,no,no,no,no,no,eye,no,eye surgery
+IO12_frame483.jpg,483,blip,prompt3,arm,no,no,no,blood,no,no,no,no,no,arm,no,arm
+IO2_frame498.jpg,498,blip,prompt3,arm,no,no,blood,blood,no,no,no,no,no,foot,no,leg
+Cric33_frame1566.jpg,1566,blip,prompt4,arm,eye,eyes,no,blood pressure,no,eye,no,no,no,blood pressure,eye,legs
+ND2_frame1836.jpg,1836,blip,prompt4,blood pressure cuff,eye,eyes,no,no,eye,eye,no,no,no,blood pressure,eye,eye
+CT2_frame3051.jpg,3051,blip,prompt4,no,no,no,no,no,no,no,no,no,no,no,no,no
+Cric22_frame2.jpg,2,blip,prompt4,blood pressure cuff,no,no,no,no,no,no,no,no,no,blood pressure,no,eye
+ND6_frame1119.jpg,1119,blip,prompt4,blood pressure cuff,no,no,no,no,no,no,no,no,no,blood pressure,no,eye
+ND6_frame555.jpg,555,blip,prompt4,blood pressure cuff,eye,eyes,no,blood pressure,eye,eye,no,no,no,blood pressure,eye,eye
+CT15_frame1.jpg,1,blip,prompt4,leg,no,no,no,no,eyes,eyes,no,no,no,no,eyes,eye
+ND28_frame1000.jpg,1000,blip,prompt4,blood pressure,eye patch,eyes,no,blood pressure,no,eye patch,no,no,no,blood pressure,eye,eye surgery
+Cric28_frame612.jpg,612,blip,prompt4,yes,no,no,no,no,no,no,no,no,no,no,no,no
+IO19_frame1223.jpg,1223,blip,prompt4,blood pressure,no,no,no,no,no,no,no,no,no,blood pressure,no,legs
+CT14_frame13610.jpg,13610,blip,prompt4,blood pressure,no,no,blood pressure,blood pressure,no,no,no,no,no,blood pressure,no,legs
+ND6_frame2389.jpg,2389,blip,prompt4,blood pressure cuff,no,no,no,blood pressure,no,eye,no,no,no,blood pressure cuff,eye,eye
+TQ22_frame22.jpg,22,blip,prompt4,blood pressure cuff,blood pressure,blood,blood,blood,blood,blood,blood pressure,blood,blood pressure,blood pressure,blood pressure,blood pressure
+Cric22_frame3.jpg,3,blip,prompt4,blood pressure cuff,no,no,no,no,no,no,no,no,no,blood pressure,no,eye
+Cric5_frame1599.jpg,1599,blip,prompt4,blood pressure,no,no,no,no,no,no,no,no,no,blood pressure,no,eye
+CT19_frame2333.jpg,2333,blip,prompt4,leg,no,no,no,blood,no,no,no,no,no,no,no,no
+IO26_frame343.jpg,343,blip,prompt4,leg,no,no,no,blood pressure,no,no,no,no,no,blood pressure,no,legs
+TQ26_frame1608.jpg,1608,blip,prompt4,blood pressure,wearing gloves,legs,blood pressure,blood pressure,no,eye surgery,no,no,no,blood pressure,eye surgery,legs
+IO28_frame210.jpg,210,blip,prompt4,blood pressure,no,no,no,no,no,no,no,no,no,blood pressure,no,no
+Cric37_frame2406.jpg,2406,blip,prompt4,blood pressure,no,eyes,no,blood pressure,no,no,no,no,no,blood pressure,no,first aid
+ND13_frame1648.jpg,1648,blip,prompt4,first aid,no,eyes,no,first aid,no,eye,no,no,no,first aid,eye,eye
+Cric23_frame2145.jpg,2145,blip,prompt4,blood pressure,no,no,no,no,no,no,no,no,no,blood pressure,no,no
+ND26_frame1238.jpg,1238,blip,prompt4,blood pressure,no,eyes,no,blood,no,eyes,no,no,no,blood pressure,eye,x
+TQ13_frame1714.jpg,1714,blip,prompt4,arm,no,no,blood,blood,no,no,no,no,no,blood pressure,no,arm
+Cric22_frame2085.jpg,2085,blip,prompt4,blood pressure,no,no,no,no,no,no,no,no,no,blood pressure,no,no
+ND3_frame2963.jpg,2963,blip,prompt4,blood pressure,eye,eyes,gun,blood,eye,eye,gun,gun,no,blood pressure,eye,eye
+IO8_frame1940.jpg,1940,blip,prompt4,blood pressure,no,no,no,no,no,no,no,no,no,blood pressure,no,eye
+IO2_frame327.jpg,327,blip,prompt4,blood pressure,no,no,no,blood pressure,no,no,no,no,no,blood pressure,no,blood pressure
+CT19_frame1928.jpg,1928,blip,prompt4,leg,no,no,no,red eye,no,eye,no,no,no,blood,eye,eye
+Cric12_frame1951.jpg,1951,blip,prompt4,blood pressure,no,no,no,no,no,no,no,no,no,blood pressure,no,eye
+Cric22_frame2677.jpg,2677,blip,prompt4,blood pressure,no,no,no,first aid,no,no,no,no,no,blood pressure,no,first aid
+IO22_frame1351.jpg,1351,blip,prompt4,blood pressure,no,no,blood pressure,blood pressure,no,no,no,no,no,blood pressure,no,blood pressure
+CT5_frame1960.jpg,1960,blip,prompt4,arm,no,no,no,no,no,eyes,no,no,no,no,eyes,legs
+ND8_frame1091.jpg,1091,blip,prompt4,blood pressure cuff,eye,eyes,no,blood,eye,eye,no,no,no,blood pressure,eye,eye
+CT6_frame1702.jpg,1702,blip,prompt4,no,no,no,no,no,no,no,no,no,no,no,no,no
+ND28_frame1300.jpg,1300,blip,prompt4,blood pressure,no,no,no,no,no,no,no,no,no,blood pressure,no,eye
+Cric6_frame919.jpg,919,blip,prompt4,blood pressure,no,no,no,no,no,no,no,no,no,blood pressure,no,eye surgery
+ND6_frame1120.jpg,1120,blip,prompt4,blood pressure cuff,no,no,no,no,no,no,no,no,no,blood pressure,no,eye
+CT13_frame3398.jpg,3398,blip,prompt4,leg,no,no,no,no,no,no,no,no,no,no,no,no
+TQ12_frame1052.jpg,1052,blip,prompt4,leg,no,no,no,blood,no,no,no,no,no,blood pressure,no,eye
+TQ26_frame1489.jpg,1489,blip,prompt4,blood pressure,no,no,no,blood pressure,no,no,no,no,no,blood pressure,no,legs
+IO19_frame817.jpg,817,blip,prompt4,arm,no,no,no,blood,no,no,no,no,no,blood,no,legs
+Cric18_frame1272.jpg,1272,blip,prompt4,blood pressure,no,no,no,no,no,no,no,no,no,blood pressure,no,legs
+TQ21_frame480.jpg,480,blip,prompt4,blood pressure cuff,eye,eyes,no,blood,eye,eye,no,no,no,blood pressure,eye,eye
+ND6_frame1586.jpg,1586,blip,prompt4,blood pressure cuff,no,no,no,blood pressure,no,no,no,no,no,blood pressure,no,eye
+Cric33_frame1511.jpg,1511,blip,prompt4,arm,eye,eyes,no,blood,no,eye,no,no,no,blood pressure cuff,eye,legs
+CT6_frame2091.jpg,2091,blip,prompt4,no,no,no,no,no,no,no,no,no,no,no,no,no
+TQ6_frame664.jpg,664,blip,prompt4,blood pressure,no,no,no,blood pressure,no,no,no,no,no,blood pressure,no,legs
+Cric28_frame1414.jpg,1414,blip,prompt4,blood pressure,no,no,no,no,no,no,no,no,no,blood pressure,no,legs
+IO11_frame110.jpg,110,blip,prompt4,arm,no,no,no,no,no,no,no,no,no,blood,no,no
+IO35_frame1013.jpg,1013,blip,prompt4,blood pressure,no,no,no,blood,no,no,no,no,no,blood,no,legs
+IO23_frame726.jpg,726,blip,prompt4,arm,no,no,no,no,no,no,no,no,no,no,no,no
+TQ6_frame642.jpg,642,blip,prompt4,blood pressure,no,no,no,blood pressure,no,no,no,no,no,blood pressure,no,legs
+CT3_frame1514.jpg,1514,blip,prompt4,no,no,no,no,no,no,no,no,no,no,no,no,no
+TQ20_frame3088.jpg,3088,blip,prompt4,blood pressure,no,no,no,blood,no,no,no,no,no,blood,no,blood
+Cric6_frame1418.jpg,1418,blip,prompt4,blood pressure,eye,no,no,blood pressure,no,no,no,no,no,blood pressure,eye surgery,eye surgery
+CT12_frame2120.jpg,2120,blip,prompt4,leg,no,no,no,no,no,no,no,no,no,no,no,no
+ND11_frame1184.jpg,1184,blip,prompt4,leg,eye,no,no,no,no,eye,no,no,no,blood pressure,eye,eye
+ND19_frame358.jpg,358,blip,prompt4,blood pressure,no,no,no,no,no,no,no,no,no,blood pressure,no,legs
+Cric14_frame2054.jpg,2054,blip,prompt4,blood pressure,no,no,no,no,no,no,no,no,no,blood pressure,no,eye
+IO28_frame1610.jpg,1610,blip,prompt4,blood pressure,no,no,no,no,no,no,no,no,no,blood pressure,no,legs
+ND13_frame1.jpg,1,blip,prompt4,first aid,no,no,no,first aid,no,no,no,no,no,first aid,no,first aid
+Cric13_frame2066.jpg,2066,blip,prompt4,blood pressure,no,no,no,no,no,no,no,no,no,blood pressure,no,eye
+CT2_frame2632.jpg,2632,blip,prompt4,blood pressure,no,no,no,no,no,no,no,no,no,no,no,legs
+TQ33_frame1380.jpg,1380,blip,prompt4,blood pressure,blood,blood,blood,blood,blood,blood,blood,blood,blood,blood,blood,blood
+Cric27_frame1224.jpg,1224,blip,prompt4,blood pressure,no,no,no,no,no,no,no,no,no,blood pressure,no,no
+Cric8_frame2330.jpg,2330,blip,prompt4,blood pressure cuff,no,no,no,blood pressure,no,no,no,no,no,blood pressure,no,ankle
+Cric26_frame2077.jpg,2077,blip,prompt4,blood pressure,no,no,no,blood,no,no,no,no,no,blood pressure,no,blood
+IO21_frame1321.jpg,1321,blip,prompt4,blood pressure,no,no,no,no,no,no,no,no,no,blood pressure,no,legs
+ND18_frame1197.jpg,1197,blip,prompt4,blood pressure,no,no,no,no,no,no,no,no,no,blood pressure,no,no
+ND2_frame380.jpg,380,blip,prompt4,blood pressure,boots,no,no,blood pressure,no,no,no,no,no,blood pressure,boots,blood pressure
+IO19_frame995.jpg,995,blip,prompt4,blood pressure,no,no,no,no,no,no,no,no,no,blood pressure,no,legs
+CT27_frame7408.jpg,7408,blip,prompt4,no,no,no,no,no,no,no,no,no,no,no,no,no
+IO29_frame1131.jpg,1131,blip,prompt4,blood pressure,no,no,no,blood,no,no,no,no,no,blood pressure,no,legs
+IO26_frame1839.jpg,1839,blip,prompt4,leg,no,no,no,no,no,no,no,no,no,blood pressure,no,legs
+Cric5_frame1417.jpg,1417,blip,prompt4,blood pressure,no,no,no,no,no,no,no,no,no,blood pressure,no,eye surgery
+TQ19_frame1226.jpg,1226,blip,prompt4,blood pressure,no,no,no,blood pressure,no,no,no,no,no,blood pressure,no,heart
+IO25_frame12.jpg,12,blip,prompt4,leg,no,no,no,no,no,no,no,no,no,no,no,no
+IO20_frame878.jpg,878,blip,prompt4,blood pressure,no,no,blood pressure,blood pressure,no,no,no,no,no,blood pressure,no,blood pressure
+CT8_frame702.jpg,702,blip,prompt4,blood pressure cuff,no,no,no,no,no,no,no,no,no,blood pressure,no,no
+Cric28_frame1398.jpg,1398,blip,prompt4,blood pressure,no,no,no,no,no,no,no,no,no,blood pressure,no,no
+TQ19_frame1318.jpg,1318,blip,prompt4,arm,no,no,no,blood pressure,no,no,no,no,no,blood pressure,no,x
+ND25_frame1519.jpg,1519,blip,prompt4,blood pressure,eye,blood pressure,blood pressure,blood pressure,eye,eye,no,blood pressure,no,blood pressure,eye,blood pressure
+ND28_frame1143.jpg,1143,blip,prompt4,blood pressure,no,no,no,blood pressure,no,no,no,no,no,blood pressure,eyes,eye
+ND19_frame1.jpg,1,blip,prompt4,blood pressure,no,no,no,first aid,no,no,no,no,no,blood pressure,no,eye
+TQ19_frame3883.jpg,3883,blip,prompt4,blood pressure,no,no,no,blood pressure,no,eye,no,no,no,blood pressure,no,eye
+CT15_frame1632.jpg,1632,blip,prompt4,no,no,no,no,no,no,eyes,no,no,no,no,eyes,eye
+TQ18_frame3030.jpg,3030,blip,prompt4,arm,no,no,no,blood,no,no,no,no,no,blood,no,blood
+ND5_frame2198.jpg,2198,blip,prompt4,blood pressure cuff,no,no,no,blood pressure,no,eye,no,no,no,blood pressure cuff,eye,eye
+Cric22_frame312.jpg,312,blip,prompt4,blood pressure,no,no,no,no,no,no,no,no,no,blood pressure,no,no
+ND5_frame2907.jpg,2907,blip,prompt4,blood pressure cuff,no,no,no,blood pressure,no,eye,no,no,no,blood pressure cuff,eye,eye
+TQ20_frame2309.jpg,2309,blip,prompt4,blood pressure cuff,eyes,eyes,eyes,blood,eyes,eyes,no,eyes,eyes,blood pressure,eyes,eye
+ND18_frame1263.jpg,1263,blip,prompt4,blood pressure cuff,no,eyes,no,no,no,no,no,no,no,blood pressure,no,eye
+CT8_frame815.jpg,815,blip,prompt4,blood pressure cuff,no,no,no,no,no,no,no,no,no,blood pressure,no,no
+TQ23_frame796.jpg,796,blip,prompt4,arm,no,no,no,red eyes,no,no,no,no,no,blood pressure,no,legs
+Cric5_frame2372.jpg,2372,blip,prompt4,blood pressure,no,no,no,blood pressure,no,no,no,no,no,blood pressure,no,legs
+IO6_frame2032.jpg,2032,blip,prompt4,blood pressure,no,no,no,blood pressure,no,no,no,no,no,blood pressure,no,blood pressure
+IO20_frame934.jpg,934,blip,prompt4,blood pressure,blood pressure,blood,blood,blood pressure,blood pressure,blood,no,blood pressure,no,blood pressure,blood pressure,blood pressure
+IO15_frame60.jpg,60,blip,prompt4,blood pressure,no,no,no,blood,no,no,no,no,no,blood pressure,no,blood
+Cric11_frame1711.jpg,1711,blip,prompt4,blood pressure,no,no,no,no,no,no,no,no,no,blood pressure,no,eye surgery
+IO6_frame1866.jpg,1866,blip,prompt4,blood pressure,no,blood pressure,no,blood pressure,no,no,no,no,no,blood pressure,no,blood pressure
+TQ19_frame3886.jpg,3886,blip,prompt4,arm,no,blood pressure,blood pressure,blood pressure,no,no,no,no,no,blood pressure,no,blood pressure
+ND19_frame1402.jpg,1402,blip,prompt4,blood pressure,no,no,no,no,no,no,no,no,no,blood pressure,no,eye
+ND15_frame1439.jpg,1439,blip,prompt4,blood pressure,no,no,no,no,no,no,no,no,no,blood pressure,no,eye
+ND11_frame1654.jpg,1654,blip,prompt4,leg,eye,eyes,no,no,eye,eye,no,no,no,first aid,eye,eye
+Cric11_frame1369.jpg,1369,blip,prompt4,blood pressure,no,no,no,no,no,no,no,no,no,blood pressure,no,eye surgery
+Cric34_frame4262.jpg,4262,blip,prompt4,blood pressure,eye,eye,eye,blood pressure,eye,eye,no,eye,eye,blood pressure,eye,eye
+Cric33_frame1519.jpg,1519,blip,prompt4,blood pressure cuff,eye,eyes,no,blood,eye,eye,no,heart,no,blood pressure cuff,eye,eye
+ND11_frame935.jpg,935,blip,prompt4,blood pressure cuff,no,no,no,no,no,no,no,no,no,blood pressure,no,eye
+TQ11_frame101.jpg,101,blip,prompt4,leg,no,eyes,no,blood,no,no,no,no,no,blood pressure cuff,no,eye
+ND6_frame626.jpg,626,blip,prompt4,blood pressure cuff,eye,eyes,no,blood pressure,eye,eye,no,no,no,blood pressure,eye,eye
+CT28_frame823.jpg,823,blip,prompt4,leg,no,no,no,no,no,no,no,no,no,no,no,no
+IO29_frame218.jpg,218,blip,prompt4,arm,no,no,no,no,no,no,no,no,no,blood pressure,no,legs
+CT15_frame2790.jpg,2790,blip,prompt4,leg,no,no,no,no,no,no,no,no,no,no,no,no
+TQ11_frame359.jpg,359,blip,prompt4,leg,no,no,no,blood,no,no,no,no,no,blood pressure cuff,no,legs
+IO33_frame2145.jpg,2145,blip,prompt4,blood pressure,no,no,no,no,no,no,no,no,no,blood pressure,no,legs
+IO12_frame2263.jpg,2263,blip,prompt4,blood pressure,no,no,no,blood pressure,no,no,no,no,no,blood pressure,no,blood pressure
+IO6_frame531.jpg,531,blip,prompt4,blood pressure,no,no,no,blood pressure,no,no,no,no,no,blood pressure,no,legs
+IO27_frame2526.jpg,2526,blip,prompt4,blood pressure cuff,no,blood,blood,blood,no,no,no,no,no,blood pressure,eye,blood pressure
+IO15_frame1195.jpg,1195,blip,prompt4,blood pressure,no,no,no,no,no,no,no,no,no,blood pressure,no,no
+IO26_frame457.jpg,457,blip,prompt4,blood pressure cuff,first aid,blood pressure,blood pressure,blood pressure,first aid,first aid,first aid,first aid,first aid,blood pressure,eye,blood pressure cuff
+ND2_frame183.jpg,183,blip,prompt4,eye,eye,eyes,no,no,eye,eye,no,no,eye,eye,eye,eye
+CT3_frame1869.jpg,1869,blip,prompt4,arm,no,no,no,no,no,no,no,no,no,blood pressure,no,no
+IO12_frame1220.jpg,1220,blip,prompt4,blood pressure,no,no,no,no,no,no,no,no,no,blood pressure,no,legs
+CT3_frame1873.jpg,1873,blip,prompt4,arm,no,no,no,no,no,no,no,no,no,blood pressure,no,no
+TQ19_frame4078.jpg,4078,blip,prompt4,blood pressure cuff,blood pressure,blood pressure,blood pressure,blood pressure,no,blood pressure,no,blood pressure,no,blood pressure,blood pressure,blood pressure
+CT15_frame4077.jpg,4077,blip,prompt4,leg,no,no,no,no,no,no,no,no,no,no,no,no
+ND8_frame3373.jpg,3373,blip,prompt4,blood pressure cuff,eye,eyes,eye,blood pressure,eye,eye,no,eye,eye,blood pressure cuff,eye,eye
+TQ21_frame1043.jpg,1043,blip,prompt4,arm,wearing gun,eyes,no,red eye,no,first aid,no,no,no,blood pressure cuff,eye,first aid
+IO28_frame1810.jpg,1810,blip,prompt4,blood pressure,no,no,no,blood,no,no,no,no,no,blood pressure,no,legs
+TQ2_frame151.jpg,151,blip,prompt4,blood pressure,eye,eyes,blood pressure,blood pressure,eye,eye,eye,eye,eye,blood pressure,eye,eye
+TQ5_frame643.jpg,643,blip,prompt4,blood pressure cuff,blood pressure,blood pressure,blood pressure,blood pressure,blood pressure,blood,no,no,no,blood pressure,blood pressure,blood pressure
+IO6_frame1329.jpg,1329,blip,prompt4,blood pressure,no,no,no,blood pressure,no,no,no,no,no,blood pressure,no,legs
+Cric33_frame427.jpg,427,blip,prompt4,blood pressure cuff,eye,eyes,no,blood pressure,eye,eye,no,no,no,blood pressure,eye,eye
+ND25_frame866.jpg,866,blip,prompt4,blood pressure,blood pressure,eyes,blood pressure,blood pressure,blood pressure,eyes,yes,blood pressure,eyes,blood pressure,eye,blood pressure
+ND6_frame225.jpg,225,blip,prompt4,blood pressure,no,no,no,no,no,no,no,no,no,blood pressure,no,legs
+IO8_frame1199.jpg,1199,blip,prompt4,blood pressure,no,no,no,blood pressure,no,no,no,no,no,blood pressure,no,blood pressure
+TQ22_frame815.jpg,815,blip,prompt4,blood pressure cuff,wearing mask,wearing vest,no,red eyes,no,no,no,no,no,blood pressure,wearing mask,red eye
+IO13_frame924.jpg,924,blip,prompt4,blood pressure,no,no,no,blood pressure,no,no,no,no,no,blood pressure,no,legs
+CT5_frame2776.jpg,2776,blip,prompt4,arm,eyes,no,no,no,eyes,eyes,no,no,no,blood pressure,eyes,eye
+CT6_frame3812.jpg,3812,blip,prompt4,no,no,no,no,no,no,no,no,no,no,no,no,no
+CT19_frame1923.jpg,1923,blip,prompt4,leg,no,no,no,red eye,no,eye,no,no,no,blood,eye,eye
+Cric26_frame615.jpg,615,blip,prompt4,blood pressure,no,no,no,no,no,no,no,no,no,blood pressure,no,legs
+IO28_frame1724.jpg,1724,blip,prompt4,blood pressure,no,no,no,blood,no,no,no,no,no,blood pressure,no,legs
+Cric35_frame4095.jpg,4095,blip,prompt4,blood pressure,eye,eyes,blood pressure,blood pressure,eye,eye,first aid,first aid,eye,blood pressure,eye,eye
+IO26_frame2067.jpg,2067,blip,prompt4,blood pressure cuff,no,no,no,blood,no,no,no,no,no,blood pressure,no,blood pressure
+TQ11_frame1882.jpg,1882,blip,prompt4,leg,no,no,no,blood,no,no,no,no,no,blood pressure,no,eye
+TQ23_frame1102.jpg,1102,blip,prompt4,blood pressure cuff,no,blood pressure cuff,no,red eye,no,first aid,no,no,no,blood pressure cuff,no,red eye
+ND18_frame1016.jpg,1016,blip,prompt4,blood pressure,no,no,no,first aid,no,no,no,no,no,blood pressure,no,eye
+TQ26_frame117.jpg,117,blip,prompt4,blood pressure,no,no,no,blood pressure,no,no,no,no,no,blood pressure,no,legs
+IO23_frame3936.jpg,3936,blip,prompt4,leg,no,no,first aid,blood,no,first aid,no,no,no,blood pressure,eye,first aid
+Cric18_frame2706.jpg,2706,blip,prompt4,blood pressure,no,no,no,no,no,no,no,no,no,blood pressure,no,no
+CT13_frame3396.jpg,3396,blip,prompt4,leg,no,no,no,no,no,no,no,no,no,no,no,no
+ND18_frame1074.jpg,1074,blip,prompt4,blood pressure,no,no,no,blood pressure,no,no,no,no,no,blood pressure,no,eye
+CT19_frame1926.jpg,1926,blip,prompt4,leg,eye,no,no,red eye,no,eye,no,no,no,blood,eye,eye
+TQ26_frame2295.jpg,2295,blip,prompt4,leg,no,no,no,blood pressure,no,no,no,no,no,blood pressure,no,legs
+IO3_frame1705.jpg,1705,blip,prompt4,blood pressure,no,no,no,blood pressure,no,no,no,no,no,blood pressure,no,legs
+Cric22_frame25.jpg,25,blip,prompt4,blood pressure cuff,no,no,no,blood pressure,no,no,no,no,no,blood pressure,no,eye
+IO11_frame198.jpg,198,blip,prompt4,blood pressure,no,no,no,blood,no,no,no,no,no,blood pressure,no,eye
+CT15_frame52.jpg,52,blip,prompt4,leg,no,no,no,no,no,no,no,no,no,no,eye,no
+Cric26_frame2059.jpg,2059,blip,prompt4,blood pressure,no,no,no,blood,no,no,no,no,no,blood pressure,no,legs
+Cric15_frame1876.jpg,1876,blip,prompt4,no,no,no,no,no,no,no,no,no,no,no,no,eye
+IO21_frame972.jpg,972,blip,prompt4,blood pressure,no,no,no,blood pressure,no,no,no,no,no,blood pressure,no,legs
+Cric21_frame2071.jpg,2071,blip,prompt4,blood pressure cuff,no,no,no,no,no,no,no,no,no,blood pressure,no,legs
+ND14_frame729.jpg,729,blip,prompt4,blood pressure cuff,no,no,no,first aid,no,first aid,no,no,no,first aid,no,first aid
+ND11_frame1697.jpg,1697,blip,prompt4,first aid,eye,eyes,no,no,eye,eye,no,no,no,first aid,eye,eye
+ND8_frame1064.jpg,1064,blip,prompt4,blood pressure cuff,eye,eyes,no,blood pressure,eye,eye,no,no,no,blood pressure,eye,eye
+TQ20_frame765.jpg,765,blip,prompt4,arm,eye,eyes,yes,blood,no,eyes,no,no,no,blood,eyes,eye
+Cric26_frame2173.jpg,2173,blip,prompt4,blood pressure,no,no,no,no,no,no,no,no,no,blood pressure,no,no
+Cric8_frame580.jpg,580,blip,prompt4,blood pressure,no,no,no,no,no,no,no,no,no,blood pressure,no,no
+ND14_frame1198.jpg,1198,blip,prompt4,blood pressure cuff,no,no,no,no,no,no,no,no,no,blood pressure,no,eye
+ND5_frame974.jpg,974,blip,prompt4,leg,no,no,no,blood,no,no,no,no,no,blood pressure,no,leg
+ND5_frame512.jpg,512,blip,prompt4,blood pressure,eye,eyes,no,blood pressure,eye,eye,no,eye,no,blood pressure,eye,eye
+CT29_frame15320.jpg,15320,blip,prompt4,blood pressure,eye,eyes,no,heart,no,eye,no,heart,no,blood pressure,eye,eye
+IO15_frame1110.jpg,1110,blip,prompt4,blood pressure,no,no,no,blood,no,no,no,no,no,blood pressure,no,blood
+IO6_frame2033.jpg,2033,blip,prompt4,blood pressure,no,no,no,blood pressure,no,no,no,no,no,blood pressure,no,blood pressure
+TQ3_frame615.jpg,615,blip,prompt4,blood pressure,eye,blood,blood,blood,eye,eye,no,blood,blood pressure,blood pressure,eye,blood
+Cric37_frame1.jpg,1,blip,prompt4,blood pressure,eye,eyes,eyes,blood,eye,eyes,no,eye,eyes,blood pressure,eye,eye
+ND18_frame585.jpg,585,blip,prompt4,blood pressure,no,no,no,blood pressure,no,no,no,no,no,blood pressure,no,legs
+TQ18_frame3111.jpg,3111,blip,prompt4,blood pressure,no,blood,blood,blood,no,no,no,no,no,blood pressure,no,blood
+CT25_frame473.jpg,473,blip,prompt4,no,scissors,no,scissors,scissors,scissors,scissors,scissors,no,scissors,scissors,scissors,scissors
+ND14_frame410.jpg,410,blip,prompt4,blood pressure,no,no,no,first aid,no,no,no,no,no,first aid,no,eye
+CT8_frame35.jpg,35,blip,prompt4,no,no,no,no,no,no,no,no,no,no,no,no,no
+CT27_frame2803.jpg,2803,blip,prompt4,blood pressure cuff,no,no,no,no,no,no,no,no,no,blood pressure,no,no
+Cric25_frame1116.jpg,1116,blip,prompt4,blood pressure,no,no,no,no,no,no,no,no,no,blood pressure,no,no
+IO34_frame1653.jpg,1653,blip,prompt4,blood pressure,no,no,no,no,no,no,no,no,no,blood pressure,no,legs
+CT29_frame16383.jpg,16383,blip,prompt4,leg,eye,eyes,no,no,no,eyes,no,no,no,blood pressure,eyes,eye
+TQ23_frame877.jpg,877,blip,prompt4,blood pressure,no,eyes,gun,red eye,no,no,no,no,no,blood pressure,eyes,blood pressure
+ND14_frame857.jpg,857,blip,prompt4,blood pressure,no,no,no,no,no,no,no,no,no,first aid,no,eye
+IO3_frame1721.jpg,1721,blip,prompt4,blood pressure,no,blood,no,blood pressure,no,no,no,no,no,blood pressure,no,blood pressure
+CT12_frame4032.jpg,4032,blip,prompt4,arm,no,no,no,no,no,no,no,no,no,blood pressure,no,legs
+TQ35_frame170.jpg,170,blip,prompt4,blood pressure,blood pressure,eyes,blood pressure,blood pressure,blood pressure,blood,no,blood pressure,no,blood pressure,blood pressure,legs
+CT14_frame10926.jpg,10926,blip,prompt4,blood pressure,no,blood,blood,blood,no,no,no,no,no,blood pressure,no,blood
+CT27_frame4249.jpg,4249,blip,prompt4,no,no,no,no,no,no,no,no,no,no,no,no,no
+Cric18_frame1831.jpg,1831,blip,prompt4,blood pressure,no,no,no,no,no,no,no,no,no,blood pressure,no,eye
+ND12_frame874.jpg,874,blip,prompt4,leg,no,eyes,no,no,no,no,no,no,no,no,no,eye
+TQ18_frame3638.jpg,3638,blip,prompt4,blood pressure,no,blood,blood,blood,no,no,no,no,no,blood,no,blood
+Cric11_frame2739.jpg,2739,blip,prompt4,blood pressure cuff,no,no,no,blood pressure,no,no,no,no,no,blood pressure,no,blood pressure
+TQ34_frame601.jpg,601,blip,prompt4,blood pressure,no,no,no,blood pressure,no,no,no,no,no,blood pressure,no,legs
+IO26_frame601.jpg,601,blip,prompt4,blood pressure cuff,no,no,no,blood pressure,no,no,no,no,no,blood pressure,no,legs
+IO5_frame1590.jpg,1590,blip,prompt4,blood pressure,no,no,no,no,no,no,no,no,no,blood pressure,no,legs
+Cric15_frame736.jpg,736,blip,prompt4,blood pressure,no,no,no,no,no,no,no,no,no,blood pressure,no,no
+IO27_frame2743.jpg,2743,blip,prompt4,leg,no,no,no,blood,no,no,no,no,no,blood pressure,eye,eye
+IO19_frame381.jpg,381,blip,prompt4,blood pressure cuff,no,no,no,blood pressure,no,no,no,no,no,blood pressure,no,blood pressure
+IO25_frame260.jpg,260,blip,prompt4,leg,no,no,no,no,no,no,no,no,no,first aid,no,eye
+TQ2_frame1563.jpg,1563,blip,prompt4,blood pressure,eye,blood pressure,blood pressure,blood pressure,blood pressure,eye,no,blood pressure,no,blood pressure,eye,blood pressure
+Cric25_frame2015.jpg,2015,blip,prompt4,blood pressure,no,no,no,no,no,no,no,no,no,blood pressure,no,no
+Cric12_frame499.jpg,499,blip,prompt4,blood pressure,no,no,no,no,no,no,no,no,no,blood pressure,no,legs
+IO23_frame2005.jpg,2005,blip,prompt4,leg,gloves,no,no,no,no,no,no,no,no,blood pressure,gloves,first aid
+Cric28_frame314.jpg,314,blip,prompt4,blood pressure,no,no,no,no,no,no,no,no,no,no,no,no
+IO34_frame1619.jpg,1619,blip,prompt4,blood pressure,no,no,no,no,no,no,no,no,no,blood pressure,no,legs
+CT22_frame2412.jpg,2412,blip,prompt4,arm,no,no,no,no,no,no,no,no,no,leg,eye,eye
+TQ12_frame1159.jpg,1159,blip,prompt4,leg,no,eyes,no,blood,no,eye,no,no,no,blood pressure,no,eye
+ND8_frame1107.jpg,1107,blip,prompt4,blood pressure cuff,eye,no,no,blood pressure,no,eye,no,no,no,blood pressure,eye,eye
+ND28_frame25.jpg,25,blip,prompt4,blood pressure,eye,eyes,no,blood pressure,eye,eyes,no,no,no,blood pressure,eye,eye surgery
+ND2_frame2035.jpg,2035,blip,prompt4,blood pressure cuff,eye,eyes,eye,blood,eye,eye,eye,eye,eye,blood pressure,eye,eye
+IO35_frame499.jpg,499,blip,prompt4,yes,no,no,no,no,no,no,no,no,no,blood pressure,no,no
+CT8_frame68.jpg,68,blip,prompt4,no,no,no,no,no,no,no,no,no,no,no,no,no
+TQ3_frame1.jpg,1,blip,prompt4,blood pressure,no,no,no,blood,no,no,no,no,no,blood pressure,no,eye
+CT22_frame4248.jpg,4248,blip,prompt4,arm,no,no,no,no,no,no,no,no,no,blood pressure,no,no
+ND26_frame72.jpg,72,blip,prompt4,blood pressure,no,eyes,blood,blood pressure,no,eyes,no,no,no,blood pressure,eye,blood pressure
+ND2_frame1473.jpg,1473,blip,prompt4,blood pressure cuff,eye,eyes,eye,blood pressure,eye,eye,eye,eye,eye,blood pressure,eye,eye
+TQ5_frame1128.jpg,1128,blip,prompt4,blood pressure,blood pressure,blood,blood,blood,blood,blood,no,blood,no,blood pressure,blood pressure,blood pressure
+Cric5_frame555.jpg,555,blip,prompt4,blood pressure cuff,no,no,no,blood pressure,no,no,no,no,no,blood pressure,no,eye
+CT15_frame2657.jpg,2657,blip,prompt4,leg,no,no,no,no,no,no,no,no,no,no,no,eye
+IO21_frame1.jpg,1,blip,prompt4,blood pressure,blood pressure,no,blood,blood,no,no,no,no,no,blood pressure,no,blood pressure
+TQ3_frame1348.jpg,1348,blip,prompt4,blood pressure,blood,blood,blood,blood,blood,blood,no,blood,blood,blood pressure,blood pressure,blood
+TQ11_frame1879.jpg,1879,blip,prompt4,leg,no,no,blood,blood,no,no,no,no,no,blood pressure,no,eye
+Cric11_frame2945.jpg,2945,blip,prompt4,blood pressure,no,no,no,no,no,no,no,no,no,blood pressure,no,eye surgery
+ND11_frame1.jpg,1,blip,prompt4,first aid,no,no,no,no,no,no,no,no,no,first aid,no,eye
+TQ21_frame599.jpg,599,blip,prompt4,blood pressure cuff,wearing gun,wearing glasses,no,red eye,wearing gun,wearing gun,no,first aid,wearing gun,blood pressure,wearing gun,first aid
+TQ22_frame421.jpg,421,blip,prompt4,blood pressure cuff,no,eyes,no,blood,no,eyes,no,no,no,blood pressure,eyes,blood pressure
+IO29_frame784.jpg,784,blip,prompt4,blood pressure,no,no,no,no,no,no,no,no,no,blood pressure,no,no
+IO22_frame1707.jpg,1707,blip,prompt4,blood pressure,no,blood pressure,blood pressure,blood pressure,no,no,no,no,no,blood pressure,no,blood pressure
+Cric6_frame2042.jpg,2042,blip,prompt4,blood pressure,no,no,no,no,no,no,no,no,no,blood pressure,no,eye
+Cric34_frame2459.jpg,2459,blip,prompt4,blood pressure cuff,no,eyes,no,blood pressure,no,eyes,no,no,no,blood pressure,eyes,legs
+IO12_frame1059.jpg,1059,blip,prompt4,blood pressure cuff,no,no,no,no,no,no,no,no,no,blood pressure,no,no
+IO22_frame1354.jpg,1354,blip,prompt4,blood pressure,no,no,blood,blood pressure,no,no,no,no,no,blood pressure,no,blood pressure
+IO26_frame155.jpg,155,blip,prompt4,leg,no,no,no,first aid,no,no,no,no,no,first aid,no,first aid
+CT11_frame1406.jpg,1406,blip,prompt4,leg,no,no,no,no,no,eyes,no,no,no,blood pressure,eyes,eye
+CT25_frame2625.jpg,2625,blip,prompt4,leg,no,no,no,no,no,no,no,no,no,no,no,no
+CT25_frame1012.jpg,1012,blip,prompt4,no,no,no,no,no,no,no,no,no,no,no,no,no
+ND29_frame569.jpg,569,blip,prompt4,blood pressure,eye surgery,eyes,eyes,blood pressure,eyes,eyes,no,no,wearing gloves,blood pressure,eyes,eye surgery
+IO21_frame1923.jpg,1923,blip,prompt4,blood pressure,no,no,no,blood pressure,no,no,no,no,no,blood pressure,no,legs
+ND21_frame1.jpg,1,blip,prompt4,blood pressure,no,no,no,no,no,no,no,no,no,first aid,no,first aid
+Cric6_frame145.jpg,145,blip,prompt4,blood pressure,no,no,no,no,no,no,no,no,no,blood pressure,no,no
+ND13_frame551.jpg,551,blip,prompt4,blood pressure cuff,no,no,no,no,no,no,no,no,no,blood pressure,no,legs
+TQ13_frame1242.jpg,1242,blip,prompt4,blood,no,no,blood,blood,no,no,no,no,no,blood,no,legs
+Cric8_frame1743.jpg,1743,blip,prompt4,blood pressure,no,no,no,no,no,no,no,no,no,blood pressure,no,eye surgery
+ND26_frame53.jpg,53,blip,prompt4,blood pressure,no,eyes,no,blood pressure,no,eyes,no,no,no,blood pressure,no,blood pressure
+TQ12_frame1266.jpg,1266,blip,prompt4,blood pressure cuff,no,no,no,blood,no,no,no,no,no,blood pressure,no,eye
+Cric35_frame5384.jpg,5384,blip,prompt4,leg,eye,eyes,no,gun,no,eye,no,no,no,blood pressure,eye,eye
+TQ35_frame1351.jpg,1351,blip,prompt4,blood pressure,blood pressure,blood pressure,blood,blood,blood,blood,no,blood pressure,no,blood pressure,blood pressure,blood pressure
+TQ6_frame1307.jpg,1307,blip,prompt4,blood pressure,no,no,blood,blood,no,no,no,no,no,blood pressure,no,blood
+Cric11_frame310.jpg,310,blip,prompt4,blood pressure,eye,eyes,blood pressure,blood pressure,eye,eye,no,no,eye surgery,blood pressure,eye,eye surgery
+ND13_frame1133.jpg,1133,blip,prompt4,arm,gloves,eyes,no,no,gloves,gloves,no,no,gloves,gloves,gloves,eye
+ND2_frame2039.jpg,2039,blip,prompt4,blood pressure cuff,eye,eyes,gun,gun,eye,eye,eye,eye,eye,blood pressure,eye,eye
+TQ21_frame976.jpg,976,blip,prompt4,blood pressure cuff,wearing gun,eyes,no,blood pressure,wearing gun,wearing gun,no,no,wearing gun,blood pressure,eye,eye
+ND18_frame234.jpg,234,blip,prompt4,blood pressure,no,no,no,blood pressure,no,no,no,no,no,blood pressure,no,legs
+Cric28_frame2553.jpg,2553,blip,prompt4,blood pressure,no,no,no,no,no,no,no,no,no,blood pressure,no,no
+ND15_frame563.jpg,563,blip,prompt4,blood pressure cuff,no,eyes,no,no,no,eyes,no,no,no,blood pressure,eyes,eye
+Cric12_frame2032.jpg,2032,blip,prompt4,blood pressure,no,no,no,no,no,no,no,no,no,blood pressure,no,no
+ND8_frame1103.jpg,1103,blip,prompt4,blood pressure cuff,eye,eyes,no,blood pressure,eye,eye,no,no,no,blood pressure,eye,eye
+Cric37_frame2334.jpg,2334,blip,prompt4,blood pressure cuff,eyes,eyes,no,no,eyes,eyes,no,no,no,blood pressure,eyes,eye
+TQ19_frame3892.jpg,3892,blip,prompt4,blood pressure,no,blood pressure,no,blood pressure,no,no,no,no,no,blood pressure,no,blood pressure
+ND2_frame1287.jpg,1287,blip,prompt4,blood pressure cuff,eye,eyes,eyes,blood,eye,eye,scissors,eye,eye,blood pressure,eye,eye
+IO5_frame367.jpg,367,blip,prompt4,blood pressure,no,no,no,blood pressure,no,no,no,no,no,blood pressure,no,blood pressure
+CT3_frame58.jpg,58,blip,prompt4,no,no,no,no,no,no,no,no,no,no,no,no,no
+CT13_frame3506.jpg,3506,blip,prompt4,leg,no,no,no,blood,no,no,no,no,no,leg,no,legs
+CT2_frame820.jpg,820,blip,prompt4,no,no,no,no,no,no,no,no,no,no,no,no,no
+Cric23_frame2152.jpg,2152,blip,prompt4,blood pressure,no,no,no,blood,no,no,no,no,no,blood pressure,no,blood pressure
+ND12_frame1128.jpg,1128,blip,prompt4,first aid,no,eyes,no,no,no,eye,no,no,no,first aid,eye,eye
+IO20_frame1603.jpg,1603,blip,prompt4,leg,no,no,no,no,no,no,no,no,no,blood pressure,no,legs
+IO22_frame786.jpg,786,blip,prompt4,blood pressure,no,no,no,blood pressure,no,no,no,no,no,blood pressure,no,legs
+Cric35_frame2799.jpg,2799,blip,prompt4,blood pressure,eye,eye,knife,blood,eye,eye,first aid,first aid,eye,blood pressure,eye,eye
+TQ21_frame776.jpg,776,blip,prompt4,blood pressure,no,blood,no,red eye,no,no,no,no,no,blood pressure,no,blood pressure
+Cric22_frame2671.jpg,2671,blip,prompt4,blood pressure,no,no,no,no,no,no,no,no,no,blood pressure,no,no
+TQ35_frame864.jpg,864,blip,prompt4,blood pressure,no,no,no,blood pressure,no,eyes,no,no,no,blood pressure,no,legs
+CT3_frame2872.jpg,2872,blip,prompt4,blood pressure,no,no,no,blood pressure,no,no,no,no,no,blood pressure,no,no
+Cric11_frame1667.jpg,1667,blip,prompt4,blood pressure,no,no,no,no,no,no,no,no,no,blood pressure,no,eye surgery
+IO22_frame187.jpg,187,blip,prompt4,blood pressure,no,no,blood,blood,no,blood,no,no,no,blood pressure,no,blood pressure
+ND21_frame640.jpg,640,blip,prompt4,blood pressure,no,no,no,no,no,no,no,no,no,blood pressure,no,legs
+ND18_frame1153.jpg,1153,blip,prompt4,blood pressure,no,eyes,no,blood pressure,no,no,no,no,no,blood pressure,no,eye
+ND5_frame1287.jpg,1287,blip,prompt4,blood pressure cuff,no,eyes,no,blood pressure,no,eye,no,no,no,blood pressure,eye,eye surgery
+CT14_frame15003.jpg,15003,blip,prompt4,blood pressure,eye,eyes,eyes,blood pressure,eye,eye,eye,eye,ear plugs,blood pressure,eye,eye
+CT2_frame2899.jpg,2899,blip,prompt4,no,no,no,no,no,no,no,no,no,no,no,no,no
+IO33_frame2013.jpg,2013,blip,prompt4,blood pressure,no,no,no,no,no,no,no,no,no,blood pressure,no,legs
+Cric28_frame2102.jpg,2102,blip,prompt4,no,no,no,no,no,no,no,no,no,no,no,no,no
+IO5_frame284.jpg,284,blip,prompt4,blood pressure,no,no,no,blood pressure,no,no,no,no,no,blood pressure,no,blood pressure
+IO12_frame1777.jpg,1777,blip,prompt4,blood pressure cuff,no,no,no,blood,no,no,no,no,no,blood pressure,no,legs
+Cric21_frame2012.jpg,2012,blip,prompt4,blood pressure,no,no,no,no,no,no,no,no,no,blood pressure,no,no
+IO3_frame1492.jpg,1492,blip,prompt4,blood pressure,no,no,no,blood pressure,no,no,no,no,no,blood pressure,no,legs
+IO34_frame1689.jpg,1689,blip,prompt4,blood pressure,no,no,no,no,no,no,no,no,no,blood pressure,no,legs
+IO29_frame1035.jpg,1035,blip,prompt4,blood pressure,no,no,no,no,no,no,no,no,no,blood pressure,no,no
+IO35_frame37.jpg,37,blip,prompt4,blood pressure,no,no,no,no,no,no,no,no,no,blood pressure,no,legs
+CT14_frame5768.jpg,5768,blip,prompt4,blood pressure,no,no,no,blood pressure,no,no,no,no,no,blood pressure,no,legs
+Cric21_frame1898.jpg,1898,blip,prompt4,blood pressure,no,no,no,no,no,no,no,no,no,blood pressure,no,eye
+TQ34_frame120.jpg,120,blip,prompt4,blood pressure,no,no,no,no,no,no,no,no,no,blood pressure,no,legs
+CT15_frame2023.jpg,2023,blip,prompt4,leg,eye,eyes,no,blood,eyes,eye,no,breast cancer,no,blood pressure,eye,eye
+TQ23_frame344.jpg,344,blip,prompt4,blood pressure cuff,no,blood pressure,no,red eye,no,no,no,first aid,no,blood pressure,no,first aid
+Cric28_frame2407.jpg,2407,blip,prompt4,blood pressure,no,no,no,no,no,no,no,no,no,blood pressure,no,no
+IO18_frame1590.jpg,1590,blip,prompt4,blood pressure,no,no,no,blood,no,no,no,no,no,blood pressure,no,blood
+IO18_frame905.jpg,905,blip,prompt4,blood pressure,no,no,no,no,no,no,no,no,no,blood pressure,no,legs
+TQ13_frame827.jpg,827,blip,prompt4,blood pressure,no,no,blood pressure,blood pressure,no,no,no,no,no,blood pressure,no,blood pressure
+ND26_frame696.jpg,696,blip,prompt4,blood pressure,eye,eyes,blood pressure,blood pressure,eye,eye,no,no,no,blood pressure,eye,blood pressure
+IO13_frame190.jpg,190,blip,prompt4,blood pressure,no,no,no,blood,no,no,no,no,no,blood pressure,no,blood
+Cric11_frame2463.jpg,2463,blip,prompt4,blood pressure,no,no,no,no,no,no,no,no,no,blood pressure,no,no
+CT13_frame3501.jpg,3501,blip,prompt4,leg,no,no,no,no,no,no,no,no,no,leg,no,legs
+Cric12_frame1992.jpg,1992,blip,prompt4,blood pressure,no,no,no,no,no,no,no,no,no,blood pressure,no,no
+CT26_frame11772.jpg,11772,blip,prompt4,no,no,no,no,no,no,no,no,no,no,no,no,no
+Cric23_frame2156.jpg,2156,blip,prompt4,blood pressure,no,no,no,no,no,no,no,no,no,blood pressure,eye,eye
+TQ3_frame825.jpg,825,blip,prompt4,blood pressure,blood pressure,blood,blood,blood,blood,blood,no,blood pressure,no,blood pressure,eye,blood
+CT13_frame2712.jpg,2712,blip,prompt4,no,no,no,no,no,no,no,no,no,no,no,no,no
+CT11_frame128.jpg,128,blip,prompt4,leg,no,no,no,no,no,no,no,no,no,no,no,eye
+Cric5_frame665.jpg,665,blip,prompt4,blood pressure,eye surgery,eyes,no,blood pressure,eye surgery,eye surgery,no,no,eye surgery,blood pressure,eye surgery,eye surgery
+IO23_frame1617.jpg,1617,blip,prompt4,leg,no,no,no,first aid,no,no,no,no,no,blood pressure,no,first aid
+TQ12_frame1053.jpg,1053,blip,prompt4,leg,no,no,no,blood,no,no,no,no,no,blood pressure,no,no
+Cric8_frame3.jpg,3,blip,prompt4,blood pressure,no,no,no,no,no,no,no,no,no,blood pressure,no,eye surgery
+TQ33_frame1568.jpg,1568,blip,prompt4,blood pressure,blood,blood,blood,blood,blood,blood,blood,blood,blood,blood pressure,blood,blood
+CT14_frame5265.jpg,5265,blip,prompt4,blood pressure,no,no,no,blood pressure,no,eyes,no,no,no,blood pressure,eyes,eye
+IO33_frame2059.jpg,2059,blip,prompt4,blood pressure,no,no,no,no,no,no,no,no,no,blood pressure,no,legs
+IO5_frame671.jpg,671,blip,prompt4,blood pressure,no,no,no,blood pressure,no,no,no,no,no,blood pressure,no,blood pressure
+CT19_frame445.jpg,445,blip,prompt4,leg,eye,eyes,eye,blood pressure,eye,eye,no,eye,no,blood pressure cuff,eye,eye
+TQ27_frame379.jpg,379,blip,prompt4,blood pressure,blood,blood,blood,blood,blood,blood,no,blood,blood,blood pressure,blood pressure,blood
+IO8_frame1493.jpg,1493,blip,prompt4,blood pressure,no,no,no,blood,no,no,no,no,no,blood pressure,no,legs
+Cric11_frame763.jpg,763,blip,prompt4,blood pressure cuff,no,no,no,no,no,no,no,no,no,blood pressure,no,eye surgery
+CT25_frame424.jpg,424,blip,prompt4,leg,no,no,scissors,scissors,scissors,scissors,scissors,no,scissors,no,scissors,scissors
+IO26_frame1808.jpg,1808,blip,prompt4,ankle,no,no,no,no,no,no,no,no,no,blood pressure,no,ankle
+IO11_frame209.jpg,209,blip,prompt4,blood pressure cuff,no,no,no,blood pressure,no,no,no,no,no,blood pressure,no,blood pressure
+Cric8_frame596.jpg,596,blip,prompt4,blood pressure,no,no,no,blood pressure,no,no,no,no,no,blood pressure,no,blood pressure
+CT25_frame96.jpg,96,blip,prompt4,leg,no,no,scissors,scissors,scissors,scissors,scissors,no,scissors,no,scissors,eye
+IO14_frame871.jpg,871,blip,prompt4,blood pressure,no,no,no,blood,no,no,no,no,no,blood pressure,no,blood pressure
+Cric23_frame2842.jpg,2842,blip,prompt4,blood pressure,no,no,no,no,no,no,no,no,no,blood pressure,no,no
+CT13_frame3154.jpg,3154,blip,prompt4,leg,no,no,no,no,no,no,no,no,no,no,no,no
+ND15_frame1315.jpg,1315,blip,prompt4,blood pressure cuff,no,eyes,no,first aid,no,no,no,no,no,blood pressure,no,eye
+IO20_frame298.jpg,298,blip,prompt4,blood pressure,blood pressure,blood pressure,blood,blood pressure,no,blood,no,no,no,blood pressure,blood pressure,blood pressure
+CT22_frame1572.jpg,1572,blip,prompt4,blood pressure cuff,eyes,eyes,eyes,blood,eyes,eyes,no,no,no,blood pressure cuff,eyes,eye
+ND21_frame1248.jpg,1248,blip,prompt4,blood pressure,no,no,no,no,no,no,no,no,no,blood pressure,no,no
+ND13_frame1384.jpg,1384,blip,prompt4,ankle and foot,no,no,no,no,no,no,no,no,no,first aid,no,legs
+IO25_frame146.jpg,146,blip,prompt4,no,no,no,no,no,no,no,no,no,no,no,no,no
+Cric22_frame2059.jpg,2059,blip,prompt4,blood pressure cuff,no,no,no,blood,no,no,no,no,no,blood pressure,no,blood pressure
+TQ33_frame606.jpg,606,blip,prompt4,blood pressure,blood,blood,blood,blood,blood,blood,blood,blood,blood,blood pressure,blood,blood
+ND5_frame1972.jpg,1972,blip,prompt4,blood pressure cuff,eye patch,eyes,no,blood pressure,eye,eye patch,no,eye,no,blood pressure cuff,eye,eye surgery
+TQ22_frame760.jpg,760,blip,prompt4,blood pressure cuff,wearing gun,blood pressure,no,blood pressure,no,first aid,no,no,no,blood pressure,no,blood pressure cuff
+TQ25_frame899.jpg,899,blip,prompt4,leg,no,wearing shoes,no,no,no,wearing mask,no,no,no,blood pressure,wearing gloves,legs
+IO18_frame835.jpg,835,blip,prompt4,blood pressure,no,no,no,no,no,no,no,no,no,blood pressure,no,legs
+Cric11_frame1821.jpg,1821,blip,prompt4,blood pressure cuff,no,no,no,blood pressure,no,no,no,no,no,blood pressure,no,eye
+TQ35_frame200.jpg,200,blip,prompt4,blood pressure,blood pressure,legs,blood,blood,blood,blood,no,blood pressure,blood pressure,blood pressure,blood pressure,legs
+IO2_frame2459.jpg,2459,blip,prompt4,blood pressure,no,no,no,blood pressure,no,no,no,no,no,blood pressure,no,blood pressure
+IO5_frame1774.jpg,1774,blip,prompt4,blood pressure,no,no,no,blood pressure,no,no,no,no,no,blood pressure,no,blood pressure
+IO11_frame1.jpg,1,blip,prompt4,blood pressure,no,no,no,blood,no,no,no,no,no,blood pressure,no,eye
+CT6_frame3835.jpg,3835,blip,prompt4,no,no,no,no,no,no,no,no,no,no,no,no,no
+IO19_frame1086.jpg,1086,blip,prompt4,blood pressure,no,no,no,no,no,no,no,no,no,blood pressure,no,legs
+TQ26_frame1389.jpg,1389,blip,prompt4,blood pressure,no,legs,no,blood pressure,no,no,no,no,no,blood pressure,no,legs
+IO20_frame105.jpg,105,blip,prompt4,blood pressure,blood pressure,blood,blood pressure,blood pressure,blood pressure,blood pressure,no,blood pressure,blood pressure,blood pressure,blood pressure,blood pressure
+ND6_frame556.jpg,556,blip,prompt4,blood pressure cuff,eye,eyes,no,blood pressure,eye,eye,no,no,no,blood pressure,eye,eye
+CT5_frame834.jpg,834,blip,prompt4,blood pressure,no,no,no,no,no,no,no,no,no,blood pressure,no,no
+TQ18_frame299.jpg,299,blip,prompt4,blood pressure,no,blood,blood,blood,no,eye,no,no,no,blood pressure,no,blood
+Cric18_frame1221.jpg,1221,blip,prompt4,blood pressure,no,no,no,no,no,no,no,no,no,blood pressure,no,eye
+IO11_frame121.jpg,121,blip,prompt4,blood pressure,no,no,no,no,no,no,no,no,no,blood,no,eye
+TQ27_frame1095.jpg,1095,blip,prompt4,blood pressure,blood,blood,blood,blood,blood,blood,no,blood,no,blood pressure,blood pressure,blood
+TQ3_frame1066.jpg,1066,blip,prompt4,blood pressure,blood pressure,blood pressure,blood pressure,blood pressure,blood pressure,blood pressure,no,blood pressure,blood pressure,blood pressure,blood pressure,blood pressure
+CT22_frame2994.jpg,2994,blip,prompt4,arm,eyes,eyes,no,blood pressure,eyes,eyes,no,no,no,blood pressure cuff,eyes,eye
+IO15_frame1549.jpg,1549,blip,prompt4,blood pressure,no,no,no,blood,no,no,no,no,no,blood pressure,no,blood
+IO11_frame1655.jpg,1655,blip,prompt4,blood pressure,no,no,no,no,no,no,no,no,no,blood pressure,no,legs
+ND29_frame587.jpg,587,blip,prompt4,blood pressure,eyes,eyes,eyes,blood pressure,eyes,eyes,no,no,wearing gloves,blood pressure,eyes,eye surgery
+TQ27_frame277.jpg,277,blip,prompt4,blood pressure,blood,blood,blood,blood,blood,blood,blood pressure,blood,blood pressure,blood pressure,blood pressure,blood
+ND33_frame254.jpg,254,blip,prompt4,blood pressure,eye,eyes,blood,blood,no,eye,no,no,no,blood pressure,eye,eye
+Cric25_frame465.jpg,465,blip,prompt4,blood pressure,no,no,no,no,no,no,no,no,no,blood pressure,no,first aid
+CT27_frame4935.jpg,4935,blip,prompt4,no,no,no,no,no,no,no,no,no,no,no,no,no
+CT6_frame2833.jpg,2833,blip,prompt4,blood pressure,no,no,no,no,no,no,no,no,no,blood pressure,no,no
+Cric28_frame679.jpg,679,blip,prompt4,blood pressure,no,no,no,no,no,no,no,no,no,blood pressure,no,no
+CT25_frame1022.jpg,1022,blip,prompt4,no,no,no,no,no,no,no,no,no,no,no,no,no
+Cric18_frame1986.jpg,1986,blip,prompt4,blood pressure,no,no,no,no,no,no,no,no,no,blood pressure,no,legs
+CT12_frame3318.jpg,3318,blip,prompt4,leg,no,no,no,heart,no,no,no,no,no,blood pressure,no,eye
+ND26_frame1232.jpg,1232,blip,prompt4,blood pressure,eye,eyes,knife,blood,no,eye,no,no,no,blood pressure,eye,x
+ND25_frame1742.jpg,1742,blip,prompt4,blood pressure,eye,eyes,blood,blood,eye,eye,no,no,no,blood pressure,eye,blood
+IO14_frame1452.jpg,1452,blip,prompt4,blood pressure,no,blood,blood,blood,no,no,no,no,no,blood,no,blood
+Cric13_frame2051.jpg,2051,blip,prompt4,blood pressure,no,no,no,no,no,no,no,no,no,blood pressure,no,eye
+IO3_frame577.jpg,577,blip,prompt4,blood pressure,no,no,no,blood pressure,no,no,no,no,no,blood pressure,no,legs
+CT11_frame3464.jpg,3464,blip,prompt4,blood pressure,no,no,no,blood,no,no,no,no,no,blood pressure,no,eye
+IO6_frame1872.jpg,1872,blip,prompt4,blood pressure,no,no,no,blood pressure,no,no,no,no,no,blood pressure,no,legs
+ND28_frame1052.jpg,1052,blip,prompt4,blood pressure,no,no,no,no,no,no,no,no,no,blood pressure,eye,eye
+CT28_frame7980.jpg,7980,blip,prompt4,no,no,no,no,no,no,no,no,no,no,no,no,no
+ND13_frame1647.jpg,1647,blip,prompt4,first aid,no,eyes,no,first aid,no,eye,no,no,no,first aid,eye,eye
+CT29_frame18810.jpg,18810,blip,prompt4,blood pressure,no,eyes,no,blood pressure,no,eyes,no,no,no,blood pressure,eyes,blood pressure
+Cric18_frame1678.jpg,1678,blip,prompt4,blood pressure,no,no,no,no,no,no,no,no,no,blood pressure,no,no
+Cric34_frame3832.jpg,3832,blip,prompt4,eye,eye surgery,eyes,scissors,scissors,eye,eye,scissors,eye,eye,eye,eye,eye surgery
+ND25_frame559.jpg,559,blip,prompt4,blood pressure,no,eyes,no,blood,no,no,no,no,no,blood pressure,no,blood
+TQ12_frame1772.jpg,1772,blip,prompt4,leg,no,no,no,blood,no,no,no,no,no,blood pressure,no,eye
+TQ3_frame1390.jpg,1390,blip,prompt4,blood pressure,eye,blood pressure,blood pressure,blood pressure,eye,eye,no,no,no,blood pressure,eye,blood pressure
+IO2_frame394.jpg,394,blip,prompt4,blood pressure,no,no,no,blood pressure,no,no,no,no,no,blood pressure,no,blood pressure
+TQ25_frame146.jpg,146,blip,prompt4,blood pressure cuff,wearing gloves,wearing gloves,no,blood pressure,wearing gloves,wearing mask,no,no,no,blood pressure,wearing gloves,blood pressure
+Cric18_frame1729.jpg,1729,blip,prompt4,blood pressure,no,no,no,no,no,no,no,no,no,blood pressure,no,first aid
+IO19_frame1660.jpg,1660,blip,prompt4,blood pressure,blood,blood,blood,blood,no,blood,no,no,no,blood,blood pressure,blood
+Cric14_frame2012.jpg,2012,blip,prompt4,blood pressure,no,no,no,no,no,no,no,no,no,blood pressure,no,no
+CT6_frame3832.jpg,3832,blip,prompt4,no,no,no,no,no,no,no,no,no,no,no,no,no
+Cric25_frame2.jpg,2,blip,prompt4,blood pressure,no,no,no,no,no,no,no,no,no,blood pressure,no,no
+IO12_frame483.jpg,483,blip,prompt4,blood pressure,no,no,no,no,no,no,no,no,no,blood pressure,no,eye
+IO2_frame498.jpg,498,blip,prompt4,blood pressure,no,no,no,blood pressure,no,no,no,no,no,blood pressure,no,legs

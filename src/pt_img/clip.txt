@@ -1,0 +1,23 @@
+Epoch 1: 100%|█| 4151/4151 [33:55<00:00,  
+Epoch 1 | Train Loss: 0.6335 | Val Loss: 2.2188 | Val F1: 0.8701
+Epoch 2: 100%|█| 4151/4151 [24:29<00:00,  
+Epoch 2 | Train Loss: 0.5066 | Val Loss: 1.8443 | Val F1: 0.8395
+Epoch 3: 100%|█| 4151/4151 [22:26<00:00,  
+Epoch 3 | Train Loss: 0.4282 | Val Loss: 1.5854 | Val F1: 0.8980
+Epoch 4: 100%|█| 4151/4151 [23:06<00:00,  
+Epoch 4 | Train Loss: 0.3738 | Val Loss: 1.4089 | Val F1: 0.9047
+Epoch 5: 100%|█| 4151/4151 [22:31<00:00,  
+Epoch 5 | Train Loss: 0.3343 | Val Loss: 1.2842 | Val F1: 0.9109
+Epoch 6: 100%|█| 4151/4151 [21:38<00:00,  
+Epoch 6 | Train Loss: 0.3032 | Val Loss: 1.1637 | Val F1: 0.9318
+Epoch 7: 100%|█| 4151/4151 [21:58<00:00,  
+Epoch 7 | Train Loss: 0.2774 | Val Loss: 1.0778 | Val F1: 0.9323
+Epoch 8: 100%|█| 4151/4151 [22:31<00:00,  
+Epoch 8 | Train Loss: 0.2562 | Val Loss: 1.0147 | Val F1: 0.9333
+Epoch 9: 100%|█| 4151/4151 [22:35<00:00,  
+Epoch 9 | Train Loss: 0.2377 | Val Loss: 1.0170 | Val F1: 0.9300
+Epoch 10: 100%|█| 4151/4151 [22:54<00:00, 
+Epoch 10 | Train Loss: 0.2209 | Val Loss: 0.9096 | Val F1: 0.9464
+
+Best Val F1: 0.9464 at Epoch 10
+Model saved to pt_model/clip_classifier.pt

@@ -1,0 +1,21 @@
+Epoch 1: 100%|█| 4151/4151 [47:37<00:00, 
+Epoch 1 | Train Loss: 0.1751 | Val Loss: 0.3355 | Val F1: 0.9760
+Epoch 2: 100%|█| 4151/4151 [27:22<00:00, 
+Epoch 2 | Train Loss: 0.0430 | Val Loss: 0.2373 | Val F1: 0.9856
+Epoch 3: 100%|█| 4151/4151 [27:51<00:00, 
+Epoch 3 | Train Loss: 0.0236 | Val Loss: 0.2342 | Val F1: 0.9825
+Epoch 4: 100%|█| 4151/4151 [28:39<00:00, 
+Epoch 4 | Train Loss: 0.0154 | Val Loss: 0.1534 | Val F1: 0.9868
+Epoch 5: 100%|█| 4151/4151 [28:40<00:00, 
+Epoch 5 | Train Loss: 0.0111 | Val Loss: 0.1340 | Val F1: 0.9921
+Epoch 6: 100%|█| 4151/4151 [28:52<00:00, 
+Epoch 6 | Train Loss: 0.0075 | Val Loss: 0.1282 | Val F1: 0.9926
+Epoch 7: 100%|█| 4151/4151 [28:59<00:00, 
+Epoch 7 | Train Loss: 0.0058 | Val Loss: 0.1731 | Val F1: 0.9885
+Epoch 8: 100%|█| 4151/4151 [25:08<00:00, 
+Epoch 8 | Train Loss: 0.0071 | Val Loss: 0.1469 | Val F1: 0.9914
+
+Early stopping at epoch 8 (no improvement for 2 epochs)
+
+Best Val F1: 0.9926 at Epoch 6
+Model saved to pt_model/vilt_classifier.pt
