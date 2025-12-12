@@ -1,0 +1,80 @@
+Number of videos: 71
+
+CT1.json has 3418 frames
+CT10.json has 3671 frames
+CT16.json has 4678 frames
+CT17.json has 8957 frames
+CT24.json has 4695 frames
+CT30.json has 19509 frames
+CT31.json has 6120 frames
+CT32.json has 3402 frames
+CT36.json has 3258 frames
+CT38.json has 1867 frames
+CT39.json has 8633 frames
+CT4.json has 4926 frames
+CT7.json has 8179 frames
+CT9.json has 42836 frames
+Cric1.json has 4165 frames
+Cric10.json has 3227 frames
+Cric16.json has 3027 frames
+Cric17.json has 2897 frames
+Cric24.json has 3012 frames
+Cric30.json has 9519 frames
+Cric31.json has 11470 frames
+Cric32.json has 3010 frames
+Cric36.json has 1834 frames
+Cric38.json has 7852 frames
+Cric39.json has 5858 frames
+Cric4.json has 2951 frames
+Cric40.json has 5426 frames
+Cric41.json has 4326 frames
+Cric7.json has 3257 frames
+Cric9.json has 3677 frames
+IO1.json has 2677 frames
+IO10.json has 2050 frames
+IO16.json has 2263 frames
+IO17.json has 2303 frames
+IO24.json has 6438 frames
+IO30.json has 1910 frames
+IO31.json has 2027 frames
+IO32.json has 1772 frames
+IO36.json has 1828 frames
+IO38.json has 1853 frames
+IO39.json has 4652 frames
+IO4.json has 2485 frames
+IO40.json has 1156 frames
+IO7.json has 2155 frames
+IO9.json has 2360 frames
+ND1.json has 2815 frames
+ND10.json has 3918 frames
+ND16.json has 1612 frames
+ND17.json has 1855 frames
+ND24.json has 1834 frames
+ND30.json has 1412 frames
+ND31.json has 1195 frames
+ND32.json has 1143 frames
+ND36.json has 1034 frames
+ND38.json has 1637 frames
+ND4.json has 2888 frames
+ND7.json has 2919 frames
+ND9.json has 2858 frames
+TQ1.json has 1495 frames
+TQ10.json has 2519 frames
+TQ16.json has 1201 frames
+TQ17.json has 1815 frames
+TQ24.json has 1557 frames
+TQ30.json has 4116 frames
+TQ31.json has 1667 frames
+TQ32.json has 1004 frames
+TQ36.json has 1151 frames
+TQ38.json has 3196 frames
+TQ4.json has 1213 frames
+TQ7.json has 1474 frames
+TQ9.json has 2852 frames
+
+Frame Statistics:
+Total frames: 289966
+Minimum frames: 1004
+Maximum frames: 42836
+Mean frames: 4084.03
+Std frames: 5505.35
